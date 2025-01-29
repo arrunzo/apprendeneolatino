@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="undefined"
+   height="undefined"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="people-hugging.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.015625"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="2480"
+     inkscape:window-height="1371"
+     inkscape:window-x="80"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <radialGradient
+     id="notoPeopleHugging0"
+     cx="71.353"
+     cy="54.761"
+     r="41.042"
+     gradientTransform="matrix(0.69520311,0.04696756,-0.04696756,0.69520311,24.492122,20.197003)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".47"
+       stop-color="#42A5F5"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#FCE8B2"
+       id="stop2" />
+  </radialGradient>
+  <path
+     fill="url(#notoPeopleHugging0)"
+     d="M 77.559123,35.811154 C 70.18014,35.316435 58.153582,42.68845 61.094026,60.12905 c 1.818617,10.779308 8.793463,16.109735 13.712785,16.444193 4.919323,0.334459 12.54915,-4.013498 15.803149,-14.45138 5.25378,-16.88317 -5.671853,-25.815989 -13.050837,-26.310709 z"
+     id="path2"
+     style="fill:url(#notoPeopleHugging0);stroke-width:0.696788" />
+  <linearGradient
+     id="notoPeopleHugging1"
+     x1="75.601"
+     x2="66.573"
+     y1="30.528"
+     y2="114.104"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.69678786,0,0,0.69678786,20.018382,31.825528)">
+    <stop
+       offset=".128"
+       stop-color="#FCE8B2"
+       id="stop3" />
+    <stop
+       offset=".64"
+       stop-color="#42A5F5"
+       id="stop4" />
+  </linearGradient>
+  <path
+     fill="url(#notoPeopleHugging1)"
+     d="M 102.19754,89.847052 C 99.305872,78.273406 90.463635,71.758439 80.889769,70.5739 c -3.818397,-0.473816 -7.692538,-0.641045 -11.483063,0.007 -0.884921,0.153293 -1.881328,0.571366 -2.766248,0.599237 -0.682852,0.0209 -22.478377,-8.368422 -23.391169,-8.681976 -2.550243,-0.898857 -7.78312,-0.710724 -9.873484,4.863579 -2.738376,7.295369 8.361455,12.542181 24.387575,25.084363 L 57.1084,118.22725 h 46.53846 c 0,0 0.75253,-19.572767 -1.44932,-28.380166 z"
+     id="path4"
+     style="fill:url(#notoPeopleHugging1);stroke-width:0.696788" />
+  <linearGradient
+     id="notoPeopleHugging2"
+     x1="28.109"
+     x2="63.83"
+     y1="135.296"
+     y2="46.551"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.69678786,0,0,0.69678786,20.018382,31.825528)">
+    <stop
+       offset="0"
+       stop-color="#0D47A1"
+       id="stop5" />
+    <stop
+       offset=".679"
+       stop-color="#1976D2"
+       id="stop6" />
+  </linearGradient>
+  <path
+     fill="url(#notoPeopleHugging2)"
+     d="M 82.150955,80.600677 C 80.060592,77.116738 75.357274,79.827243 73.789501,81.297465 62.640895,91.749283 60.06278,93.275248 57.791252,92.048902 57.101432,91.679604 55.742696,90.718037 52.063656,87.875142 48.384616,85.032248 35.466169,75.026374 35.466169,75.026374 22.923987,85.478192 25.73901,118.22722 25.73901,118.22722 H 57.1084 l 0.564398,-10.39607 c 3.957755,0.63407 6.960911,-0.72466 9.838645,-2.8429 5.302555,-3.91594 9.072177,-7.455628 12.542181,-13.238967 2.097331,-3.483939 4.187695,-7.664666 2.097331,-11.148606 z"
+     id="path6"
+     style="fill:url(#notoPeopleHugging2);stroke-width:0.696788" />
+  <radialGradient
+     id="notoPeopleHugging3"
+     cx="45.628"
+     cy="49.205"
+     r="46.585"
+     gradientTransform="matrix(0.64316009,-0.2680642,0.2680642,0.64316009,10.176579,46.062989)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".527"
+       stop-color="#1565C0"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#FADA80"
+       id="stop8" />
+  </radialGradient>
+  <path
+     fill="url(#notoPeopleHugging3)"
+     d="m 47.506663,37.33712 c -6.828521,2.842894 -14.305055,14.813709 -3.888076,29.111796 6.431352,8.83527 15.057585,10.493625 19.60761,8.598362 4.550025,-1.895263 9.441476,-9.190632 7.699506,-19.976908 C 68.096744,37.608867 54.335184,34.494225 47.506663,37.33712 Z"
+     id="path8"
+     style="fill:url(#notoPeopleHugging3);stroke-width:0.696788" />
+  <path
+     fill="#1976d2"
+     d="m 92.310122,73.75822 c 0,0 -7.365047,4.752094 -10.152199,-0.125421 -2.4945,-4.361892 4.947194,-8.884046 4.947194,-8.884046 2.16701,-1.24725 5.037776,-1.086989 6.661292,1.762874 1.944038,3.407292 0.710724,5.999343 -1.456287,7.246593 z"
+     id="path9"
+     style="stroke-width:0.696788" />
+</svg>

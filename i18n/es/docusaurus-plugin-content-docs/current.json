@@ -1,0 +1,122 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.1. Pronunciation": {
+    "message": "1. Pronunciation",
+    "description": "The label for category 1. Pronunciation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.2. Nouns and Gender": {
+    "message": "2. Nouns and Gender",
+    "description": "The label for category 2. Nouns and Gender in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3. Articles": {
+    "message": "3. Articles",
+    "description": "The label for category 3. Articles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.4. Pronouns": {
+    "message": "4. Pronouns",
+    "description": "The label for category 4. Pronouns in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.5. Possessives and Demonstratives": {
+    "message": "5. Possessives and Demonstratives",
+    "description": "The label for category 5. Possessives and Demonstratives in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.6. Indefinite Words": {
+    "message": "6. Indefinite Words",
+    "description": "The label for category 6. Indefinite Words in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.7. Adjectives": {
+    "message": "7. Adjectives",
+    "description": "The label for category 7. Adjectives in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.8. Adverbs": {
+    "message": "8. Adverbs",
+    "description": "The label for category 8. Adverbs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.9. Comparatives and Superlatives": {
+    "message": "9. Comparatives and Superlatives",
+    "description": "The label for category 9. Comparatives and Superlatives in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.10. Prepositions": {
+    "message": "10. Prepositions",
+    "description": "The label for category 10. Prepositions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.11. Conjunctions and Connectors": {
+    "message": "11. Conjunctions and Connectors",
+    "description": "The label for category 11. Conjunctions and Connectors in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.12. Questions and Exclamations": {
+    "message": "12. Questions and Exclamations",
+    "description": "The label for category 12. Questions and Exclamations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.13. Negative Words and Negation": {
+    "message": "13. Negative Words and Negation",
+    "description": "The label for category 13. Negative Words and Negation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.14. Syntax and Word Order": {
+    "message": "14. Syntax and Word Order",
+    "description": "The label for category 14. Syntax and Word Order in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.15. Capitalization and Punctuation": {
+    "message": "15. Capitalization and Punctuation",
+    "description": "The label for category 15. Capitalization and Punctuation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.16. The Present Tense and Conjugation": {
+    "message": "16. The Present Tense and Conjugation",
+    "description": "The label for category 16. The Present Tense and Conjugation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.17. The Past": {
+    "message": "17. The Past",
+    "description": "The label for category 17. The Past in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.18. The Gerund and the Progressive Tense": {
+    "message": "18. The Gerund and the Progressive Tense",
+    "description": "The label for category 18. The Gerund and the Progressive Tense in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.19. The Future and the Conditional Tenses": {
+    "message": "19. The Future and the Conditional Tenses",
+    "description": "The label for category 19. The Future and the Conditional Tenses in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.20. If Clauses and Hypothetical Sentences": {
+    "message": "20. If Clauses and Hypothetical Sentences",
+    "description": "The label for category 20. If Clauses and Hypothetical Sentences in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.21. The Subjunctive Mood": {
+    "message": "21. The Subjunctive Mood",
+    "description": "The label for category 21. The Subjunctive Mood in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.22. The Imperative": {
+    "message": "22. The Imperative",
+    "description": "The label for category 22. The Imperative in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.23. The Infinitive": {
+    "message": "23. The Infinitive",
+    "description": "The label for category 23. The Infinitive in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.24. Pronominal Verbs and Related Topics": {
+    "message": "24. Pronominal Verbs and Related Topics",
+    "description": "The label for category 24. Pronominal Verbs and Related Topics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.25. Numbers": {
+    "message": "25. Numbers",
+    "description": "The label for category 25. Numbers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.26. Dates and Time": {
+    "message": "26. Dates and Time",
+    "description": "The label for category 26. Dates and Time in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.27. Essere vs Estare": {
+    "message": "27. Essere vs Estare",
+    "description": "The label for category 27. Essere vs Estare in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.28. Miscellaneous Topics": {
+    "message": "28. Miscellaneous Topics",
+    "description": "The label for category 28. Miscellaneous Topics in sidebar tutorialSidebar"
+  }
+}

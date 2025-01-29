@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "APPRÈNDE NEOLATINO",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Romance Neolatino Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Lessons": {
+    "message": "Lecciones",
+    "description": "Navbar item with label Lessons"
+  },
+  "item.label.Resources": {
+    "message": "Recursos",
+    "description": "Navbar item with label Resources"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Conjugator": {
+    "message": "Conjugador",
+    "description": "Navbar item with label Conjugator"
+  },
+  "item.label.Online Dictionary (unofficial)": {
+    "message": "Diccionario en línea (no oficial)",
+    "description": "Navbar item with label Online Dictionary"
+  }
+}
