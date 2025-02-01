@@ -24,7 +24,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'arrunzo', // Usually your GitHub org/user name.
-  projectName: '/', // Usually your repo name.
+  projectName: 'apprendeneolatino', // Usually your repo name.
 
   headTags: [
     {
