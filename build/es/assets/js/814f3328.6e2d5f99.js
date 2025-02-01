@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7472],{7894:e=>{e.exports=JSON.parse('{"title":"Entradas recientes","items":[{"title":"Appr\xe8nde Neolatino \xe8st acora activo!","permalink":"/es/blog/welcome","unlisted":false,"date":"2025-01-29T00:00:00.000Z"}]}')}}]);
