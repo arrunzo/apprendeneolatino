@@ -18,7 +18,7 @@ const config = {
   url: 'https://apprendeneolatino.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/apprendeneolatino/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
