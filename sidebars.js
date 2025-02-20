@@ -21,7 +21,7 @@ const sidebars = {
   resourcesSidebar: [
     'resources/list_resources',
     'resources/presentations',
-    'resources/cheatsheets',
+    'resources/printable_materials',
   ]
 
   // But you can create a sidebar manually
