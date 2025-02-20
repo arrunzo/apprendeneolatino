@@ -3,7 +3,7 @@ displayed_sidebar: resourcesSidebar
 sidebar_position: 3
 ---
 
-# Cheatsheets
+# Printable Materials
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
