@@ -4,12 +4,22 @@ sidebar_position: 1
 
 # 4.1. Subject Pronouns
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+| SUBJECT PRONOUN     | TRANSLATION      |
+| :-------------:|:-------------:|
+| Èo | I |
+| Tu | You (singular, informal) |
+| Vós | You (singular, formal) |
+| Ello/Elle&emsp;&emsp;Ella | He&emsp;&emsp;She|
+| Nós / Nosaltros / Nosaltras | We |
+| Vós / Vosaltros / Vosaltras | You all (plural) |
+| Ellos / Ellas | They |
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+:::note
 
-## Create your first React Page
+In Neolatin, there is no such thing as an equivalent to the English word “it” in impersonal expressions.
 
-Create a file.
+:::
+| EXAMPLE     | TRANSLATION      |
+| :-------------:|:-------------:|
+| Èst importante. | It is important. |
+| Face frégedo. | It is cold. |
