@@ -82,7 +82,7 @@ But with “èssere-hi”, the conjugation must agree with the **quantity** of t
 ### The Partitive "Ne"
 | EXAMPLE 1 | TRANSLATION |
 | :-------------:|:-------------:|
-| Voles **de la torta**? | Do you want some **some cake**? |
+| Vòles **de la torta**? | Do you want some **some cake**? |
 | Sí, **ne** vòllîo un pauco. | Yes, I want some **of it**. |
 
 | EXAMPLE 2 | TRANSLATION |
