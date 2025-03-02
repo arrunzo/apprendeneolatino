@@ -337,39 +337,4 @@
     "message": "Etiquetas",
     "description": "The title of the tag list page"
   }
-      "theme.SearchBar.noResultsText": {
-      "message": "No hay resultados."
-    },
-    "theme.SearchBar.seeAllOutsideContext": {
-      "message": "Ver todos los resultados fuera de \"{context}\""
-    },
-    "theme.SearchBar.searchInContext": {
-      "message": "Ver todos los resultados dentro de \"{context}\""
-    },
-    "theme.SearchBar.seeAll": {
-      "message": "Ver todos los resultados"
-    },
-    "theme.SearchBar.label": {
-      "message": "Buscar",
-      "description": "The ARIA label and placeholder for search button"
-    },
-    "theme.SearchPage.existingResultsTitle": {
-      "message": "Resultados de búsqueda para \"{query}\"",
-      "description": "The search page title for non-empty query"
-    },
-    "theme.SearchPage.emptyResultsTitle": {
-      "message": "Buscar la documentación",
-      "description": "The search page title for empty query"
-    },
-    "theme.SearchPage.searchContext.everywhere": {
-      "message": "En todas partes"
-    },
-    "theme.SearchPage.documentsFound.plurals": {
-      "message": "1 documento encontrado|{count} documentos encontrados",
-      "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.SearchPage.noResultsText": {
-      "message": "No se encontró ningún documento",
-      "description": "The paragraph for empty search result"
-    },
 }
