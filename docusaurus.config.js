@@ -105,6 +105,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       image: 'img/docusaurus-social-card.jpg',
     navbar: {
       style: 'primary',
