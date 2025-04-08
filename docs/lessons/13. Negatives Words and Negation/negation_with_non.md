@@ -4,12 +4,49 @@ sidebar_position: 1
 
 # 13.1. Negation with "Non"
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+## 13.1.1. The Negative Adverb "Non"
+To negate a verb in Neolatin, use the adverb "**non**" before the verb.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+|       |     |
+|:-------------:|:-------------:|
+| **Non**  parlo neolatino. | I do **not** speak Neolatin. |
+| **Non**  havemos mangîato. | We have **not** eaten. |
 
-## Create your first React Page
+The same rule applies for interrogative sentences.
 
-Create a file.
+|       |     |
+|:-------------:|:-------------:|
+| Non has la clave? | Don't you have the key? |
+| Non lo has visto? | Haven't you seen it? / Didn't you see it? |
+| María non espera lo autobus? | Isn't Maria waiting for the bus? |
+| Lo bebé non dòrme? | The baby isn't sleeping? |
+
+## 13.1.2. Negative Responses to Questions
+If the answer to a question is negative, respond to the question with the answer "non", and use the adverb "non" to negate the verb.
+
+|       |     |
+|:-------------:|:-------------:|
+| Sapes como condúcere? | Do you know how to drive? |
+| Non, non sao. | No, I don't know. |
+
+|       |     |
+|:-------------:|:-------------:|
+| Vòles un pomo? | Do you want an apple? |
+| Non, non vòllîo un pomo. | No, I don’t want an apple. |
+
+:::note
+
+Remember that the word for “no” and “not” is both “non” in Neolatin.
+
+:::
+
+
+## 13.1.3. Using “Non” With Object Pronouns
+In the case of sentences with direct or indirect object pronouns, place the negative adverb "non" before all object pronouns.
+
+|       |     |
+|:-------------:|:-------------:|
+| Non lo conosco. | I don't know him. |
+| Non me parles. | Don't talk to me. |
+| Non me lo has mostrato. | You have not shown me it. |
+| Non se me haveva occorruto. | It had not occurred (itself) to me. |
