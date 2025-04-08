@@ -15,9 +15,9 @@ Neolatin presents articulated prepositions for the following simple prepositions
 
 |       | AD | DE | DA | EN |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **SINGULARE MASCULINO** | ad lo (/ad l’) / allo (all’) | de lo (/de l’) / dello (dell’) | da lo (/da l’) / dallo (dall’) | en lo (/en l') / nello (nell') |
-| **SINGULARE FEMENINA** | ad la (/ad l’) / alla (all’) | de la (/de l’) / della (dell’) | da la (/da l’) / dalla (dall’) | en la (/en l') / nella (nell') |
-| **SINGULARE NEUTRO** | ad lo (/ad l’) / allo (all’) | de lo (/de l’) / dello (dell’) | da lo (/da l’) / dallo (dall’) | en lo (/en l') / nello (nell') |
-| **PLURALE MASCULINO**  | ad los / allos | de los / dellos | da los / dallos | en los / nellos |
-| **PLURALE FEMENINO** | ad las / allas | de las / dellas | da las / dallas | en las / nellas |
+| **MASCULINE SINGULAR** | ad lo (/ad l’) / allo (all’) | de lo (/de l’) / dello (dell’) | da lo (/da l’) / dallo (dall’) | en lo (/en l') / nello (nell') |
+| **FEMININE SINGULAR** | ad la (/ad l’) / alla (all’) | de la (/de l’) / della (dell’) | da la (/da l’) / dalla (dall’) | en la (/en l') / nella (nell') |
+| **NEUTRAL SINGULAR** | ad lo (/ad l’) / allo (all’) | de lo (/de l’) / dello (dell’) | da lo (/da l’) / dallo (dall’) | en lo (/en l') / nello (nell') |
+| **MASCULINE PLURAL**  | ad los / allos | de los / dellos | da los / dallos | en los / nellos |
+| **FEMININE PLURAL** | ad las / allas | de las / dellas | da las / dallas | en las / nellas |
 
