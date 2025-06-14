@@ -4,12 +4,31 @@ sidebar_position: 1
 
 # 6.1. Indefinite Adjectives
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+These adjectives must agree with the **gender** and **quantity** of the corresponding noun (ex: ambas plantas, "both plants").
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+|                          |                        |
+|:------------------------:|:----------------------:|
+|           Pauco          |      Few / Little      |
+|     Altro / Un altro     |         Another        |
+| Alcuno / Alcún / Qualque |          Some          |
+|      Necuno / Necún      |           No           |
+|          Vàrios          |    Several / Various   |
+|          Múltiples       |        Multiple        |
+|           Cèrto          |    Certain (unknown)   |
+|        Determinato       |   Certain (specific)   |
+|           Toto           |   Every / All / Each   |
+|   Differènte / Divèrso   |   Different / Various  |
+|  Bastante / Sufficiènte  |         Enough         |
+|          Tròppo          |   Too many / Too much  |
+|           Ambos          |          Both          |
+|           Molto          | A lot of / Much / Many |
+|           Tale           |          Such          |
 
-## Create your first React Page
+These indefinite adjectives are **invariable**, which means that they never change to agree in gender or quantity with the noun it modifies.
 
-Create a file.
+|             |              |
+|:-----------:|:------------:|
+|  Qualonque  |      Any     |
+| Cata / Òmne |     Each     |
+|    Menos    | Fewer / Less |
+| Plus / Màis |     More     |
