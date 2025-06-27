@@ -11,6 +11,7 @@ sidebar_position: 3
 | Qualcausa altra / Qualcausa de altro |          Something else         |
 |           Ja èst qualcausa. / Èst ja qualcausa.          | It’s something. / It’s a start. |
 |    Havere qualcausa ad vedere con    |   To have something to do with  |
+|            Something is wrong.       |       Qualcausa non va.        |
 
 ## Necausa (Nothing)
 |                                                |                                               |
@@ -22,8 +23,9 @@ sidebar_position: 3
 |                   Per necausa                  |                     At all                    |
 |                  Quasi necausa                 |        Almost nothing / Hardly anything       |
 |             Non servire por necausa            | To be useless / To not be useful for anything |
-|          Havere necausa ad vedere con          |           To have nothing to do with          |
-|       Necausa inusuale / Necausa insòlita      |                Nothing unusual                |
+|          Non havere necausa ad vedere con          |           To have nothing to do with / To not have anything to do with          |
+|       Necausa (de) inusuale / Necausa (de) insòlito      |                Nothing unusual                |
+|       Non hi ha necausa (de) malo en...        |       There is nothing wrong with...          |
 
 ## Necuno (No one / Nobody)
 |                                                |                                               |
