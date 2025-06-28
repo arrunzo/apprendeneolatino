@@ -129,7 +129,7 @@ These words may be directly inherited, borrowed or a learned borrowing.
 | La torre | The tower |
 | La volpe | The fox |
 | La lege | The law |
-| La ape / La apecla | The bee |
+| La ape / La apecla / La apellîa | The bee |
 | La mòrte | The death |
 | La neve | The snow |
 | La nòcte | The night |
@@ -139,11 +139,12 @@ These words may be directly inherited, borrowed or a learned borrowing.
 | La semènte / La seme | The seed |
 | La sorore | The sister |
 | La superficie | The surface |
-| La aquila | The eagle |
+| La àquila | The eagle |
 | La síndrome | The syndrome |
 | La fronte | The forehead |
 | La carne | The meat |
 | La vocale | The vowel |
+| La tribú | The tribe |
 
 The genders of the words below are different in specific Romance languages:
 
