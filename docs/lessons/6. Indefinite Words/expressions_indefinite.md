@@ -23,7 +23,7 @@ In line with the diversity of Romance languages, the preposition "de" is optiona
 
 :::info
 
-A humorous version of the phrase "Qualcausa non quadra" is "Qualquadra non causa" or "Qualquadra que non causa" where part of the word "qualcausa" and "causa" are switched.
+A humorous version of the phrase "Qualcausa non quadra" is "Qualquadra non causa" or "Qualquadra que non causa" where part of the word "qualcausa" and "quadra" are switched.
 This is inspired by the Italian "Qualcosa non quadra" and its corresponding humorous version "Qualquadra non cosa".
 The mixture of elements is not only funny in its own right, but also derives humor in a situational context, where the speaker of the phrase emphasizes how suspicious a situation is with an equally strange phrase.
 
