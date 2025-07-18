@@ -103,9 +103,9 @@ Although the parent noun is a different noun, it is the type of thing the new no
 
 |       |       |
 |:-------------:|:-------------:|
-| Gomorra èst la mellîore! | Gomorra is the best! |
+| La casa de paperio èst la mellîore! | La casa de papel is the best! |
 
-The noun “mellîore” is feminine in this case because “Gomorra” is a “sèrie” (feminine gender).
+The noun “mellîore” is feminine in this case because “La casa de paperio” is a “sèrie” (feminine gender).
 
 
 ### Words of Latin Origin
@@ -129,7 +129,7 @@ These words may be directly inherited, borrowed or a learned borrowing.
 | La torre | The tower |
 | La volpe | The fox |
 | La lege | The law |
-| La ape / La apecla / La apellîa | The bee |
+| La ape / La apecla | The bee |
 | La mòrte | The death |
 | La neve | The snow |
 | La nòcte | The night |
@@ -139,7 +139,7 @@ These words may be directly inherited, borrowed or a learned borrowing.
 | La semènte / La seme | The seed |
 | La sorore | The sister |
 | La superficie | The surface |
-| La àquila | The eagle |
+| La aquila | The eagle |
 | La síndrome | The syndrome |
 | La fronte | The forehead |
 | La carne | The meat |
