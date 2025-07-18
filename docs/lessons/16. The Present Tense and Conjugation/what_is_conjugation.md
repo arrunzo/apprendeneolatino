@@ -4,12 +4,8 @@ sidebar_position: 1
 
 # 16.1. What Is Conjugation?
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Conjugation is the process of changing a verb to express information based on inflection. Inflection refers to changing a word to convey information, like the person (I, he/she, you, etc.), tense (past, present, future, etc.), number, gender and aspect.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+The infinitive is the most basic form of a verb. In Neolatin, verbs end in **-are**, **-ere** or **-ire**.
 
-## Create your first React Page
-
-Create a file.
+Neolatin has both regular verbs and irregular verbs. Although there are irregular verbs, Neolatin also allows regular verb conjugations in all cases for beginners. For now, we will focus on regular verb conjugations.
