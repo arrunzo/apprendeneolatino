@@ -27,7 +27,7 @@ If the answer to a question is negative, respond to the question with the answer
 |       |     |
 |:-------------:|:-------------:|
 | Sapes como condúcere? | Do you know how to drive? |
-| Non, non sao. | No, I don't know. |
+| Non, non sao. | No, I don't know how. |
 
 |       |     |
 |:-------------:|:-------------:|
@@ -46,7 +46,15 @@ In the case of sentences with direct or indirect object pronouns, place the nega
 
 |       |     |
 |:-------------:|:-------------:|
-| Non lo conosco. | I don't know him. |
 | Non me parles. | Don't talk to me. |
-| Non me lo has mostrato. | You have not shown me it. |
 | Non se me haveva occorruto. | It had not occurred (itself) to me. |
+| Non lo conosco. | I don't know him. |
+| Non me lo has mostrato. | You have not shown me it. |
+
+In the case of most verb tenses that have a clear subject performing the action (meaning, not an impersonal expression or the imperative), in addition to placing "non" before all object pronouns, place the subject pronoun before "non".
+|       |     |
+|:-------------:|:-------------:|
+| (Èo) non lo conosco. | I don't know him. |
+| (Tu) non me lo has mostrato. | You have not shown me it. |
+
+Keep in mind again that subject pronouns are usually not used with the conjugation.
