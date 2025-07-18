@@ -38,6 +38,6 @@ With all this information in mind, observe the examples below.
 |               Non me interessa necún libro. / Necún libro me interessa.               	|                  No book interests me.                 	|
 
 
-Both versions of the sentences above are equally valid. However, it is worth noting the following. Firstly, the first structure is more common in general and is therefore, the "safer" construction. One exception to this is the adverb "altronón", whose corresponding translations in Romance languages ("tampoco" in Spanish and "neanche/nemmeno/neppure" in Italian) tend to be placed at the beginning of the sentence.
+Both versions of the sentences above are equally valid and have the same meaning. However, it is worth noting the following. Firstly, the first structure is more common in general and is therefore, the "safer" construction. One exception to this is the adverb "altronón", whose corresponding translations in Romance languages ("tampoco" in Spanish and "neanche/nemmeno/neppure" in Italian) tend to be placed at the beginning of the sentence.
 
 Secondly, the second structure is more emphatic because the sentence starts with the negative word in question. Because this structure is less common, there is a risk of saying things that are structurally correct in theory, but would sound strange to native Romance speakers. For example, to saying "I do not want anything", the more natural translation would be "Non vòllîo necausa" instead of "Necausa vòllîo".
