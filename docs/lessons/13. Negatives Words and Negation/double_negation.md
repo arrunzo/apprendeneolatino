@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # 13.2. Double Negation
-A grammatical reality of Romance language is that it is not always enough to have simply have "non" at the beginning of the sentence to express negation. Some words that would be positive in a language like English must be negative in Neolatin.
+A grammatical reality of Romance language is that it is not always enough to simply have "non" at the beginning of the sentence to express negation. Some words that would be positive in a language like English must be negative in Neolatin.
 
 Observe this structure for negation:
 
