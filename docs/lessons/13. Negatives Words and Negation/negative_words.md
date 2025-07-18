@@ -24,6 +24,31 @@ sidebar_position: 4
 | Differènte / Divèrso | Different |
 | Menos (INVARIABLE) | Fewer / Less |
 
+### “Alcuno” in a Negative Sense
+
+The indefinite adjective of "alcuno", which is the counterpart of "necuno", can have a negative sense in some Romance languages.
+
+In Spanish, when "alguno" goes after the noun, it takes on a negative meaning.
+
+|       |     |
+|:-------------:|:-------------:|
+| No hay justificación alguna. / No hay ninguna justificación.| There is no justification. |
+
+That being said, in Spanish this use is more formal and less common compared to using "ninguna" before the noun.
+
+In Italian, the cognate "alcuno" can have both a positive meaning (equivalent to "qualche" in the sense of "some" when used in a positive sense) and a negative meaning (like the Italian word "nessuno" in negative sentences).
+
+|       |     |
+|:-------------:|:-------------:|
+| Non c'è alcun problema. / Non c'è nessun problema. / Non c'è problema. | There is no problem. |
+
+In Italian, "alcun" could even go after the noun like in Spanish. However, this is hardly done anymore compared to using "alcun" or "nessun" before the noun.
+
+In French, the cognate "aucun" is always negative, be it as an indefinite adjective (ex: Je n'en ai aucune idée.) or indefinite pronoun (ex: Aucun de mes amis). In fact, in informal speech, the indefinite adjective "ne", meaning "not", is dropped (ex: J'en ai aucune idée.)
+
+In regards to Neolatin, "necuno" is the most unambiguous and preferred adjective. However, in line with the diversity of Romance languages, some may want to use "alcuno" in a negative sense at times.
+
+
 ## 13.4.3. Negative Indefinite Pronouns
 |       |     |
 |:-------------:|:-------------:|
@@ -35,9 +60,9 @@ sidebar_position: 4
 |       |     |
 |:-------------:|:-------------:|
 | Mais plus tòsto / Si non | But rather |
-| Per non parlare de / Sene mentionare | Not to mention |
+| Per non parlare de... / Sene mentionare... | Not to mention |
 | Molto menos | Much less / Let alone |
-| Né...né | Neither...nor |
+| Né...né... | Neither...nor... |
 
 ## 13.4.5. Negative Prepositions
 |       |     |
