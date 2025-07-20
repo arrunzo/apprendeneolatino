@@ -161,7 +161,7 @@ const config = {
             },
             {
               label: 'Lessons',
-              to: '/docs/lessons/Pronunciation/alphabet',
+              to: '/docs/lessons/1-pronunciation/alphabet',
             },
             {
               label: 'Resources',
