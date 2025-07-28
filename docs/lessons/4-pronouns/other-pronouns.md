@@ -7,7 +7,7 @@ sidebar_position: 4
 The pronouns **hi** and **ne** replace previously mentioned information.
 
 ## 4.4.1. The Pronoun "Hi"
-### The Prononimal "Hi"
+### The Pronominal "Hi"
 The pronominal **hi** refers to previously mentioned information that comes after the prepositions **ad**, **en** or **sopre**.
 
 |  |  |
