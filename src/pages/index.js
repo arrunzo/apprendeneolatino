@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <Layout
       title={`Benvenito!`}
-      description=<Translate>"A free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages."</Translate>>
+      description=<Translate>A free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages.</Translate>>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
