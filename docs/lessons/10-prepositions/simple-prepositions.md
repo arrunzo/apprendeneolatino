@@ -3,82 +3,28 @@ sidebar_position: 1
 ---
 
 # 10.1. Simple Prepositions
-🚧 **EN CONSTRUCTIONE**
+|     SIMPLE PREPOSITION     |                                                                                  USE(S)                                                                                  |                                                                          EXAMPLE(S)                                                                         | TRANSLATION                                                                                                                                                        |
+|:--------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| De [Of/From]               | 1. Possession<br/>2. Material<br/>3. Origin<br/>4. Function or purpose                                                                                                      | 1. Cuesto libro èst de Marco.<br/>2. Lo sòlo èst de legno.<br/>3. Carles èst de Valèntia.<br/>4. Lèntes de sole.                                               | 1. This book is Marco’s.<br/>2. The floor is wooden.<br/>3. Carles is from Valencia.<br/>4. Sunglasses.                                                               |
+| Ad [To/At]                 | 1. State in a place<br/>2. Target<br/>3. Movement to a place (Cities)                                                                                                      | 1. Paula èst ad la escòla.<br/>2. Dai lo libro ad Davide.<br/>3. Demane vado ad Roma.                                                                         | 1. Paula is at school.<br/>2. I give the book to Davide.<br/>3. Tomorrow I will go to Rome.                                                                          |
+| En [In]                    | 1. Movement to a place (Continents, nations, states, regions and big islands)  			 <br/>2. Time (Months and years)  			 <br/>3. Position (Inside)  			 <br/>4. Time (After / Within) | 1. Cuesta estate vado en Italia.<br/>2. En septèmbre, complerai 20 [vinte] annos.<br/>3. Metto mèas causas en una cassa.<br/>4. Tornarai en 10 [dèce] minutos. | 1. This summer I will go to Italy.<br/>2. In September, I will turn 20 [twenty] years old.<br/>3. I put my things in a box.<br/>4. I will return in 10 [ten] minutes. |
+| Con [With]                 | 1. Company<br/>2. Instrument/Tool                                                                                                                                         | 1. Joco ad poker con mèo amico. 			 <br/>2. Escrivo con una pènna.                                                                                              | 1. I play poker with my friend.<br/>2. I write with a pen.                                                                                                          |
+| Sopre [On/About]           | 1. Position (On, with contact)<br/>2. Topic                                                                                                                               | 1. Lo libro èst sopre la mesa.<br/>2. Legei un artículo sopre la pressa tipogràfica.                                                                         | 1. The book is on the table.<br/>2. I read an article about the printing press.                                                                                     |
+| Entre [Between]            | 1. Position (Between)<br/>2. Comparisons/Alternatives                                                                                                                     | 1. La casa se tropa entre lo àrbore et lo flume.<br/>2. Non pòsso elégere entre rosso aut gàlbeno.                                                           | 1. The house is found between the tree and the river.<br/>2. I cannot choose between red or yellow.                                                                 |
+| Sene [Without]             | A lack of something                                                                                                                                                      | Volería una hamburghesa sene tomate.                                                                                                                        | I would like a hamburger without tomato.                                                                                                                           |
+| Còntra [Against]           | 1. Position (Physically against)<br/>2. Opposition (Opinion)<br/>3. Contrast                                                                                               | 1. La catèdra èst còntra la parete. 			 <br/>2. So còntra la initiativa.  			 <br/>3. La civtate pare pettitta còntra la montannîa.                                 | 1. The chair is against the wall.<br/>2. I am against the initiative.<br/>3. The city looks small against the mountain.                                              |
+| Vèrso [Toward]             | Direction                                                                                                                                                                | Lo vènto soffla vèrso lo mare.                                                                                                                              | The wind blows toward the sea.                                                                                                                                     |
+| Fine ad [Until/Up to]      | Limit                                                                                                                                                                    | Esperarai fine ad plus tarde.                                                                                                                               | I will wait until later.                                                                                                                                           |
+| Durante [During]           | 1. Simultaneity<br/>2. Duration                                                                                                                                           | 1. Hai preso moltas fotos durante lo festivale.<br/>2. Lo telèfono sonau durante hòras.                                                                      | 1. I took many pictures during the festival.<br/>2. The telephone rang for hours.                                                                                   |
+| Mediante [By means of]     | Medium                                                                                                                                                                   | Lo pagamènto se effectua mediante carta de crédito.                                                                                                         | Payment is made by credit card.                                                                                                                                    |
+| Secondo [According to]     | Determination                                                                                                                                                            | Secondo lo inditio, lo tesoro devería èssere accuí.                                                                                                         | According to the clue, the treasure should be here.                                                                                                                |
+| Sobto [Under/Below]        | Position (Under/Below)                                                                                                                                                   | La borsa èst sobto la mesa.                                                                                                                                 | The bag is under the table.                                                                                                                                        |
+| Pòs [After]                | 1. Sequence<br/>2. Time                                                                                                                                                   | 1. Mangîai patata pòs patata.<br/>2. Pòs lo concèrto, tornammos ad casa.                                                                                     | 1. I ate potato after potato.<br/>2. After the concert, we returned home.                                                                                           |
+| Vía [Via/By means of]      | Medium                                                                                                                                                                   | Nos parlamos vía pòsta electrònica.                                                                                                                         | We speak to each other via email.                                                                                                                                  |
+| Versus [Versus]            | Comparison/Opposition                                                                                                                                                    | La optione A versus la optione B.                                                                                                                           | Option A versus option B.                                                                                                                                          |
+| Dès (de) / Da [Since/From] | 1. Point of origin<br/>2. Duration (Actions that started in the past and still happen)<br/>3. Extension (From...up to…)                                                    | 1. Se vede la casa dès de la estrata.<br/>2. Studio japonese dès de 5 [cinque] annos.<br/>3. Dès de 5 [cinque] mètros fine ad 10 [dèce] mètros.               | 1. The house can be seen from the street.<br/>2. I have been studying Japanese for 5 [five] years.<br/>3. From 5 [five] meters up to 10 [ten] meters.                |
+:::note
+1. With the verb "parlare", use the preposition "de". For example: "Estao parlando de libros." which means "I am talking about books." [Literally: "I am speaking of books."] That being said, "parlare sopre" is also possible, following the possibilities in Spanish and Portuguese.
+2. To differentiate between the preposition “da” and the conjugation of the verb “dare” in the third person, the letter A with a grave accent mark is used (“dà”). For example: Marco dà lo libro ad Elena. [Marco gives the book to Elena.]
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
-
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
-
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
-
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
-
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
-
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
-
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
-
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
-
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
-
-## 🇮🇹 ITALIANO
-In costruzione 🙂
-
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
-
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
-
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
-
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
-
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
-
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
-
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
-
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
-
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
-
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
-
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
-
-## 🇵🇱 POLSKI
-W budowie 🙂
-
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
-
-
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
-
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
-
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
-
-## 🇨🇳 中文
-正在建设中 🙂
-
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
-
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
-
-## 🇯🇵 日本語
-工事中 🙂
-
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
-
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+:::
