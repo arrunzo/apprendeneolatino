@@ -3,82 +3,81 @@ sidebar_position: 2
 ---
 
 # 10.2. More Explanations
-🚧 **EN CONSTRUCTIONE**
+Some prepositions across different Romance languages are used in a particular way depending on the language. This section discusses these inconsistencies and provides recommendations for maximum intercomprehension in Neolatin.
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
+## 10.2.1. Ad vs En
+|                                     USE                                    | LANGUAGE(S). |                                             EXAMPLE                                            |                              TRANSLATION                             | RECOMMENDATION |
+|:--------------------------------------------------------------------------:|----------------------------------------|:----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------:|
+| Movement to a place <br/>(Continents, nations, states, regions and big islands) | 🇪🇸 Spanish<br/> 🇵🇹 Portuguese<br/>🇦🇩 Catalan | - Este verano voy a Italia.<br/>- Neste verão irei para a Itália.<br/>- Aquest estiu vaig a Itàlia. |  Cuesta estate vado en Italia.<br/>[This summer I will go to Italy.]  |       En       |
+|                           Time (Months and years)                          |         🇮🇹 Italian<br/>🇦🇩 Catalan         |            - A febbraio sono andato a Valencia.<br/>- Al febrer vaig anar a València.           | En febrario vadei ad Valèntia.<br/>[In February, I went to Valencia.] |       Ad       |
+|                              State in a place                              | 🇪🇸 Spanish<br/> 🇵🇹 Portuguese<br/>🇦🇩 Catalan |       - Paula está en la escuela.<br/>- Paula está na escola.<br/>- La Paula és a l'escola.      |           Paula èst ad la escòla.<br/>[Paula is at school.]           |       Ad       |
+|                             Rooms and buildings                            |                🇮🇹 Italian               |                                        - Vado in bagno.                                        |            - Vado ad lo bannîo.<br/>[I go to the bathroom.]           |       Ad       |
 
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
+## 10.2.2. Dès (de) vs Dà
+Although “dès (de)” and “dà” have some of the same uses, “dà” has many uses particular to Italian that make it not a perfect cognate with prepositions that are otherwise equivalent in other languages.
 
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
+The following table lists particular uses of “da” in Italian and recommendations for Neolatin equivalents.
 
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
+|                                USE                                |             EXAMPLE            |                                     TRANSLATION                                     | RECOMMENDATION |
+|:-----------------------------------------------------------------:|:------------------------------:|:-----------------------------------------------------------------------------------:|:--------------:|
+|                        Movement or function                       |        Scendo dal treno.       |                     Descèndo de lo trèno.<br/>[I get off the train.]                    |       De       |
+|                              Distance                             |   A cinque chilometri da qui.  |             Ad cinque kilòmetros de accuí.<br/>[Five kilometers from here.]             |       De       |
+| In the sense of “at” (The shop, someone’s house or the workplace) |        Sono dal medico.        |                       So ad lo mèdico.<br/>[I am at the doctor’s.]                      |       Ad       |
+|                        Purpose or function                        |        Occhiali da sole.       |                            Lèntes de sole.<br/>[Sunglasses.]                            |       De       |
+|                            Descriptions                           |  Un computer da duecento euro. |        Un computatore de doos-cèntos euros.<br/>[A two hundred dollar computer.]        |       De       |
+|              An equivalent of the conjunction “como”              | Da amico devo dirti la verità. | Como amico devo dícere-te la veritate.<br/>[As a friend, I have to tell you the truth.] |      Como      |
 
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
+## 10.2.3. En vs Sopre
+In Spanish and Portuguese, “en” means “in” (as in “inside”) and “on” (“on” or “on top of” with contact). Other ways of expressing the same concept are the compound preposition “encima de”/”em cima de” and the simple preposition “sobre”.
+For example, observe the sentence “The book is on the table.” in Spanish and Portuguese.
 
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
+🇪🇸 Spanish: El libro está en la mesa. / El libro está encima de la mesa. / El libro está sobre la mesa.
 
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
+🇵🇹 Portuguese: O livro está na mesa. / O livro está em cima da mesa. / O livro está sobre a mesa.
 
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
+The table below discusses the nuances of each preposition.
 
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
+|                               | Inside | On / On top of (With contact) | Above (Without contact) |                                                                                                                                                      Notes                                                                                                                                                      |
+|:-----------------------------:|--------|:-----------------------------:|:-----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         🇪🇸 En<br/>🇵🇹 Em        |    ✅   |               ✅               |            ❌            |                                                                                                             The most common way of saying “on” (with contact). It also commonly means “in” (inside).                                                                                                            |
+| 🇪🇸 Encima de<br/>🇵🇹 Em cima de |    ❌   |               ✅               |            ✅            | It has both the meaning of “on” (with contact) and “above” (without contact), but the meaning of “on” (with contact) is more common. This is probably because “cima” means “peak” and the preposition also has the associated meaning of being “at the top” of something, like a tower, building or a mountain. |
+|          🇪🇸 🇵🇹 Sobre          |    ❌   |               ✅               |            ✅            |                                                               This preposition is seen as more formal in Spanish and Portuguese. Although it is synonymous with the other prepositions, it normally has the meaning of “above” (without contact).                                                               |
 
-## 🇮🇹 ITALIANO
-In costruzione 🙂
+Observe the same sentence in other Romance languages.
 
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
+|                              Language                              |                                                                                                                                                                                                                                                                                                                                                                                                                                           Notes                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|              🇦🇩 Catalan: El llibre és sobre la taula.              |                                                                                                                                                                                                                                                                                                                                                                                                                   “Sobre” in Catalan normally refers to direct contact.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                🇫🇷 French: Le livre est sur la table.               |                                                                                                                                                                                                                                                                                                                                                                                                                         “Sur” in French refers to direct contact.                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 🇮🇹 Italian: Il libro è sulla tavola. / Il libro è sopra la tavola. | Italian has two prepositions of interest: “su” and “sopra”. Both can mean “on” with direct contact.<br/><br/>In theory, both can mean “above” (without contact). However, in reality, it is much more common to use “sopra” to mean “above” (without contact). <br/><br/>Furthermore, similar to Spanish and Portuguese, there is the compound preposition “in cima a”, which refers to being “at the top” of things like a mountain, tower or building. The difference is that it is less common for Italian speakers to use “in cima a” for casual discussions of direct contact (“on”).<br/><br/>It is worth noting that, similar to Spanish and Portuguese, Italian uses the preposition “in”. However, this is only in fixed expressions.<br/>For example, "Il libro è in tavola" is not valid in Italian, but “in tavola” is valid in the specific fixed expression “È pronto in tavola!” |
+|                  🇷🇴 Romanian: Cartea este pe masă.                 |                                                                                                                                                                                                                                                                                                           “Pe” was inherited from Latin “per”, but underwent a change of meaning due to influence by Latin “super”. In terms of meaning, it means “on” (with contact) and also shares meanings from “per” with other Romance languages, such as “through” and “approximately”.                                                                                                                                                                                                                                                                                                           |
 
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
+In Neolatin, “sopre” is the preposition that refers the position of an object as “on” another object, with contact.
 
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
+|                             |                           |
+|:---------------------------:|:-------------------------:|
+| Lo libro èst sopre la mesa. | The book is on the table. |
 
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
+For situations without contact, the recommended preposition is “enalto de”.
+|                                  |                                  |
+|:--------------------------------:|:--------------------------------:|
+| Lo avione èst enalto de la casa. | The airplane is above the house. |
 
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
+Lastly, Neolatin reserves the preposition “en” with the sense of "inside".
+|                                  |                                  |
+|:--------------------------------:|:--------------------------------:|
+| Lo libro èst en la cassa. | The book is in the box. |
 
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
+For even more specificity, the preposition "dentro (de)" also exists.
+|                                  |                                  |
+|:--------------------------------:|:--------------------------------:|
+| Lo libro èst dentro de la cassa. | The book is inside the box. |
 
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
+Lastly, the question of "en" and "sopre" poses a problem when describing position.
+A language like Italian has both "su" and "sopra". Neolatin only has "sopre". Besides referring to the position of being on something with contact, "sopre" is also used to refer to a topic. A way to avoid ambiguity is to use the preposition "en" instead of "sopre".
 
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
+|                                  |                                  |
+|:--------------------------------:|:--------------------------------:|
+| Un vídeo en Internet. | A video on the Internet. |
 
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
-
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
-
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
-
-## 🇵🇱 POLSKI
-W budowie 🙂
-
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
-
-
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
-
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
-
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
-
-## 🇨🇳 中文
-正在建设中 🙂
-
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
-
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
-
-## 🇯🇵 日本語
-工事中 🙂
-
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
-
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+Note that this use is more Iberian, but for this context, it suffices in Neolatin because Neolatin only has "sopre". Otherwise, this sentence would describe a video whose topic relates to the Internet.
