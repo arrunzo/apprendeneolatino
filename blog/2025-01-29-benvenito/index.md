@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Apprènde Neolatino èst acora activo!
-authors: [slorber, yangshun]
+authors: [jvastola]
 tags: [facebook, hello, docusaurus]
 ---
 
