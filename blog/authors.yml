@@ -1,12 +1,10 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+jvastola:
+  name: Jake Vastola
+  title: Documentation Specialist
+  url: https://www.apprendeneolatino.com/
+  image_url: https://images.pexels.com/photos/3804997/pexels-photo-3804997.jpeg
   page: true
-  socials:
-    x: yangshunz
-    github: yangshun
+
 
 slorber:
   name: Sébastien Lorber
