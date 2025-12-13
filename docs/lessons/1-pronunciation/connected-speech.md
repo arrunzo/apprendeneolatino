@@ -3,6 +3,7 @@ sidebar_position: 7
 ---
 
 # 1.7. Connected Speech
+1
 🚧 **EN CONSTRUCTIONE**
 
 ## 🇬🇧 🇺🇸 ENGLISH
