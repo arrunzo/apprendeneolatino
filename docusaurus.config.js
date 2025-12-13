@@ -66,7 +66,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          routeBasePath: "/",
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -162,15 +162,15 @@ const config = {
             },
             {
               label: 'Lessons',
-              to: '/docs/lessons/pronunciation/alphabet',
+              to: '/lessons/pronunciation/alphabet',
             },
             {
               label: 'Resources',
-              to: '/docs/resources/list_resources',
+              to: '/resources/list_resources',
             },
             {
               label: 'FAQ',
-              to: '/docs/lessons/faq',
+              to: '/lessons/faq',
             },
           ],
         },
