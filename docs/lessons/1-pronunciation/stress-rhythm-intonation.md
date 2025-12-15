@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 ---
 
-# 1.5. Stress, Rhythm and Intonation
+# 1.7. Stress, Rhythm and Intonation
 🚧 **EN CONSTRUCTIONE**
 
 ## 🇬🇧 🇺🇸 ENGLISH
