@@ -1,8 +1,8 @@
 ---
-sidebar_position: 7
+sidebar_position: 9
 ---
 
-# 1.7. Connected Speech
+# 1.9. Connected Speech
 🚧 **EN CONSTRUCTIONE**
 
 ## 🇬🇧 🇺🇸 ENGLISH
