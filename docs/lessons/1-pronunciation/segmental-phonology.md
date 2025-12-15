@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 1.4. Segmental Phonology
 🚧 **EN CONSTRUCTIONE**
-//
+
 ## 🇬🇧 🇺🇸 ENGLISH
 Under construction 🙂
 
