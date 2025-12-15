@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 1.2. Vowels and Diphthongs
+# 1.2. Vowels
 🚧 **EN CONSTRUCTIONE**
 
 ## 🇬🇧 🇺🇸 ENGLISH
