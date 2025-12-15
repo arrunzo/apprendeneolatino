@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# 1.4. Graphemes
+# 1.5. Graphemes
 
 | GRAPHEME | SOUND | EXAMPLE | TRANSCRIPTION |
 |:--------:|:-----:|:-------:|:-------------:|
