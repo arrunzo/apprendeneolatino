@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+sidebar_position: 8
 ---
 
-# 1.6. Phonotactic Constraints
+# 1.8. Syllables
 🚧 **EN CONSTRUCTIONE**
 
 ## 🇬🇧 🇺🇸 ENGLISH
