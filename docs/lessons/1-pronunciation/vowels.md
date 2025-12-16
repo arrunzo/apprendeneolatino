@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 1.2. Vowels
+# 1.2. Vowels ✅
 
 ## 1.2.1. Basic Vowels
 A vowel is a speech sound produced with little restriction in the vocal tract.
