@@ -202,8 +202,7 @@ Use "havere" as the auxiliary verb when a direct object is involved.
 | Devenire | To become |
 | Restare | To stay / To remain |
 | Remanere | To stay / To remain |
-| Engrassare-se | To become fat |
-| Engrassare-se | To become fat |
+| [verb]-se | To become [something] |
 
 Examples:
 |                                 |                     |
