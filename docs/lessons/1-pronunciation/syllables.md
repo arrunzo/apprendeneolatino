@@ -2,83 +2,161 @@
 sidebar_position: 8
 ---
 
-# 1.8. Syllables
-🚧 **EN CONSTRUCTIONE**
+# 1.8. Syllables ✅
+## 1.8.1. What Is a Syllable?
+A syllable is a unit of organization for sequences of speech sound.
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
+There are two types of syllables:
 
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
+1. Open syllable: A syllable that ends in a vowel (ex: "si")
+2. Closed syllable: A syllable that ends in a consonant (ex: "con")
 
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
+Furthermore, a syllable consists of three elements:
+1. Onset: The initial consonant sound or sounds that go before the nucleus.
+2. Nucleus: The central, most prominent part of a syllable. It contains a vowel or combination of vowels (diphthong or triphtong). It is the only obligatory part of a syllable.
+3. Coda: The final consonant sound or sounds that follow the nucleus.
 
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
+Read below for the rules that decide syllables in Neolatin.
 
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
+## 1.8.2. Rules for Syllabification
 
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
+### 1. Consonant Between Two Vowels (Simple Consonant)
+A simple consonant in front of a vowel accompanies the vowel that follows it.
 
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
+|  Word  | Syllabification | Narrow IPA Transcription |
+|:------:|:---------------:|:------------------------:|
+|   Amo  |       a.mo      |          [ˈa.mo]         |
+|  Casa  |      ca.sa      |         [ˈka.sa]         |
+|  Tèma  |      tè.ma      |         [ˈt̪ɛ.ma]         |
+| Banana |     ba.na.na    |        [baˈna.na]        |
 
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
+### 2. Two Consonants Between Vowels
+#### a. Unbreakable Consonant Clusters
+The combinations of consonants below must belong to the same syllable.
+##### i. Bilabial or Labiodental Consonants With a Liquid Consonant: (`<b, f, p, v>`) + (`<l, r>`)
+| Graphic Representation | IPA Transcription |  Example | Syllabification | Narrow IPA Transcription |
+|:----------------------:|:-----------------:|:--------:|:---------------:|:------------------------:|
+|         `<bl>`         |        /bl/       | Oblitare |   o.bli.ta.re   |       [o.bliˈt̪a.ɾe]      |
+|         `<br>`         |        /bɾ/       |   Zebra  |      ze.bra     |   [ˈze.bɾa] / [ˈʣe.bɾa]  |
+|         `<pl>`         |        /pl/       |   Plato  |      pla.to     |         [ˈpla.t̪o]        |
+|         `<pr>`         |        /pɾ/       |  Aprire  |     a.pri.re    |        [aˈpɾi.ɾe]        |
+|         `<fl>`         |        /fl/       |   Flore  |      flo.re     |         [ˈflo.ɾe]        |
+|         `<vl>`         |        /vl/       | Vladimir |    vla.di.mir   |       [vla.d̪iˈmiɾ]       |
+|         `<vr>`         |        /vɾ/       |  Havría  |     a.vrí.a     |         [aˈvri.a]        |
 
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
+##### ii. Velar Consonant With a Liquid Consonant: (`<g, c>`) + (`<l, r>`)
+| Graphic Representation | IPA Transcription | Example | Syllabification | Narrow IPA Transcription |
+|:----------------------:|:-----------------:|:-------:|:---------------:|:------------------------:|
+|          `<gl>`          |        /gl/       |  Globo  |      glo.bo     |         [ˈglo.bo]        |
+|          `<gr>`          |        /gɾ/       |  Grado  |      gra.do     |         ['gra.d̪o]        |
+|          `<cl>`          |        /kl/       | Clamare |    cla.ma.re    |        [klaˈma.ɾe]       |
+|          `<cr>`          |        /kɾ/       | Crédere |    cré.de.re    |       [ˈkre.d̪e.ɾe]       |
 
-## 🇮🇹 ITALIANO
-In costruzione 🙂
+##### iii. Dental Consonant With Alveolar Flap: (`<dr>`, `<tr>`)
+| Graphic Representation | IPA Transcription | Example | Syllabification | Narrow IPA Transcription |
+|:----------------------:|:-----------------:|:-------:|:---------------:|:------------------------:|
+|          `<dr>`          |        /dɾ/       | Dragone |    dra.go.ne    |        [d̪raˈgo.ne]       |
+|          `<tr>`          |        /tɾ/       |  Matre  |      ma.tre     |         [ˈma.t̪ɾe]        |
 
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
+#### b. Geminates
+The first consonant of the geminated sequence goes at the end of the first syllable, while the second consonant goes at the start of the second syllable.
 
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
+|     Word     |  Syllabification | Narrow IPA Transcription |
+|:------------:|:----------------:|:------------------------:|
+|     Vacca    |      vac.ca      |         [ˈvak.ka]        |
+|    Gruppo    |      grup.po     |        ['gɾup.po]        |
+|  Differènte  |   dif.fe.rèn.te  |      [dif.fe.ɾen̪.t̪e]     |
+| Interessante | in.te.res.san.te |    [in̪.t̪e.ɾes'san̪.t̪e]    |
 
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
+#### c. Exception: Digraphs (ex: `<ch, gh, rr>`)
+Digraphs represent one phoneme graphically. Therefore, they cannot be separated into separate syllables.
+|   Word  | Syllabification | Narrow IPA Transcription |
+|:-------:|:---------------:|:------------------------:|
+|  Tèrra  |      tè.rra     |         [ˈt̪ɛ.ra]         |
+| Màchina |    mà.chi.na    |        [ˈma.ki.na]       |
 
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
-
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
-
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
-
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
-
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
-
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
-
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
-
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
-
-## 🇵🇱 POLSKI
-W budowie 🙂
-
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
+#### d. Groups of Consonants Not Allowed at the Start of a Word
+In the cases of sequences that cannot exist at the start of a word (ex: "nt"), the first consonant goes with the first vowel and the second consonant goes with the second vowel.
+|   Word  | Syllabification | Narrow IPA Transcription |
+|:-------:|:---------------:|:------------------------:|
+| Artista |    ar.tis.ta    |        [aɾˈt̪is.t̪a]       |
+|  Cònto  |      còn.to     |         [ˈkɔn̪.t̪o]        |
+|  Facto  |      fac.to     |         [ˈfak.t̪o]        |
+|  Cerca  |      cer.ca     |         [ˈʧeɾ.ka]        |
 
 
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
+### 3. Three or More Consonants Between Two Vowels
+The first consonant usually stays with the preceding vowel and the next two form a syllable with the next vowel.
 
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
+|    Word   | Syllabification | Narrow IPA Transcription |
+|:---------:|:---------------:|:------------------------:|
+|  Anglese  |    an.gle.se    |        [an̪ˈgle.se]       |
+|   Còntra  |     còn.tra     |        [ˈkɔn̪.t̪ɾa]        |
+| Englobare |   en.glo.ba.re  |      [en̪.gloˈba.ɾe]      |
 
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
+### 4. Hiatus: Two Strong Vowels Belong to Two Different Syllables
+|    Word   | Syllabification | Narrow IPA Transcription |
+|:---------:|:---------------:|:------------------------:|
+|    Día    |       dí.a      |          [ˈd̪i.a]         |
+|  Vehículo |   ve.hí.cu.lo   |       [veˈi.ku.lo]       |
+|   Leone   |     le.o.ne     |         [leˈo.ne]        |
+| Continuum |   con.ti.nu.um  |      [kon̪ˈt̪i.nu.um]      |
 
-## 🇨🇳 中文
-正在建设中 🙂
+### 5. Diphthongs Belong to the Same Syllable
+|  Word | Syllabification | Narrow IPA Transcription |
+|:-----:|:---------------:|:------------------------:|
+|  Mais |       mais      |          [ˈmajs]         |
+| Guida |      gui.da     |         [ˈɡwi.d̪a]        |
+| Piano |      pia.no     |         [ˈpja.no]        |
 
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
+### 6. Triphthongs Belong to the Same Syllable
+|   Word  | Syllabification | Narrow IPA Transcription |
+|:-------:|:---------------:|:------------------------:|
+| Cambiai |     cam.biai    |        [kamˈbjaj]        |
+|   Miau  |       miau      |          [ˈmjau]         |
 
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
+### 7. Special Case: S + Consonant(s)
+If a consonant cluster consisting of S and one or more consonants is in the middle of a word, the S may join the first syllable or stay with the consonant in the second syllable.
 
-## 🇯🇵 日本語
-工事中 🙂
+|   Word   |     Syllabification     |   Narrow IPA Transcription  |
+|:--------:|:-----------------------:|:---------------------------:|
+|   Basta  |     bas.ta / ba.sta     |    [ˈbas.t̪a] / [ˈba.st̪a]    |
+| Mostrare | mos.tra.re / mo.stra.re | [mosˈt̪ɾa.ɾe] / [moˈst̪ɾa.ɾe] |
+|   Còsta  |     cos.ta / co.sta     |    [ˈkɔs.t̪a] / [ˈkɔ.st̪a]    |
 
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
+## 1.8.3. Epenthesis?
+Epenthesis is the addition of one or more sounds to a word. The most common type of epenthesis is prothesis, which is the addition of a sound in the first syllable of a word. 
 
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+For example, Romance languages of Iberia (Portuguese, Spanish, Catalan) and Occitan place an “E” before a consonant cluster that starts with an S. For example, Sprite is pronounced as [es.pɾajt]. This is because the onset of a syllable in these languages, no matter if the syllable is the first syllable of a word or inside the word, does not allow consonant clusters of consonants starting with “S”, like “st”, “str” and “spl”, even though these consonant clusters existed in Latin.
+
+As a comparison between modern Romance languages, Romance languages of Iberia and Occitan, except for recent borrowings, always place an “E” at the beginning of a word, regardless if the word was inherited or borrowed. 
+
+French shows prothesis for inherited words (ex: école) and lacks it for borrowed words (ex: sclérose). Italian tends to eliminate vowels or consonants at the beginning of a word, resulting in consonant clusters that sometimes did not exist in Latin. This is seen in words that had the prefix “ex” or “dis”, like in the word "sfruttare". 
+
+However, it is interesting to note that even Italian evolved prothesis before it was lost. For example, "iscritto" instead of modern Italian "scritto". That being said, modern Italian contains vestiges of prothesis in certain set phrases where the word before ends in a consonant, like "per iscritto".
+
+Brazilian Portuguese shows different applications of epenthesis.
+Brazilian Portuguese sometimes demonstrates epenthesis in the middle of a word (ex: "hipnose", [i.piˈnɔ.zi]. Similarly, in spoken Italian, one may hear the word “aritmetica” as “aritimetica” [a.ɾi.tiˈmeːti.ka]. Brazilian Portuguese also has paragoge, which is epenthesis at the end of a word (ex: "pop", [ˈpɔ.pi]). An example of more than one type of epenthesis is the word “swing”, which is pronounced as [sʊˈĩ.ɡi], which has both prothesis and paragoge.
+
+In Neolatin, prothesis (epenthesis at the beginning of a word) is seen in inherited words (ex: "escòla", "estare", "esperare", "estella").
+
+In contrast, words borrowed from Latin lack the extra vowel (ex: "splèndido", "sclerose", "stellare").
+
+This also results in doublets, where each word, depending on its origin as an inherited word or a loanword, has a different meaning.
+
+|  Word  |           Meaning          |
+|:------:|:--------------------------:|
+| Estato | The condition of something |
+|  Stato |    The political entity    |
+| Status |           Status           |
+
+In Neolatin, a consonant cluster containing "S" and another consonant is phonologically possible in the onset of a syllable. Because of this, the syllabification of "S" with the accompanying consonant or separate from it are both possible options in the middle of a word.
+
+At the beginning of a word, in such a cluster, the spelling is mandatory. Optionally, it is possible to pronounce it with prothesis, inserting an "E" at the beginning of the word.
+
+## 1.8.4. Phonotactics
+Phonotactics is the study of the ways in which phonemes are allowed to combine in a particular language; in other words, the order of sounds that is possible.
+
+Below is a graphical representation of Neolatin's permissible phonotactics.
+
+![Phonotactics summary](/img/phonotactics-summary-en.png)
