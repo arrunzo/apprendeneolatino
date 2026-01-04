@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 1.4. Segmental Phonology
+# 1.4. Segmental Phonology ✅
 
 ## 1.4.1. Phonemes Ordered by Manner of Articulation
 Segmental phonology is a subfield of phonology that focuses on how phonemes (individual sound segments) make up spoken language. Some phonemes, depending on their position relative to other sound segments, may have allophones.
