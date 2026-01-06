@@ -155,6 +155,9 @@ In Neolatin, a consonant cluster containing "S" and another consonant is phonolo
 At the beginning of a word, in such a cluster, the spelling is mandatory. Optionally, it is possible to pronounce it with prothesis, inserting an "E" at the beginning of the word.
 
 ## 1.8.4. Phonotactics
+### Onset
+### Nucleus
+### Coda
 Phonotactics is the study of the ways in which phonemes are allowed to combine in a particular language; in other words, the order of sounds that is possible.
 
 Below is a graphical representation of Neolatin's permissible phonotactics.
