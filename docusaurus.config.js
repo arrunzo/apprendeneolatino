@@ -227,6 +227,16 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      //Add Algolia search
+algolia: {
+    // Application ID
+    appId: 'VQI23LBHKU',
+    //  Search API Key
+    apiKey: '921f55c55187af1aee48a8bc27d327ab',
+    indexName: 'apprendeneolatino',//Consistent with the index_name in docsearch.json
+    searchPagePath: 'search',
+    contextualSearch: true
+    },
     }),
 };
 
