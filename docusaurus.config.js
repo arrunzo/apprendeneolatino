@@ -240,7 +240,7 @@ const config = {
       contextualSearch: true,
 ​
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push
-      externalUrlRegex: 'apprendeneolatino.com',
+      // externalUrlRegex: 'apprendeneolatino.com',
 
       // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
       replaceSearchResultPathname: {
