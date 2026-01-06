@@ -2,8 +2,11 @@ name: DocSearch Scraper
 
 # Define the triggering conditions for the workflow
 on:
-  deployment
-
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Automatic operation (UTC time)
+  schedule:
+    - cron: '0 0 * * *'
 
 # Define workflow tasks
 jobs:
