@@ -66,7 +66,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          routeBasePath: "/",
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -119,30 +119,6 @@ const config = {
         alt: 'Romance Neolatino Logo',
         src: 'img/logo.svg',
       },
-      algolia: {
-      // The application ID provided by Algolia
-      appId: 'VQI23LBHKU',
-​
-      // Public API key: it is safe to commit it
-      apiKey: '921f55c55187af1aee48a8bc27d327ab', // Use the Search API Key, not the Write API Key
-​
-      indexName: 'apprendeneolatino', // Choose a meaningful name for your index
-​
-      // Optional: see doc section below
-      contextualSearch: true,
-​
-      // Optional: Specify domains where the navigation should occur through window.location instead on history.push
-      externalUrlRegex: 'external\\.com|domain\\.com',
-​
-      // Optional: Algolia search parameters
-      searchParameters: {},
-​
-      // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
-​
-      // Optional: whether the insights feature is enabled or not on Docsearch
-      insights: false,
-    },
       items: [
         {
           type: 'docSidebar',
