@@ -158,6 +158,7 @@ At the beginning of a word, in such a cluster, the spelling is mandatory. Option
 ### Onset
 ### Nucleus
 ### Coda
+
 Phonotactics is the study of the ways in which phonemes are allowed to combine in a particular language; in other words, the order of sounds that is possible.
 
 Below is a graphical representation of Neolatin's permissible phonotactics.
