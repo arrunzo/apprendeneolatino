@@ -230,9 +230,9 @@ const config = {
       //Add Algolia search
 algolia: {
     // Application ID
-    appId: 'VQI23LBHKU',
+    appId: 'JVLH2HIQ6U',
     //  Search API Key
-    apiKey: '921f55c55187af1aee48a8bc27d327ab',
+    apiKey: 'da03e1c750012f64734937ca7e5b854a',
     indexName: 'apprendeneolatino',//Consistent with the index_name in docsearch.json
     searchPagePath: 'search',
     contextualSearch: true
