@@ -235,7 +235,7 @@ const config = {
       apiKey: '921f55c55187af1aee48a8bc27d327ab', // Use the Search API Key, not the Write API Key
 ​
       indexName: 'apprendeneolatino', // Choose a meaningful name for your index
-​
+/*​
       // Optional: see doc section below
       contextualSearch: true,
 ​
@@ -256,6 +256,7 @@ const config = {
 ​
       // Optional: whether the insights feature is enabled or not on Docsearch
       insights: false,
+      */
     },
     }),
 };
