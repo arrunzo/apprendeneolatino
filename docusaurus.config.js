@@ -186,15 +186,15 @@ const config = {
             },
             {
               label: 'Lessons',
-              to: '/docs/lessons/Pronunciation/alphabet',
+              to: '/lessons/Pronunciation/alphabet',
             },
             {
               label: 'Resources',
-              to: '/docs/resources/list_resources',
+              to: '/resources/list_resources',
             },
             {
               label: 'FAQ',
-              to: '/docs/lessons/faq',
+              to: '/lessons/faq',
             },
           ],
         },
