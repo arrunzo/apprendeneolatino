@@ -227,6 +227,36 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+      // The application ID provided by Algolia
+      appId: 'VQI23LBHKU',
+​
+      // Public API key: it is safe to commit it
+      apiKey: '921f55c55187af1aee48a8bc27d327ab', // Use the Search API Key, not the Write API Key
+​
+      indexName: 'apprendeneolatino', // Choose a meaningful name for your index
+​
+      // Optional: see doc section below
+      contextualSearch: true,
+​
+      // Optional: Specify domains where the navigation should occur through window.location instead on history.push
+      externalUrlRegex: 'apprendeneolatino.com',
+
+      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+      replaceSearchResultPathname: {
+        from: '/docs/', // or as RegExp: /\/docs\//
+        to: '/',
+      },
+​
+      // Optional: Algolia search parameters
+      searchParameters: {},
+​
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+​
+      // Optional: whether the insights feature is enabled or not on Docsearch
+      insights: false,
+    },
     }),
 };
 
