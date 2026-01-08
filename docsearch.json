@@ -1,5 +1,5 @@
 {
-  "index_name": "apprendeneolatino",
+  "index_name": "apprende-neolatino-index",
   "start_urls": ["https://www.apprendeneolatino.com/"],
   "sitemap_urls": ["https://www.apprendeneolatino.com/sitemap.xml"],
   "js_render": true,
