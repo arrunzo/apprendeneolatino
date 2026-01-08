@@ -232,8 +232,8 @@ algolia: {
     // Application ID
     appId: 'JVLH2HIQ6U',
     //  Search API Key
-    apiKey: 'da03e1c750012f64734937ca7e5b854a',
-    indexName: 'apprendeneolatino',//Consistent with the index_name in docsearch.json
+    apiKey: 'f778de75180c0e7a0282a4f7e6a24c32',
+    indexName: 'apprende-neolatino-index',//Consistent with the index_name in docsearch.json
     searchPagePath: 'search',
     contextualSearch: true
     },
