@@ -106,6 +106,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+            //Add Algolia search
+algolia: {
+    // Application ID
+    appId: 'JVLH2HIQ6U',
+    //  Search API Key
+    apiKey: 'f778de75180c0e7a0282a4f7e6a24c32',
+    indexName: 'apprende-neolatino-index',//Consistent with the index_name in docsearch.json
+    searchPagePath: 'search',
+    contextualSearch: true
+    },
       docs: {
         sidebar: {
           hideable: true,
@@ -227,16 +237,6 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      //Add Algolia search
-algolia: {
-    // Application ID
-    appId: 'JVLH2HIQ6U',
-    //  Search API Key
-    apiKey: 'f778de75180c0e7a0282a4f7e6a24c32',
-    indexName: 'apprende-neolatino-index',//Consistent with the index_name in docsearch.json
-    searchPagePath: 'search',
-    contextualSearch: true
-    },
     }),
 };
 
