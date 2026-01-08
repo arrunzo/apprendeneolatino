@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 6.3. Expressions with Indefinite Words
+# 6.3. Expressions with Indefinite Words ✅
 :::note
 
 When using an adjective with the indefinite pronouns "qualcausa" ("something") or "necausa" ("nothing"), the adjective must be masculine.
