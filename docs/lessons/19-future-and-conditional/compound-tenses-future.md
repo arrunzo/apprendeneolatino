@@ -35,5 +35,5 @@ The conditional perfect, also known as the "past conditional", is used to descri
 |                            Havería preferito un advertimènto.                           |       I would have preferred a warning.      |
 |                        Haverías facto lo mesmo en mèa positione?                        | Would you have done the same in my position? |
 |         Devería havere saputo que èras tu. / Havería devuto sapere que èras tu.         |        I should have known it was you.       |
-| Poterías havere economizzato plus denario. / Haverías potuto economizzato plus denario. |       You could have saved more money.       |
+| Poterías havere economizzato plus denario. / Haverías potuto economizzare plus denario. |       You could have saved more money.       |
 |                  Havería vaduto ad Francia. / Sería vaduto en Francia.                  |         I would have gone to France.         |
