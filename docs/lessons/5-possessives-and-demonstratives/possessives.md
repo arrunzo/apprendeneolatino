@@ -2,83 +2,145 @@
 sidebar_position: 1
 ---
 
-# 5.1. Possessives
-🚧 **EN CONSTRUCTIONE**
+# 5.1. Possessives ✅
+## 5.1.1. Possessives?
+Possessives are words that describe the relationship of possession.
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
+- **Possessive adjectives** are adjectives that describe the relationship of possession. They precede the noun.
 
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
+- **Possessive pronouns** replace a previously-mentioned noun (ex: mine, yours, his, hers).
 
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
+For both possessive adjectives and possessive pronouns, they agree with the **gender** and **quantity** of the noun they refer to.
 
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
+## 5.1.2. Posessive Adjectives
+### Full Forms (Table and Examples)
+|                       PERSON                       | MASCULINE SINGULAR |   FEMININE SINGULAR  | MASCULINE PLURAL |     FEMININE PLURAL     | TRANSLATION |
+|:--------------------------------------------------:|:------------------:|:--------------------:|:----------------:|:-----------------------:|:-----------:|
+|             First person singular (Èo)             |         mèo        |          mèa         |       mèos       |           mèas          |      my     |
+|        Familiar second person singular (Tu)        |         too        |          toa         |       toos       |           toas          |     your   |
+|         Formal second person singular (Vós)        |       vòstro       |        vòstra        |      vòstros     |         vòstras         |     your    |
+|         Third person singular (Elle / Ella)        |         soo        |          soa         |       soos       |           soas          |     his / her / its    |
+|  First person plural (Nós / Nosaltros / Nosaltras) |       nòstro       |        nòstra        |      nòstros     |         nòstras         |     our     |
+| Second person plural (Vós / Vosaltros / Vosaltras) |       vòstro       |        vòstra        |      vòstros     |         vòstras         |     your    |
+|         Third person plural (Ellos / Ellas)        |    loro<br/> soo   | loro / lora<br/> soa |  loros<br/> soos | loros / loras<br/> soas |    their    |
 
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
+Below are some examples:
+|                                 |            |
+|:-------------------------------:|:----------:|
+|      Mèo libro     |    My book  |
+|      Mèa casa     |    My house  |
+|      Mèos libros     |    My books  |
+|      Mèas casas    |    My houses  |
+|      Too libro     |    Your book  |
+|      Toa casa     |    Your house  |
 
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
+A way of reducing ambiguity is to avoid using a possessive adjective and instead use a subject pronoun with the preposition "de".
 
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
+|                                 |            |
+|:-------------------------------:|:----------:|
+|      Lo libro de elle     |    His book  |
+|      Lo nome de ella     |    Her name  |
 
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
+In Neolatin, the use of the definite article before the possessive adjective is **optional**.
 
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
+|                                 |            |
+|:-------------------------------:|:----------:|
+|      Mèo nome / Lo mèo nome     |   My name  |
+|      Toa mano / La toa mano     |  Your hand |
+| Loro òllîos / Los loro òllîos | Their eyes |
 
-## 🇮🇹 ITALIANO
-In costruzione 🙂
+:::note
 
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
+Avoid using possessive adjectives with body parts and belongings.
 
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
+|                     |                                                        |
+|:-------------------:|:------------------------------------------------------:|
+| Me dòle lo braccîo. |      My arm hurts. (Literally: The arm hurts me.)      |
+|  Lava-te las manos. | Wash your hands. (Literally: Wash yourself the hands.) |
 
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
+:::
 
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
+### Loro?
+The possessive "loro" is inherited from the Latin "illōrum", the genitive masculine plural of "ille". In Romance languages, it was originally uninflected, or in other words, invariable, regardless of gender and quantity. This is still the case in Italian ("loro") and Romanian ("lor"). This was originally the case in French ("leur"), but it then gained a plural form in Middle French ("leurs").
 
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
+In Neolatin, there are three options for using "loro":
+1. **Conservative**: Like in Italian and Romanian, "loro" is invariable and does not change to agree with the gender and quantity of the noun (ex: loro casas).
+2. **French**: Like in French and Occitan, use "loro" in such a way that it only agrees with the quantity of the noun, and not the gender (ex: loros casas).
+3. **Regularized**: Treat "loro" as if it were completely regularized, always agreeing with the given noun in gender and quantity (ex: loras casas).
 
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
+### Loro vs Soo?
+In modern Romance languages, the cognate for "soo" in Romance languages outside of Iberia is only used in a singular sense. For example In Romance languages of Iberia, cognates for "soo" are used in both a singular sense and a plural sense. For example, "su libro" in Spanish can mean both "her book" (the book of one person), "their book" (the book of multiple people) and even "your book".
 
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
+In a plural sense, both "loro" and "soo" are valid. It is interesting to note that, although the plural sense of "soo" is particular of Romance languages of Iberia today, there is a historical explanation behind "loro" and "soo".
 
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
+Originally, Latin had reflexive and non-reflexive possessives. Romance "soo" comes from the Latin possessive "suus" (nominative masculine singular form). This possessive was used in both a singular sense and a plural sense, with the key meaning that it was reflexive.
 
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
+For example, in a singular sense: "Puer fēlem suam amat" means "The boy loves his cat", meaning, the cat that belongs to this boy in particular. 
 
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
+If the sense were not reflexive, then a genitive form of the pronoun "is" would be used; namely: eius (singular), eōrum (masculine plural and neuter plural) and eārum (feminine plural). As a side note, "eōrum" is similar to "illōrum", the genitive masculine plural of "ille", from all of which came the Romance possessive "loro".
 
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
+Therefore, in contrast, if the sentence were "Puer fēlem eius amat", this would mean that the boy loves the cat that belongs to someone else (non-reflexive).
 
-## 🇵🇱 POLSKI
-W budowie 🙂
+More importantly, in a plural sense, observe the translations of the sentence "Petrus and Ioanna have their books":
+- (Reflexive) Petrus et Ioanna libros suos habent.
+- (Non-reflexive) Petrus et Ioanna libros eorum habent.
 
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
+The idea is that, although in most modern Romance languages, "soo" is restricted for singular subjects and "loro" for plural subjects, this was not the situation in Latin. In Latin, it was simply a distinction between reflexive and non-reflexive possession. The fact that cognates for "soo" in languages of Iberia is used in both a singular sense and a plural sense, although it is particular, is, in reality, a remnant of this practice from Latin.
 
 
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
+### Vòstro?
+The polite possessive is "vòstro". In Iberia and Italy, the polite form is their cognates of "soo". In other words, languages in these regions use the same possessive for the formal second person (you) and the third person (his/her/its). For the sake of conservatism and unambiguity, "vòstro" is the polite form for both the singular (formal) and plural subjects in the second person.
 
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
+### Too and Soo?
+The pronunciations of both "too" and "soo" is with a hiatus, meaning, having the pronunciations of [ˈt̪o.o] and [ˈso.o], respectively. "Too" and "soo" come from Latin "tuum" and "suum".
 
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
+Furthermore, there are alternative forms used by some Neolatin speakers: "tuo" and "suo". However, at the time of this writing, these forms and their validity have not been studied enough. Therefore, the forms "too" and soo" are recommended.
 
-## 🇨🇳 中文
-正在建设中 🙂
+### Long-Form Possessive Adjectives for Emphasis
+Use a full possessive adjective after the noun to emphasize ownership.
 
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
+|                     |                    |
+|:-------------------:|:------------------:|
+|     Un amico mèo    |  A friend of mine  |
+| Cuella cantsone toa | That song of yours |
 
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
+It is worth noting that the position of the adjective can change in certain phrases depending on the language. For example: "¡Dios mío!" in Spanish, but "Meu Deus!" in Portuguese and "Mio Dio!" in Italian. Italian has some fixed phrases, like "piacere mio", "a casa mia" and "colpa mia". For the purpose of consistency, in general, Neolatin uses the adjective after the noun for emphasis.
 
-## 🇯🇵 日本語
-工事中 🙂
+### Reduced Forms
+Neolatin also presents "reduced forms" of possessive adjectives.
 
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
+|                       PERSON                       | MASCULINE SINGULAR | FEMININE SINGULAR | MASCULINE PLURAL | FEMININE PLURAL |   TRANSLATION   |
+|:--------------------------------------------------:|:------------------:|:-----------------:|:----------------:|:---------------:|:---------------:|
+|             First person singular (Èo)             |         mo         |         ma        |        mos       |       mas       |        my       |
+|        Familiar second person singular (Tu)        |         to         |         ta        |        tos       |       tas       |       your      |
+|         Formal second person singular (Vós)        |         vò         |         vò        |        vòs       |       vòs       |       your      |
+|         Third person singular (Elle / Ella)        |         so         |         sa        |        sos       |       sas       | his / her / its |
+|  First person plural (Nós / Nosaltros / Nosaltras) |         nò         |         nò        |        nòs       |       nòs       |       our       |
+| Second person plural (Vós / Vosaltros / Vosaltras) |         vò         |         vò        |        vòs       |       vòs       |       your      |
+|         Third person plural (Ellos / Ellas)        |         so         |         sa        |        sos       |       sas       |      their      |
 
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+These reduced possessives only function as adjectives, and they are always used without articles (ex: mos libros). Their use is perhaps more appropriate in a poetic register, especially the forms "nò, "nòs", "vò", "vòs", which are a minority in Romance languages. Despite the existence of these reduced forms, the "full possessives" are the recommended forms for normal use.
+
+## 5.1.3. Possessive Pronouns
+|                       PERSON                       | MASCULINE SINGULAR |   FEMININE SINGULAR  | MASCULINE PLURAL |     FEMININE PLURAL     | TRANSLATION |
+|:--------------------------------------------------:|:------------------:|:--------------------:|:----------------:|:-----------------------:|:-----------:|
+|             First person singular (Èo)             |         mèo        |          mèa         |       mèos       |           mèas          |     mine    |
+|        Familiar second person singular (Tu)        |         too        |          toa         |       toos       |           toas          |    yours    |
+|         Formal second person singular (Vós)        |       vòstro       |        vòstra        |      vòstros     |         vòstras         |    yours    |
+|         Third person singular (Elle / Ella)        |         soo        |          soa         |       soos       |           soas          |  his / hers |
+|  First person plural (Nós / Nosaltros / Nosaltras) |       nòstro       |        nòstra        |      nòstros     |         nòstras         |     ours    |
+| Second person plural (Vós / Vosaltros / Vosaltras) |       vòstro       |        vòstra        |      vòstros     |         vòstras         |    yours    |
+|         Third person plural (Ellos / Ellas)        |    loro<br/> soo   | loro / lora<br/> soa |  loros<br/> soos | loros / loras<br/> soas |    theirs   |
+
+In Neolatin, the definite article is **obligatory** before the possessive pronoun.
+
+|                                 |                            |
+|:-------------------------------:|:--------------------------:|
+|   Pone toa mano sopre la mèa.   |   Put your hand on mine.   |
+| La mèa èst mellîore que la toa. | Mine is better than yours. |
+
+The exception to the rule is the omission of the definite article after the verb "èssere"; specifically, if it answers the question "De qui èst cuesto?" (Whose is this?).
+
+|                       |                    |
+|:---------------------:|:------------------:|
+| Cueste libro èst mèo. | This book is mine. |
