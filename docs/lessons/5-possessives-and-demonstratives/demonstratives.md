@@ -49,4 +49,4 @@ Note the following:
 |       Vòles cuesto aut cuello?      |    Do you want this or that?   |
 | Accuò vòle dícere que has rattsone. | This means that you are right. |
 
-Notice that demonstrative pronouns are identical to demonstrative adjectives, with the exception of the inclusion of neuter pronouns, which for all intents and purpose, appear masculine. These neuter pronouns are only pronouns. They cannot be used as adjectives. For example, "cuò" or "accuò" can only be used as a pronoun.
+Notice that demonstrative pronouns are identical to demonstrative adjectives, with the exception of the inclusion of neuter pronouns, which for all intents and purpose, appear masculine. These neuter pronouns are only pronouns. They cannot be used as adjectives. More specifically, unlike a word like "cuello", "cuò" or "accuò" can only be used as a pronoun.
