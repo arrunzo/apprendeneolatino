@@ -12,7 +12,7 @@ Possessives are words that describe the relationship of possession.
 
 For both possessive adjectives and possessive pronouns, they agree with the **gender** and **quantity** of the noun they refer to.
 
-## 5.1.2. Posessive Adjectives
+## 5.1.2. Possessive Adjectives
 ### Full Forms (Table and Examples)
 |                       PERSON                       | MASCULINE SINGULAR |   FEMININE SINGULAR  | MASCULINE PLURAL |     FEMININE PLURAL     | TRANSLATION |
 |:--------------------------------------------------:|:------------------:|:--------------------:|:----------------:|:-----------------------:|:-----------:|
