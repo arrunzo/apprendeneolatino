@@ -2,83 +2,63 @@
 sidebar_position: 7
 ---
 
-# 10.7. Compound Prepositions
-🚧 **EN CONSTRUCTIONE**
+# 10.7. Compound Prepositions ✅
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
-
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
-
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
-
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
-
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
-
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
-
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
-
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
-
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
-
-## 🇮🇹 ITALIANO
-In costruzione 🙂
-
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
-
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
-
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
-
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
-
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
-
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
-
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
-
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
-
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
-
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
-
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
-
-## 🇵🇱 POLSKI
-W budowie 🙂
-
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
-
-
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
-
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
-
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
-
-## 🇨🇳 中文
-正在建设中 🙂
-
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
-
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
-
-## 🇯🇵 日本語
-工事中 🙂
-
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
-
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+|                      Preposition                      |                          Translation                          |                                               Example                                               |                                   Translation                                   |
+|:-----------------------------------------------------:|:-------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+|                       Gratias ad                      |                           Thanks to                           |                           Gratias ad toa ajjuta, terminammos lo projècto.                           |                   Thanks to your help, we finished the project                  |
+|                      Respècto ad                      |      Regarding / With respect to / As for / In regards to     |                  Hai recèpto bònas notitias respècto ad lo succèsso de lo projècto.                 |            I received good news regarding the success of the project.           |
+|                Quanto ad / En quanto ad               |      Regarding / With respect to / As for / In regards to     |                    Quando ad la reunione, penso que deveriamos tenere-la martes.                    |        In regards to the meeting, I think we should have it on Tuesday.         |
+|                    En relatione ad                    |                         In relation to                        |               La nòva regula èst pauco clara en relatione ad regulationes exsistèntes.              |           The new rule is unclear in relation to existing regulations.          |
+|          En referèntia ad / Con referèntia ad         |                        In reference to                        |                  Elle publicau un artículo en referèntia ad evèntos communitarios.                  |              He posted an article in reference to community events.             |
+|                     En tèrminos de                    |                          In terms of                          |                     En tèrminos de còsto, cuesta optione èst la plus econòmica.                     |              In terms of cost, this option is the most economical.              |
+|                     En matèria de                     |          On / Concerning / Regarding / In matters of          |                   Lo govèrno considera mellîoras en matèria de transpòrto público.                  |   The government considers improvements with respect to public transportation.  |
+|                      Ad causa de                      |                      Because of / Due to                      |              Alcunas personas han perso loro trepallîos ad causa de la crise econòmica.             |             Some people lost their jobs due to the economic crisis.             |
+|                      Per colpa de                     |                     Because of (negative)                     |                           Perdemmos la corrènte per colpa de la tempèsta.                           |                       We lost power because of the storm.                       |
+|                   Como resultato de                   |                         As a result of                        |                         Como resultato de lo frégedo, la aqua ha congelato.                         |                  As a result of the coldness, the water froze.                  |
+|                       Devuto ad                       |                             Due to                            |                           Devuto ad la plojja, lo evento serà cancellato.                           |                   Due to the rain, the event will be canceled.                  |
+|                       En base ad                      |                            Based on                           |          En base ad cuello que havemos visto, credemos que cuesto sèa la mellîore optione.          |       Based on what we have seen, we believe that this is the best option.      |
+|                    Sopre la base de                   |                        On the basis of                        |                 La borsa de studio fu concèssa sopre la base de lo mèrito acadèmico.                |           The scholarship was awarded on the basis of academic merit.           |
+|                   Ad differèntia de                   |                             Unlike                            |           Ad differèntia de la majjoría de los mammíferos, los vespertilios pòten volare.           |                        Unlike most mammals, bats can fly.                       |
+|                    Ad excèptione de                   |                     With the exception of                     |                 Le place totos los tipos de música, ad exceptione de lo heavy metal.                |         He likes all kinds of music, with the exception of heavy metal.         |
+|                 En contrapositione ad                 |            As opposed to (instead of / compared to)           |   La escòla privilegia lo apprendimènto activo, en contrapositione ad la memorizzatione mecànica.   |        The school favors active learning as opposed to rote memorization.       |
+|          Comparato con / En comparatione con          |                          Compared to                          |            Comparato ad mangiare affòra, cocinare ad casa èst generalmente plus costoso.            |           Compared to eating out, cooking at home is usually cheaper.           |
+|                    En contrasto con                   |                         In contrast to                        |               En contrasto con soas òperas plus tòstas, soo nòvo libro èst optimista.               |          In contrast to his earlier works, the new book is optimistic.          |
+| Contrario ad / Ad lo contrario de / Contrariamente ad |                          Contrary to                          | Contrariamente ad la credèntia populare, ràdere-se non face que los capellos crescan plus espessos. |    Contrary to popular belief, shaving does not make hair grow back thicker.    |
+|                     De accòrdo con                    |               In accordance with / According to               |                   Lo informe fu preparato de accòrdo con normas internationales.                    |       The report was prepared in accordance with international standards.       |
+|                     En lo corso de                    |             In the course of / Over the course of             |                  En lo corso de la investigatione, exiron ad la luce nòvas pròvas.                  |         In the course of the investigation, new evidence came to light.         |
+|                En lòco de / En vece de                |                    Instead of / In place of                   |                             Mangiammos pizza en lòco de alimènto cinese.                            |                      We ate pizza instead of Chinese food.                      |
+|               De parte de / Per parte de              |                         On the part of                        |                          Hi haveva entusiasmo per parte de los voluntarios.                         |               There was enthusiasm on the part of the volunteers.               |
+|                      Ad favore de                     |                          In favor of                          |                          Lo gruppo èst ad favore de los cambios propòstos.                          |                  The group is in favor of the proposed changes.                 |
+|                    En detrimènto de                   |                      To the detriment of                      |         La empressa privilegiau la quantitate ad la qualitate, en detrimènto de lo producto.        | The company prioritized quantity over quality, to the detriment of the product. |
+|                       Ad fine de                      |                 For the purpose of / So as to                 |                       Elle sussurrau ad fine de evitare esvellîare los altros.                      |                  He whispered so as to avoid waking the others.                 |
+|               En manca de / Per manca de              |        For a lack of / In the absence of / For want of        |               La solutione èst, per manca de una paraula mellîore, non conventionale.               |          This solution is, for a lack of a better word, unconventional.         |
+|                    Ad beneficio de                    |                 For the benefit of / In aid of                |            Ad beneficio de los patièntes, lo hospitale ha extenso lo horario de visitas.            |      For the benefit of patients, the hospital has extended visiting hours.     |
+|                     Por lo bène de                    |         For the good of / For the sake of (wellbeing)         |                     Los patres feceron sacrificios por lo bène de loro fillîos.                     |             Parents made sacrifices for the good of their children.             |
+|                    Per rattsones de                   |               For the sake of (out of interest)               |                Las imagines non son despositatas localmente per rattsone de espatio.                |             The images are not stored locally for reasons of space.             |
+|                      Ad còsto de                      |                         At the cost of                        |                          Elle rejjungeu lo succèsso ad costa de soa morale.                         |                  He achieved success at the cost of his morals.                 |
+|                       Ad mòdo de                      |                         By way of / As                        |                  Ad modo de exemplo, imaginemos dos civtates en climas differentes.                 |         As an example, let us imagine two cities in different climates.         |
+|                     Ad expènsas de                    |                       At the expense of                       |                      Assisteron ad una conferèntia ad expènsas de la empressa.                      |            They attended a conference at the expense of the company.            |
+|                      Per mèdio de                     |                          By means of                          |                     Elle communica con soos clièntes per mèdio de videoclamatas.                    |            He communicates with his clients by means of video calls.            |
+|                    En conflicto con                   |                In conflict with / At odds with                |                 Soo testimònio èra en conflicto con las imàgines de soprevigilantia.                |           His testimony was in conflict with the surveillance footage.          |
+|                      Ad risco de                      |                         At the risk of                        |                   Elle revelau soo errore, ad lo risco de damnare soa reputatione.                  |         He disclosed his error, at the risk of damaging his reputation.         |
+|                     Ad la etate de                    |                         At the age of                         |                  At la etate de vinte-et-doos annos, se graduau de la universitate.                 |           At the age of twenty two, he graduated from the university.           |
+|                   Per questiones de                   |                    For reasons of / Due to                    |                        Lo evènto fu cancellato per questiones de securitate.                        |                  The event was canceled for reasons of safety.                  |
+|                     En virtute de                     |            By virtue of / In virtue of / Because of           |                    En virtute de soa experièntia, fu elècta por gerire la echipa.                   |          By virtue of her experience, she was chosen to lead the team.          |
+|                       En nome de                      |                 In the name of / On behalf of                 |                    Justificaron la decisione en nome de la securitate nationale.                    |          They justified the decision in the name of national security.          |
+|             En cerca de / Ad la recerca de            |                          In search of                         |                             Elle èst un hòmene en cerca de la veritate.                             |                       He is a man in search of the truth.                       |
+|                    En harmonía con                    |                        In harmony with                        |                 La humanitate ha vivuto en harmonía con la natura por moltos annos.                 |            Humanity has lived in harmony with nature for many years.            |
+|                     En memoría de                     |                          In memory of                         |                         Cueste monumènto fu creato en memoría de los heroes.                        |                This monument was created in memory of the heroes.               |
+|                    En previsione de                   |                       In anticipation of                      |            En previsione de fòrtes plòjjas, lo evènto se ha transferito ad lo interiore.            |         In anticipation of heavy rain, the event has been moved indoors.        |
+|           Per respècto ad / Per respècto de           |                       Out of respect for                      |                     La arte fu inalterata per respècto ad lo artista originale.                     |          The art was unaltered out of respect for the original artist.          |
+|       Ensèmole con / En conjunto con / Junto con      |                         Together with                         |              Lo medicamènto, ensèmole con la fisioterapía, accelerau soa recuperatione.             |      The medication, together with physical therapy, sped up her recovery.      |
+|                       En caso de                      |                           In case of                          |                            En caso de emergèntia, clamate cueste número.                            |                    In case of an emergency, call this number.                   |
+|                    Con la ajjuta de                   |                        With the help of                       |                     Ella fece la torta con la ajjuta de la recèpta de soa avia.                     |           She made the cake with the help of her grandmother's recipe.          |
+|                     En defènsa de                     |                         In defense of                         |                     Lo comité publicau una declaratione en defènsa de lo budget.                    |       The committee issued a statement in defense of the proposed budget.       |
+|                      Conforme ad                      |        Pursuant to / According to / In accordance with        |    Conforme ad regulationes federales, los fabricantes deven respectare las normas de securitate.   |    Pursuant to federal regulations, manufacturers must meet safety standards.   |
+|                     En respòsta ad                    |                         In response to                        |             Ella escriveu una pòsta electrònica detallîata en respòsta ad soas demandas.            |             She wrote a detailed email in response to his questions.            |
+|                      Ad título de                     |                 By way of / As / Out of / For                 |                          Ad título de exèmplo, hai incluso vàrios modèllos.                         |                  As an example, I have included various models.                 |
+|                    En qualitate de                    |                   As / In one's capacity as                   |                              Elle èst accui en qualitate de mediatore.                              |                        He is here to act as an mediator.                        |
+|                  En conformitate con                  |               In accordance with / According to               |             Cuestas mesuras furon adoptatas en conformitate con las directivas europèas.            |        The measures were adopted in accordance with European directives.        |
+|                      En segno de                      | As a sign of / As a gesture of / As a show of / As a token of |                      Laxaron una bottellîa de vino en segno de loro gratitude.                      |           They left a bottle of wine as a sign of their appreciation.           |
+|            En despècto de / Ad despècto de            |                     Despite / In spite of                     |                              Ad despècto de lo vènto, non hai frégedo.                              |                    In spite of the wind, I do not feel cold.                    |
