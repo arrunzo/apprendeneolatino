@@ -3,82 +3,103 @@ sidebar_position: 1
 ---
 
 # 27.1. A History of Copulative Verbs
-🚧 **EN CONSTRUCTIONE**
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
+## 27.1.1. What Is a Copula?
+A copula is a word or phrase that links the subject of a sentence to a subject complement. A subject complement is a word or phrase that follows a linking verb (more specifically, the copula) and identifies or describes the subject. An example of a copula is the word "is" in the sentence "The grass is green".
 
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
+In essence, a copular verb in a Romance language can be thought of as a verb for a state of being.
 
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
+Originally, Classical Latin used several verbs, all of which contributed to copulative verbs in modern Romance languages in their own ways:
 
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
+|  Verb  |                                                                                                Use(s)                                                                                               |
+|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Esse  | 1. Existential (ex: There is/There are)<br />  2. Possessive (ex: To have/To belong to)<br />  3. Attributive (ex: I am, You are)<br /> 4. Locative: To be situated (ex: The book is on the table.) |
+|  Fierī |                                                                                              To become                                                                                              |
+|  Stāre |                                                     1. To stand<br />  2. To stay/To remain<br />  3. Locative: To be situated (Medieval Latin)                                                     |
+| Sedēre |                                                                                                To sit                                                                                               |                                                     |
 
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
+## 27.1.2. General Comparisons
 
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
+Starting from Eastern Romance to the languages of the Iberian peninsula:
 
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
+### Romanian
+Romanian has two copulative verbs of note: "a fi" and "a sta".
 
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
+The evolutions from Latin are shown below.
+1. fieri → fiere → fire → *fir → fi
+2. stāre → sta
 
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
+The verb "a fi" evolved from the verb "fieri", which meant "to become" in Latin. However, it is a suppletive verb in modern Romanian. Although it replaced "esse", and its evolved form "essere", "a fi" derives many of its forms from "esse". In effect, the two verbs had merged into one.
 
-## 🇮🇹 ITALIANO
-In costruzione 🙂
+The verb "a sta" descends from "stāre". Similar to Italian, it conserves uses from Latin; such as the meanings of "to stay", "to stand" and "to reside".
 
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
+### Italo-Dalmatian (Italian, Neapolitan and Sicilian)
+Italian conserves the original meanings of "esse" and "stāre". A small exception would be "stare" in a locative sense. In Standard Italian, the verb "essere" may be used for the position of an object in a place that is expected, where as "stare" may be used for the position of an object in a place where it is not usually found. In addition, Standard Italian also reserves the verb "stare" for certain adjectives, such as "attento", "bene", "male" and "comodo".
 
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
+Neapolitan is different from other varieties of Italo-Dalmatian in how it uses its copulative verbs. The use of "stà" in Neapolitan independently obtained a locative sense, similar to Spanish. For example, "I am here" would be "I' sto ccà", similar to "Estoy aquí" in Spanish. To some extent, Neapolitan uses "stà" or "essere" to indicate the difference between a temporary state or permanent state, like in Spanish. However, this is not to the same extent. In comparison, Neapolitan is not as rigid, because some adjectives allow either verb with no change in meaning, such as "bello". To say "I am sad", some may say "Songo triste", using "essere", and some may say "Stongo triste", using "stà".
 
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
+It is interesting to note that these uses did not evolve in Sicilian.
 
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
-
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
-
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
-
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
-
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
-
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
-
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
-
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
-
-## 🇵🇱 POLSKI
-W budowie 🙂
-
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
+In general, Sicilian is similar to Italian. A small exception would be that Sicilian is more likely to use its cognate "stari" in the sense of "to reside", such as "I live in Sicily".
 
 
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
+### French
+Modern French is notable for being a Romance language with only one notable copulative verb: être.
 
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
+Observe the evolution below:
 
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
+- esse → essere → *essre → estre
+- stāre → *estare → estar → ester
+- estre + ester → **être**
 
-## 🇨🇳 中文
-正在建设中 🙂
+The modern verb "être" is a combination of both "estre" (from Latin "esse") and "ester" (from Latin "stāre"), but retains more conjugations from "estre". This fusion occurred because of similar phonetic evolutions, where the two verbs started to sound similar.
 
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
+This being said, the verb "ester" does survive in certain situations. It survives in set phrases like "ester en justice". Aside from cases like these, the verbs have completely merged.
 
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
+### Occitano-Romance (Catalan and Occitan)
+Similarly to French, Occitan merges "esse" and "stāre" into one verb. The form changes based on the dialect. In any case, it mostly takes from "esse".
 
-## 🇯🇵 日本語
-工事中 🙂
+**Occitan**: esse + stāre → ésser / èstre / èster / estar
 
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
+In Catalan, these verbs remain distinct.
 
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+**Catalan**: 
+- esse -> éssere-> ésser (most standard form) / ser (borrowing) / esser (distantly)
+- stāre -> *estare -> estar
+
+Correspondingly to its position in the Romance continuum, Catalan serves as a transitional bridge between different languages. It has aspects in common with both Ibero-Romance languages (Spanish and Portuguese) and other Romance languages, such as Italian. "Estar" conserves the classical use of "to reside" or "to dwell" in the pronominal verb "estar-se".
+
+Similarly to Ibero-Romance, Catalan uses "estar" to indicate a temporary state or characteristics of a subject. For example, "I am tired" is "Estic cansado".
+
+Due to a combination of influence from Ibero-Romance, be it from historical language contact or modern bilingualism with Spanish, some dialects of Catalan may use "estar" differently. One example is the use of "estar" instead of "ser" in a locative sense. To say "I am here", some dialects say "Sóc aquí", whereas others say "Estic aquí", which is more similar to Ibero-Romance.
+
+
+### Ibero-Romance (Spanish and Portuguese)
+Ibero-Romance languages are notable for having the most complex and rigid distinctions between their copulative verbs.
+
+In both Spanish and Portuguese, the following evolutions occurred:
+- stāre → *estare → estar
+- sedēre → *seder → seer → ser
+
+A significant difference between the evolution of "ser" in Ibero-Romance and other branches is that the modern verb "ser" developed from both the Latin verb "esse" and "sedēre". Due to certain phonetic evolutions, namely the loss of the consonant in the middle of the verb and the shift in stress to the penultimate vowels in Iberian infinitives, the verbs came to sound very similar.
+
+In regards to "estar", to express the concept of "standing upright", the adverb "de pie" came into use, like in "estar de pie".
+
+Despite the continued distinction, "esse" and "stāre" remained similar in some meanings. In general, this lead to a key difference between Ibero-Romance and other branches: the use of the modern verb "ser" for permanence or essence, and "estar" for temporary states.
+
+For example, in Spanish, "Estoy triste" means "I am sad" as a temporary emotion. "Soy triste" means "I am sad" as an innate trait, describing the subject as pitiful or persistently sad. This concept is extensive to the point that some words take on different meanings depending on whether "estar" or "ser" is used, although not exactly in the same way between Spanish and Portuguese. For example, in Spanish, "Estoy listo" means "I am ready", but "Estoy listo" means "I am clever" or "I am smart".
+
+It should be stated that, for the most part, the specific distinctions between "ser" and "estar" in Ibero-Romance languages are **particular of these languages**. Despite the mergers in French and Occitan, these distinct uses did not occur in languages like Italian or Romanian, or even originally in Classical Latin. Later, there will be practical examples illustrating the common characteristics and differences between these copulas in Neolatin.
+
+
+Resultative copulas (Ex: In Italian "È rimasta incinta = "she became pregnant" (as a result)):
+- Quedar (Spanish)
+- Ficar (Portuguese)
+- Rimanere (Italian)
+- Remanere / Restare (Neolatin)
+
+Adjusting states of being from the original verb "stare":
+- Estar de pie (Spanish)
+- Estar de pé
+- Essere in piedi (Italian)
+- Èssere en/de pède (Neolatin)
