@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # 2.6. Easy Cognates
 
-## Easy Cognates?
+## 2.6.1. Easy Cognates?
 If you know English or another European language, you will already recognize many cognates in Neolatin due to the common prevalence of Greek and Latin words.
 
 ## 2.6.2. Main Rules
