@@ -111,7 +111,7 @@ A conjunction is a part of speech that connects words, phrases, or clauses.
 ## 11.1.4. Correlative Conjunctions
 |         Cumulative Conjunction         |             Translation            |                                       Example                                      |                              Translation                              |
 |:--------------------------------------:|:----------------------------------:|:----------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|                Aut…aut…                |             Either…or…             |                             Aut entra aut esté affòra!                             |                      Either come in or stay out!                      |
+|                Aut…aut…                |             Either…or…             |                             Aut entra aut està affòra!                             |                      Either come in or stay out!                      |
 |         Non solo…mais altrosí…         |         Not only…but also…         |             Lo libro non èst solo educativo, mais altrosí interessante.            |        The book is not only educational, but also interesting.        |
 |                 Né…né…                 |            Neither…nor…            |                   Non hai né lo tèmpo né la patièntia por cuello.                  |           I have neither the time nor the patience for that.          |
 |        Que (SUBJUNCTIVE)...aut…        |             Whether…or             |                 Que plòva aut non, restarai affòra de totos mòdos.                 |          Whether it rains or not, I will stay outside anyway.         |
