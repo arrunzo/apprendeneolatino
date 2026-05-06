@@ -7,7 +7,7 @@ sidebar_position: 4
 ## 8.4.1. Frequency
 |                  Adverb                  |             Translation            |
 |:----------------------------------------:|:----------------------------------:|
-|                 Cata hora                |               Hourly               |
+|                 Cata hora                |               Hourly / Every hour               |
 |     Septimanalmente / Cata septimana     |         Weekly / Every week        |
 |         Mensualmente / Cata mese         |        Monthly / Each month        |
 |          Annualmente / Cata anno         |    Yearly / Annually / Each year   |
