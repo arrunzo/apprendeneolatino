@@ -187,9 +187,9 @@ sidebar_position: 4
 |                                          Ad mano                                         |            By hand            |
 |                                      Metículosamente                                     |          Meticulously         |
 |                                      Diligentemente                                      |           Diligently          |
-|                                      Càutelosamente                                      |           Cautiously          |
+|                                      Cautelosamente                                      |           Cautiously          |
 |                                       Attentamente                                       |           Carefully           |
-|                                        Con càutela                                       |          With caution         |
+|                                        Con cautela                                       |          With caution         |
 |                                         Con cura                                         |           With care           |
 |                                         Con calma                                        |             Calmly            |
 |                                         Con tacto                                        |           With tact           |
