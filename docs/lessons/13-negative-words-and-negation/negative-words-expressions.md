@@ -6,6 +6,6 @@ sidebar_position: 5
 
 |       |     |
 |:-------------:|:-------------:|
-| Jammàis plus / Nunca plus | Never again |
+| Jamàis plus / Nunca plus | Never again |
 | Èo altronon. / Né menos èo. | Me neither. |
-| Plus que jammàis / Plus que nunca | More than ever |
+| Plus que jamàis / Plus que nunca | More than ever |
