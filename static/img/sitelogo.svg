@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="174.70393mm"
+   width="158.46709mm"
    height="18.514204mm"
-   viewBox="0 0 174.70393 18.514204"
+   viewBox="0 0 158.46708 18.514204"
    version="1.1"
    id="svg7047"
    inkscape:export-filename="../../../Desktop/testlogo.svg"
@@ -38,38 +38,19 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs7044">
-    <rect
-       x="19.834127"
-       y="156.99757"
-       width="698.8045"
-       height="149.15616"
-       id="rect2098" />
-    <rect
-       x="19.834127"
-       y="156.99757"
-       width="698.8045"
-       height="149.15616"
-       id="rect1714" />
-  </defs>
+     id="defs7044" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.97692259,-16.906389)">
+     transform="translate(0.97692257,-16.906389)">
     <rect
-       style="fill:none;stroke-width:0.689127"
+       style="fill:none;stroke-width:0.656322"
        id="rect7570"
-       width="174.70395"
+       width="158.46709"
        height="18.514204"
        x="-0.97692257"
        y="16.906389" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,19.739503,-23.304048)"
-       id="text2096"
-       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';white-space:pre;shape-inside:url(#rect2098);display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.02898;stroke-opacity:1"
-       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -98,19 +79,13 @@
            d="M 57.145973,35.347614 H 72.505524 V 45.61312 H 57.145973 Z" />
       </g>
       <rect
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75187725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.751877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect8321"
          width="30.923422"
          height="20.793144"
          x="51.718933"
          y="42.191174" />
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,19.799542,-22.459583)"
-       id="text1712"
-       style="font-size:42.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';white-space:pre;shape-inside:url(#rect1714);display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.02898;stroke-opacity:1"
-       sodipodi:insensitive="true" />
     <image
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAC/4AAAD0CAYAAACYLBxzAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3XecXHW9//H358zMbgqB9J4rRTpSRBEBpViwAAIiihW8XLFc+9Ur3h/3qtd27WDFQhEEDSa7
@@ -1198,8 +1173,8 @@ AAAAAOoYg/8AAAAAAAAAAAAAAAAAAAAAANQxBv8BAAAAAAAAAAAAAAAAAAAAAKhjbaEDgDFxXy/p
 7NAZ25OZ7gjdgMkVx9mywUGr+5/NyHVT6AYAAAAAAAAAAAAAAAAAAACMzf8HdBAjcbvWiAIAAAAA
 SUVORK5CYII=
 "
-       width="491.092"
-       height="38.958362"
+       width="491.09201"
+       height="38.958363"
        transform="matrix(0.26458333,0,0,0.26458333,25.49928,21.365044)"
        id="image1748" />
   </g>
