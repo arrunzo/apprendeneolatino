@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="158.46709mm"
+   width="174.70395mm"
    height="18.514204mm"
-   viewBox="0 0 158.46708 18.514204"
+   viewBox="0 0 174.70395 18.514204"
    version="1.1"
    id="svg7047"
    inkscape:export-filename="../../../Desktop/testlogo.svg"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5780746"
-     inkscape:cx="276.28606"
-     inkscape:cy="98.220962"
+     inkscape:zoom="0.78903728"
+     inkscape:cx="117.86515"
+     inkscape:cy="306.70287"
      inkscape:window-width="2560"
      inkscape:window-height="1372"
      inkscape:window-x="0"
@@ -45,9 +45,9 @@
      id="layer1"
      transform="translate(0.97692257,-16.906389)">
     <rect
-       style="fill:none;stroke-width:0.656322"
+       style="fill:none;stroke-width:0.689127"
        id="rect7570"
-       width="158.46709"
+       width="174.70395"
        height="18.514204"
        x="-0.97692257"
        y="16.906389" />
@@ -1173,9 +1173,10 @@ AAAAAOoYg/8AAAAAAAAAAAAAAAAAAAAAANQxBv8BAAAAAAAAAAAAAAAAAAAAAKhjbaEDgDFxXy/p
 7NAZ25OZ7gjdgMkVx9mywUGr+5/NyHVT6AYAAAAAAAAAAAAAAAAAAACMzf8HdBAjcbvWiAIAAAAA
 SUVORK5CYII=
 "
-       width="491.09201"
-       height="38.958363"
-       transform="matrix(0.26458333,0,0,0.26458333,25.49928,21.365044)"
-       id="image1748" />
+       width="129.93475"
+       height="10.307734"
+       id="image3155"
+       x="25.499281"
+       y="21.106388" />
   </g>
 </svg>
