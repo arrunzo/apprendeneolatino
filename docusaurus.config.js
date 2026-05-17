@@ -126,7 +126,7 @@ algolia: {
       style: 'primary',
       title: '',
       logo: {
-        alt: 'Romance Neolatino Logo',
+        alt: 'Site Logo',
         src: 'img/logo.svg',
       },
       items: [
