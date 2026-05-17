@@ -124,7 +124,7 @@ algolia: {
       image: 'img/docusaurus-social-card.jpg',
     navbar: {
       style: 'primary',
-      title: 'APPRÈNDE NEOLATINO',
+      title: '',
       logo: {
         alt: 'Romance Neolatino Logo',
         src: 'img/logo.svg',
