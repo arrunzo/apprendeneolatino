@@ -97,32 +97,32 @@ The next sections demonstrate the uses of "per" and "por" in Neolatin.
 
 
 ## 10.3.4. Comparative Table
-|                               Use                              |    Neolatin   | Portuguese |    Spanish    |    Catalan    |      French      |   Italian   |     Romanian     |
-|:--------------------------------------------------------------:|:-------------:|:----------:|:-------------:|:-------------:|:----------------:|:-----------:|:----------------:|
-|        Motive or cause ("Due to" or "The reason being")        |      per      |     por    |      por      |      per      |        par       |     per     |        din       |
-|            Extension of a distance or period of time           |    per / de   |     por    |      por      |      per      |        de        |      di     |        cu        |
-|                          Distributive                          |      per      |     por    |      por      |      per      |        par       |      a      |        de        |
-|                      Expressing the agent                      |      per      |     por    |      por      |      per      |        par       |      da     |        de        |
-|                           Measurement                          |      per      |     por    |      por      |      per      |        sur       |     per     |        pe        |
-|                         Multiplication                         |      per      |    vezes   |      por      |      per      |       fois       |     per     |      de…ori      |
-|                              Price                             |      per      |     por    |      por      |      per      |       pour       |     per     |        cu        |
-|                  Movement ("Through" a place)                  |      per      |     por    |      por      |      per      |        par       |     per     |        per       |
-|                          Substitution                          |   per / con   |     por    |      por      |      per      |        par       |     con     |        cu        |
-|             Approximate position ("Around" or "by")            |      per      |     por    |      por      |      per      |        par       |     per     |        pe        |
-| Duration of time (Finished actions or actions not in progress) | per / durante |     por    | por / durante | per /  durant | pendant / depuis |     per     | timp de / pentru |
-|                  Imminent action ("About to")                  |      per      |      ∅     |      por      |      per      |         ∅        |     per     |         ∅        |
-|                         Medium or mode                         |      per      |     por    |      por      |      per      |     par / en     |   via / in  |     prin / cu    |
-|               Finality or purpose ("In order to")              |      por      |    para    |      para     |  per / per a  |       pour       |     per     |       ca să      |
-|                 Concessive value or comparisons                |      por      |    para    |      para     |     per a     |       pour       |     per     |      pentru      |
-|                           Destination                          |      por      |    para    |  para / hacia |     cap a     |       pour       | per / verso |       spre       |
-|                            Deadline                            |      por      |     até    |      para     |    abans de   |       d'ici      | entro / per |       până       |
-|                             Opinion                            |      por      |    para    |      para     |     per a     |       pour       |     per     |       ca să      |
-|                         For a recipient                        |      por      |    para    |      para     |     per a     |       pour       |     per     |      pentru      |
-|                 Indicating a determined moment                 |      por      |    para    |      por      |      per      |       pour       |     per     |        de        |
-|                       Obtaining something                      |      por      |    para    |      por      |      per      |       pour       |     per     |       ca să      |
-|                   To be in favor of something                  |      por      |      ∅     |      para     |     per a     |       pour       |     per     |      pentru      |
-|                    In exchange for something                   |      por      |     por    |      por      |      per      |       pour       |     per     |      pentru      |
-|        Representation (“In place of” or “On behalf of”)        |      por      |     por    |      por      |      per      |       pour       |     per     |      pentru      |
+|                               Use                              |    Neolatin   | Portuguese |    Spanish    |    Catalan    |      French      |   Italian   |     Romanian     |                  Latin                 |
+|:--------------------------------------------------------------:|:-------------:|:----------:|:-------------:|:-------------:|:----------------:|:-----------:|:----------------:|:--------------------------------------:|
+|        Motive or cause ("Due to" or "The reason being")        |      per      |     por    |      por      |      per      |        par       |     per     |        din       |                 propter                |
+|            Extension of a distance or period of time           |    per / de   |     por    |      por      |      per      |        de        |      di     |        cu        |              ∅ (ablative)              |
+|                          Distributive                          |      per      |     por    |      por      |      per      |        par       |      a      |        de        |                   per                  |
+|                      Expressing the agent                      |      per      |     por    |      por      |      per      |        par       |      da     |        de        |                 ab / ā                 |
+|                           Measurement                          |      per      |     por    |      por      |      per      |        sur       |     per     |        pe        |                   per                  |
+|                         Multiplication                         |      per      |    vezes   |      por      |      per      |       fois       |     per     |      de…ori      | ∅ (multiplicative adverb with numeral) |
+|                              Price                             |      per      |     por    |      por      |      per      |       pour       |     per     |        cu        |          ∅ (ablative of price)         |
+|                  Movement ("Through" a place)                  |      per      |     por    |      por      |      per      |        par       |     per     |        per       |                   per                  |
+|                          Substitution                          |   per / con   |     por    |      por      |      per      |        par       |     con     |        cu        |      ∅ (ablative with accusative)      |
+|             Approximate position ("Around" or "by")            |      per      |     por    |      por      |      per      |        par       |     per     |        pe        |                  circa                 |
+| Duration of time (Finished actions or actions not in progress) | per / durante |     por    | por / durante | per /  durant | pendant / depuis |     per     | timp de / pentru |                    ∅                   |
+|                  Imminent action ("About to")                  |      per      |      ∅     |      por      |      per      |         ∅        |     per     |         ∅        |                    ∅                   |
+|                         Medium or mode                         |      per      |     por    |      por      |      per      |     par / en     |   via / in  |     prin / cu    |                   per                  |
+|               Finality or purpose ("In order to")              |      por      |    para    |      para     |  per / per a  |       pour       |     per     |       ca să      |                   ut                   |
+|                 Concessive value or comparisons                |      por      |    para    |      para     |     per a     |       pour       |     per     |      pentru      |                   pro                  |
+|                           Destination                          |      por      |    para    |  para / hacia |     cap a     |       pour       | per / verso |       spre       |                 ad / in                |
+|                            Deadline                            |      por      |     até    |      para     |    abans de   |       d'ici      | entro / per |       până       |                  ante                  |
+|                             Opinion                            |      por      |    para    |      para     |     per a     |       pour       |     per     |       ca să      |  ∅ (dative pronoun: mihi, tibi, etc.)  |
+|                         For a recipient                        |      por      |    para    |      para     |     per a     |       pour       |     per     |      pentru      |  ∅ (dative pronoun: mihi, tibi, etc.)  |
+|                 Indicating a determined moment                 |      por      |    para    |      por      |      per      |       pour       |     per     |        de        |            ad / (accusative)           |
+|                       Obtaining something                      |      por      |    para    |      por      |      per      |       pour       |     per     |       ca să      |                   ut                   |
+|                   To be in favor of something                  |      por      |      ∅     |      para     |     per a     |       pour       |     per     |      pentru      |                   pro                  |
+|                    In exchange for something                   |      por      |     por    |      por      |      per      |       pour       |     per     |      pentru      |                   pro                  |
+|        Representation (“In place of” or “On behalf of”)        |      por      |     por    |      por      |      per      |       pour       |     per     |      pentru      |                   pro                  |
 
 ## 10.3.5. More Information
 
