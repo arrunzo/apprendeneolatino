@@ -27,9 +27,9 @@ Por a ["Por" + "A"] ➜ Pora ➜ Para
 
 To supplement other uses, "por a" came into being, which eventually became "por a" (composed of the new preposition "por" and the inherited "a" from Latin "ad"). Through a process called "assimilation", where one sound of a word becomes more like another sound in the word, "pora" finally became "para".
 
-In short, "por" and "para" more or less corresponds to "per" and "prō" in Classical Latin.
+In short, "por" and "para" more or less correspond to "per" and "prō" in Classical Latin. However, due to these particular evolutions, there are some differences from Latin and other Romance languages in their uses.
 
-In a similar fashion, Catalan has "per" and "per a", having the same meanings in "por" and "para" in Spanish and Portuguese. The difference is that "per" was wholly inherited in appearance from "per" in Latin, instead of conflating "per" and "prō".
+In a similar fashion, Catalan has "per" and "per a", having the same meanings in "por" and "para" in Spanish and Portuguese. The difference is that "per" was wholly inherited in appearance from "per" in Latin, instead of conflating "per" and "prō". It is worth noting that depending on the dialect of Catalan, "per a" is not used with the same frequency as Spanish. Some dialects may prefer "per" in some situations. For example for the sense of finality or purpose, some dialects (northern and central Catalan, Balearic and Alguerese dialects) prefer "per" instead of "per a". Sometimes, "per a" may be considered a castillianism. For example: "No tindrem temps per a fer tantes coses" instead of "No tindrem temps de fer tantes coses", or "Això no serveix per a res" instead of "Això no serveix de res".
 
 ### Italian
 In the case of Italian, a similar displacement happened, but with a different preposition. "Per" in Italian was inherited from "per", but it also took functions from "prō".
@@ -45,7 +45,7 @@ Like other Romance languages, Romanian inherits its prepositions, but due to its
 
 "Pe" comes from the Latin "per", conserving some key meanings like "through" and "approximately". However, unlike other languages, its meaning was also influenced by "super" (meaning "above" or "on top of") to mean "on" with contact.
 
-"De" was inherited from "dē", but has some key innovative meanings that make it different from direct cognates in other Romance languages. Some examples are "de" being the preposition that mark the agent of a passive verb (ex: A book written by Jose Marti), which was a function "ab" had in Latin or indicating the reason behind something (ex: We cannot see because of the fog).
+"De" was inherited from "dē", but has some key innovative meanings that make it different from direct cognates in other Romance languages. Some examples are "de" being the preposition that mark the agent of a passive verb (ex: A book written by Jose Martí), which was a function "ab" had in Latin, or indicating the reason behind something (ex: We cannot see because of the fog).
 
 "Pentru" is an evolution of the Latin "per intrō", with a meaning closest to the original Latin "prō".
 
@@ -133,19 +133,19 @@ In most cases, "per ad" is a valid synonym for "por".
 
 However, there are several uses in these languages that are different:
 1. In exchange for something
-2. Representation (“In place of” or “On behalf of”)
+2. Representation ("In place of" or "On behalf of")
 
 In these cases, "per ad" is **not** possible.
 
 In regards to the use of "representation", this results in a notable difference between Iberian languages and other languages. Some verbs take on a different meaning depending on whether "por" or "para" is used.
 
-For example, in Iberian languages, "trabajar por" (to work in support of something or substituting another person) and "trabajar para" (like working directly for an employer).
+For example, in Spanish, "trabajar por" (to work in support of something or substituting another person) and "trabajar para" (like working directly for an employer).
 
 Another example is "luchar", where "luchar por" (the frequent form) refers to fighting that emphasizes the objective, or the abstract desire. "Luchar para" (much less common) refers to fighting for a specific objective that was achieved.
 
 Other Romance languages use the same preposition for both the use of "representation" and "for a recipient". In languages like Italian, French and Romanian, in contrast to Iberian languages, the distinction is contextual rather than explicitly with a different preposition.
 
-That being said, some may prefer to emulate the Iberian distinction in the form of "trepallîare per" and "trepallîare per ad/por". It is up to the individual user, but note that this is not a general characteristic.
+That being said, some may prefer to emulate the Iberian distinction in the form of "trepallîare per" and "trepallîare per ad/por". It is up to the individual user, but note that this is a particularity not found in other Romance languages.
 
 ### Per que vs Por que
 
