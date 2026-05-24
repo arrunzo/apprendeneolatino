@@ -34,11 +34,15 @@
   --ifm-heading-font-family: 'Alegreya Sans Bold';
   --ifm-navbar-link-active-color: #f2cf2c;
   --ifm-button-background-color: #ffffff;
+  --ifm-hero-background-color:                            #21af90;
+  --ifm-hero-text-color:                                        #21af90;
+
+  --ifm-font-size-base: 125%;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #213340;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -48,4 +52,15 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-hero-text-color: #e3e3e3;
   --ifm-navbar-background-color: #a80230;
+
+  --ifm-menu-color:                             var(--ifm-color-emphasis-700);
+    --ifm-menu-color-active:                           #3b91e3;
+    --ifm-menu-color-background-active:                var(--ifm-hover-overlay);
+    --ifm-menu-color-background-hover:                 var(--ifm-hover-overlay);
+    --ifm-tabs-color-active:                           #3b91e3;
+    --ifm-pagination-color-active:                     #3b91e3;
+  --ifm-dropdown-background-color:                    #213340;
+  --ifm-breadcrumb-color-active: #3b91e3;
+  --ifm-dropdown-hover-background-color: #3b91e3;
 }
+
