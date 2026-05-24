@@ -34,11 +34,11 @@
       "message": "No se encontró ningún documento",
       "description": "The paragraph for empty search result"
     },
-  "Apprènde Neolatino": {
-     "message": "Apprènde Neolatino"
+  "Salve! 👋": {
+     "message": "Salve! 👋"
   },
-  "A free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages.": {
-     "message": "Un sitio web gratuito para aprender neolatín (romance neolatino), el idioma que conecta las lenguas romances modernas."
+  "Welcome to Apprènde Neolatino [Learn Neolatin], a free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages. 🇵🇹 🇪🇸 🇦🇩 🇫🇷 🇮🇹 🇷🇴": {
+     "message": "Bievenido a Apprènde Neolatino [Aprende Neolatín], un sitio web gratuito para aprender neolatín (romance neolatino), el idioma que conecta las lenguas romances modernas."
   },
   "Learn now!": {
      "message": "¡Aprende ahora!"
