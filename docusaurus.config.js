@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Apprènde Neolatino',
-  tagline: 'A free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages.',
+  title: 'Salve! 👋',
+  tagline: 'Welcome to Apprènde Neolatino [Learn Neolatin], a free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages. 🇵🇹 🇪🇸 🇦🇩 🇫🇷 🇮🇹 🇷🇴',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
