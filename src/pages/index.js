@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Test from '@site/src/components/Test';
 
 import Translate, {translate} from '@docusaurus/Translate';
 
@@ -15,7 +16,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <Translate>{siteConfig.title}</Translate>
+          <Translate>Salve! 👋</Translate>
         </Heading>
         <p className="hero__subtitle"><Translate>{siteConfig.tagline}</Translate></p>
         <div className={styles.buttons}>
@@ -35,7 +36,8 @@ export default function Home() {
   return (
     <Layout
       title={`Benvenito!`}
-      description="A free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages.">
+      description=<Translate>"A free website to learn Neolatin (Romance Neolatino), the language that connects modern Romance languages."</Translate>>
+<Test />
       <HomepageHeader />
       <main>
         <HomepageFeatures />
