@@ -127,7 +127,7 @@ algolia: {
       title: '',
       logo: {
         alt: 'Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo5.svg',
       },
       items: [
         {
