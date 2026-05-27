@@ -1,10 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# 17.4. Compound Tenses of the Past
+# 17.5. Compound Tenses of the Past
 
-## 17.4.1. What Are Compound Tenses?
+## 17.5.1. What Are Compound Tenses?
 A compound tense is a tense that combines an auxiliary verb (also known as a "helping verb") with a main verb.
 
 Neolatin has two types of compound tenses:
@@ -19,7 +19,7 @@ Below is the formula for a **perfect compound tense**:
 
 To illustrate the idea, think of the phrase "I have done something". This is an example of the present perfect tense in English, where "to have" is the auxiliary verb and "done" is the past participle of the verb "to do".
 
-## 17.4.2. Past Participles
+## 17.5.2. Past Participles
 A past participle is a word derived from the infinitive form of a verb that has several key uses:
 1. As an adjective (descriptive adjectives or adjectives in the passive voice)
 2. As a noun
@@ -32,7 +32,7 @@ To form regular past participles, follow the patterns below:
 
 Keep in mind that although Neolatin and Romance languages have irregular past participles, **it is acceptable to only use regular past participles in Neolatin**. However, some users may want to sound more natural or learn to better understand certain Romance languages. Find various irregular past participles below.
 
-## 17.4.3. Irregular Past Participles
+## 17.5.3. Irregular Past Participles
 
 ### Generally Irregular
 
@@ -105,7 +105,7 @@ These past participles are regular, but are still important because they have th
 |   Venire  |      Venito     |           Devenire          |           Devenito          |
 |   Pètere  |      Petuto     | - Repètere<br/> - Compètere | - Repetuto<br/> - Competuto |
 
-## 17.4.4. Compound Tenses
+## 17.5.4. Compound Tenses
 
 ### The Present Perfect
 The present perfect has several uses:
@@ -146,7 +146,7 @@ The past perfect expresses an action completed in the past and preceding another
 | Ella èra fatigata per que haveva studiato tota la nòcte.  | She was tired because she had studied all night. |
 
 
-## 17.4.5. Havere vs Èssere?
+## 17.5.5. Havere vs Èssere?
 
 "Havere" and "èssere" are the auxiliary verbs that are used with perfect compound tenses.  In accordance with the variation of Romance languages, Neolatin presents the option of differentiating between "havere" and "èssere" as they are used in French, Occitan and Italian (the "core" of Romance Europe). 
 
