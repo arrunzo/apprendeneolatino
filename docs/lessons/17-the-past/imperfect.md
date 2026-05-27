@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# 17.2. The Imperfect Past
-## 17.2.1. Conjugation
+# 17.3. The Imperfect Past
+## 17.3.1. Conjugation
 The imperfect past tense is used for actions that are in progress or repeated.
 
 
@@ -25,7 +25,7 @@ The imperfect past tense is used for actions that are in progress or repeated.
 | Vós / Vosaltros / Vosaltras |     Parlavates     |      Apprendevates      |      Partivates     |
 |        Ellos / Ellas        |      Parlavan      |       Apprendevan       |       Partivan      |
 
-## 17.2.2. Uses
+## 17.3.2. Uses
 |                              Use                              |                                                                                                                                                 Example(s)                                                                                                                                                |                                                                                                                                             Translation(s)                                                                                                                                             |
 |:-------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |        Recurring events or habitual actions in the past       |                                                       1. Ella cantava por lo bebé totas las seras.<br/> 2. Elle sèmpre vedeva la televisione depòs de cenare.<br/> 3.Jocavan ad tennis lo doméneco.<br/> 4. Cata estate, viaggîàvamos ad la plajja.                                                       |                                                        1. She sang for the baby every evening.<br/> 2. He always watched television after eating dinner.<br/> 3. They played tennis on Sundays.<br/> 4. Every summer, we traveled to the beach.                                                        |
@@ -34,7 +34,7 @@ The imperfect past tense is used for actions that are in progress or repeated.
 |               Telling time and stating the date               |                                                                                                      1. Èran las dèce de la mattina.<br/> 2. Èra lo 1º [primo] de majjo de 2005 [doos-mille-cinque].                                                                                                      |                                                                                                         1. It was ten in the morning.<br/> 2. It was May 1st [first], 2005 [two thousand five].                                                                                                        |
 |                          Stating age                          |                                                                                                                                          Elle haveva vinte annos.                                                                                                                                         |                                                                                                                                        He was twenty years old.                                                                                                                                        |
 
-## 17.2.3. Trigger Words
+## 17.3.3. Trigger Words
 |                          Word(s)                          |    Translation   |
 |:---------------------------------------------------------:|:----------------:|
 |                            Ante                           |      Before      |
