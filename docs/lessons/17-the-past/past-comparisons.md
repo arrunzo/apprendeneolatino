@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# 17.3. Comparing the Simple Past and the Imperfect Past
+# 17.4. Comparing the Simple Past and the Imperfect Past
 🚧 **EN CONSTRUCTIONE**
 
 ## 🇬🇧 🇺🇸 ENGLISH
