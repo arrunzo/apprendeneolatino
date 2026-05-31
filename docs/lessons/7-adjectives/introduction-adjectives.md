@@ -108,9 +108,9 @@ A **restrictive adjective** (also known as a "limiting adjective") is an adjecti
 A **non-restrictive adjective** (also known as a "non-limiting adjective") is an adjective that provides **extra, non-essential information**.
 
 Furthermore, in relation to the main groups of adjectives:
-- **Descriptive adjectives** are mostly non-restrictive, but they can also be restrictive in some cases.
+- For **descriptive adjectives**, **qualifying adjectives** are **non-restrictive**, but **classifying adjectives** are **restrictive**.
+- **Relational adjectives** are **restrictive**.
 - All **determining adjectives** are **restrictive**.
-- **Relational adjectives** are also always **restrictive**.
 
 ### Differences
 To illustrate the difference between restrictive adjectives and non-restrictive adjectives, observe the following examples:
