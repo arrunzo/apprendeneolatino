@@ -174,6 +174,6 @@ If the invariable adjective is relational (like a musical genre or a brand for a
 |                                                |                    |
 |:----------------------------------------------:|:------------------:|
 |       Jòcos Nintendo / Jòcos de Nintendo       |   Nintendo games   |
-|       Cantsones Rock / Cantsones de Rock       |     Rock songs     |
+|       Cantsones rock / Cantsones de rock       |     Rock songs     |
 | Lo servitore Discord / Lo servitore de Discord | The Discord server |
 |   Lo gruppo Facebook / Lo gruppo en Facebook   | The Facebook group |
