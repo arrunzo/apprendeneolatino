@@ -3,82 +3,102 @@ sidebar_position: 3
 ---
 
 # 7.3. The Position of Adjectives
-🚧 **EN CONSTRUCTIONE**
+## 7.3.1. Some General Rules
+The majority of adjectives go after the noun. Qualifying adjectives can go either before (non-restrictive) or after the noun (restrictive). However, adjectives that go **before** the noun tend to have a **subjective**, **emphatic** or **poetic** meaning, whereas adjectives that go **after** are **objective**. 
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
+It is for this reason that both the phrases "lo interessante libro" or "lo libro interessante", meaning, "the interesting book", are equally possible. In contrast, only "lo libro verde", meaning "the green book" is correct. "Lo verde libro" sounds strange to native speakers of Romance languages, even if they cannot describe why, because its color is an objective description of its appearance.
 
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
+Below are some more examples:
+|                                           |                  |
+|:-----------------------------------------:|:----------------:|
+| Una idèa fantàstica / Una fantàstica idèa | A fantastic idea |
+|              Capellos negros              |    Black hair    |
 
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
+## 7.3.2. Only Before the Noun (Prenominal Adjectives)
+### Determiners
+All determiners always go before nouns and other adjectives.
 
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
+|                                                              Type                                                              |                                      Example(s)                                     |                                    Translation                                   |
+|:------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|                                                      Possessive Adjectives                                                     |                                      Mèo libro                                      |                                      My book                                     |
+| Definite Quantifiers:<br/>  1. Cardinal Numerals<br/>  2. Ordinal Numerals<br/>  3. Multiplicative Numerals<br/>  4. Fractions | 1. Doos libros<br/> 2. Lo primo día<br/> 3. Una càmera dopla<br/> 4. Un mèjjo litro | 1. Two books<br/>  2. The first day<br/>  3. A double room<br/>  4. A half liter |
+|                                                    Demonstrative Adjectives                                                    |                                     Cueste libro                                    |                                     This book                                    |
+|                                                    Interrogative Adjectives                                                    |                            Quale libro èst too preferito?                           |                           Which book is your favorite?                           |
+|                                                     Exclamatory Adjectives                                                     |                              Qué història interessante!                             |                            What an interesting story!                            |
+|                                                      Indefinite Adjectives                                                     |                                     Cata persona                                    |                                    Each person                                   |
+|                                       Articles (Indefinite Article and Definite Articles)                                      |                                  Un libro, Lo libro                                 |                                 A book, The book                                 |
 
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
+There are two other important pieces of information to add.
 
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
+Firstly, definite quantifiers go after other determiners.
 
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
+|                     |                  |
+|:-------------------:|:----------------:|
+| Cuestos doos libros |  These two books |
+| Mèa prima tentativa | My first attempt |
+|   La seconda vece   |  The second time |
+|   Cata cinque días  |  Every five days |
 
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
+Secondly, most determiners go before the noun, but multiplicative numerals can go before or after, depending on whether the meaning is emphatic (non-restrictive) or relational (restrictive).
 
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
+|                    |                 |
+|:------------------:|:---------------:|
+| Una dopla menaccîa | A double threat |
+|  Una càmera dopla  |  A double room  |
 
-## 🇮🇹 ITALIANO
-In costruzione 🙂
+### Apocopation
+**Apocopation** is the omission or loss of a sound or sounds at the end of a word. Although this concept can be applied in a general sense, like to the evolution of nouns, this section specifically talks about the concept of not only shortened **adjectives** for adjectives before the noun, but also **determiners** and even **adverbs**.
 
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
+Apocopation is **optional** in Neolatin, but very common in Romance languages. If a speaker wants to sound more natural or understand other languages better, it is worth examining the patterns below.
 
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
+#### Adverbs
 
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
+| Positive | Apocopated Form |  Translation |   Example  | Translation |
+|:--------:|:---------------:|:------------:|:----------:|:-----------:|
+|   Bène   |       Bèn       | Well / Quite | Bèn facto! |  Well done! |
 
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
+In reality, "bène" is an adverb of manner. Cognates for "bène" are already apocopated in Romance languages in the positive form (ex: "bien" in Spanish). Even Italian apocopates the word when placed before a past participle (ex: ben fatto).
 
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
+#### Determiners
 
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
+| Positive | Apocopated Form |       Translation      |             Example            |           Translation          |
+|:--------:|:---------------:|:----------------------:|:------------------------------:|:------------------------------:|
+|  Alcuno  |      Alcún      | Some (indefinite type) |     Alcún día / Qualque día    |            Some day            |
+|  Necuno  |      Necún      |           No           |          Necún hòmene          |             No man             |
+|   Tale   |       Tal       |          Such          | Tales idèas non me interèssan. | Such ideas do not interest me. |
+|    Uno   |        Un       |         A / An         |      Un libro / Uno libro      |             A book             |
 
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
+Officially, "uno" is both a cardinal number and the masculine singular indefinite article; However, "un" is a very common form among all main Romance languages as the indefinite article. Although, "uno" appears in a language like Neapolitan, where the masculine singular indefinite article is "nu" from Latin "ūnus".
 
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
+"Tale" is different from other determiners in that it can also be pluralized, meaning, it is a "type 2" adjective that changes only to agree in quantity. Following the model of languages of France and Italy, it can even be accompanied by an indefinite article when singular (ex: "una tale idèa", meaning, "such an idea"). The rest of the determiners listed are inherently masculine and singular.
 
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
+#### Adjectives
+All the adjectives listed can be apocopated before a masculine and singular noun.
 
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
+| Positive | Apocopated Form | Translation |              Example             |           Translation          |
+|:--------:|:---------------:|:-----------:|:--------------------------------:|:------------------------------:|
+|   Bòno   |       Bòn       |     Good    |             Bòn día!             |            Good day!           |
+|   Santo  |       San       |    Saint    |            San Joanne            |           Saint John           |
+|  Grande  |       Gran      |    Great    | Una gran parte de la populatione | A large part of the population |
 
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
+- Cognates for "bòno" are consistently apocopated across all main Romance languages.
 
-## 🇵🇱 POLSKI
-W budowie 🙂
+- Cognates for "santo" are apocopated in Portuguese, Spanish and Italian, but not in other languages.
 
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
+- Cognates for "grande" are apocopated in Spanish, Catalan and Italian, but not according to the same rules. In Italian, “gran” is an optional shortened form of “grande” when a singular noun starts with a consonant. In Spanish and Catalan, “gran” is required before singular nouns, regardless of whether it starts with a vowel or consonant.
 
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
+### Adverbial Adjectives
 
 
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
 
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
+## 7.3.3. Only After the Noun (Postnominal Adjectives)
 
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
+## 7.3.4. Change of Meaning
 
-## 🇨🇳 中文
-正在建设中 🙂
+## 7.3.5. The Use of Adjectives With Adverbs
 
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
+## 7.3.6. The Use of Adjectives With Noun Phrases
 
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
+## 7.3.7. The Use of Multiple Restrictive Adjectives
 
-## 🇯🇵 日本語
-工事中 🙂
-
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
-
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+## 7.3.8. The Position of One Adjective with Multiple Nouns
