@@ -3,82 +3,54 @@ sidebar_position: 7
 ---
 
 # 1.7. Stress, Rhythm and Intonation
-🚧 **EN CONSTRUCTIONE**
+## 1.7.1. Prosody?
 
-## 🇬🇧 🇺🇸 ENGLISH
-Under construction 🙂
+## 1.7.2. Stress
 
-In the meantime, join the [Discord server](https://discord.gg/d6rX7DQ9mF) and look at the ["Essential Neolatin Grammar"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (only in Neolatin).
+## 1.7.3. Orthographic Stress (Accentuation)
+Graphical accentuation is used in Neolatin on vowels with four functions:
+1. To mark the stress of a word
+2. To mark hiatus (meaning, non-diphthongization)
+3. To mark open vowels
+4. To differentiate between homophones
 
-I'm working on a lot of things behind the scenes, and I will update this site with the final versions of the lessons as time goes on. My attention is currently on the English version of the lessons so non-native speakers of Romance languages can learn. Versions in other languages will be addressed in the future. Thank you for your patience. 🙏
+There are three main types of stress in Neolatin.
+|          Type          |                                          Definition                                         |                              Examples                              |                                     IPA Transcription                                     |
+|:----------------------:|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+|     Oxytonic stress    |                     A type of stress that occurs on the final syllable.                     |                         - Bebé<br/> - Caffè                         |                                  - [beˈbe]<br/> - [kafˈfɛ]                                 |
+|   Paraoxytonic stress  |     A type of stress that occurs on the penultimate syllable (second to last syllable).     |                        - Colore<br/> - Capace                       |                               - [koˈlo.ɾe]<br/> - [kaˈpa.ʧe]                               |
+| Proparaoxytonic stress | A type of stress that occurs on the antepenultimate syllable (third from the last syllable. | - Prèndere<br/> - Fàcere<br/> - Fàntastico <br/> - Sàbato<br/> - Càmera | - [ˈpɾɛn̪.d̪e.ɾe]<br/> - [ˈfa.ʧe.ɾe]<br/> - [fan̪ˈt̪as.t̪i.ko]<br/> - [ˈsa.ba.t̪o]<br/> [ˈka.me.ɾa] |
 
-## 🇪🇸 🇲🇽 ESPAÑOL
-En construcción 🙂
+The majority of words in Neolatin are generally paraoxytonic (with the phonetic accent on the penultimate syllable) and either end in a vowel or some consonants that participate in the inflection.
 
-Mientras tanto, únete al [servidor de Discord](https://discord.gg/d6rX7DQ9mF) y mira la ["Gramática neolatina esencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (sólo en neolatín).
+Vowels: `<a, e, o>` (*c**a**sa*, *par**e**te*, *c**a**nto*) aut, raramente, `<i, u>`, (*t**a**xi*, *tri**b**u*)
+`<s>` (*c**a**sas*, *par**e**tes*, *c**a**ntos*, *t**a**xis*, *tr**i**bus*; *c**a**ntas*, *cant**a**mos*, *cant**a**tes*)[^1]
+`<n>` (*c**a**ntan*)
+`<t>` (*c**a**ntat*, *c**a**ntant*, which are secondary variants of *canta*, *cantan*)
 
-Estoy trabajando en muchas cosas entre bambalinas y actualizaré este sitio con las versiones finales de las lecciones a medida que pase el tiempo. Actualmente estoy trabajando en la versión inglesa de las lecciones para que los hablantes no nativos de lenguas romances puedan aprender. Las versiones en otros idiomas se abordarán en el futuro. Gracias por tu paciencia. 🙏
+In paraoxytones, the accent is only written to indicate that an *I* or *U* is tonic and not a hiatus with the following vowel (*cantar**í**a* –not *cant**a**ria*–, *filosof**í**a* –not *filos**o**fia–*, *t**í**o*, *substit**ú**a* –not *subst**i**tua–*).
 
-## 🇵🇹 🇧🇷 PORTUGUÊS
-Em construção 🙂
+In Neolatin, there are also proparoxytones, that is, with the phonetic accent on the antepenultimate syllable (*cantàssemos*) and oxytones, with the accent on the last syllable (*cantaràs*). In these words, we use a graphical accent to mark the tonic syllable (the syllable that has the emphasis), which is not the usual penultimate.
 
-Enquanto isso, junte-se ao [servidor do Discord](https://discord.gg/d6rX7DQ9mF) e confira a ["Gramática neolatina essencial"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (somente em neolatim).
+The graphical accent marks not only the tonic syllable, but also the timbre of the vowel, which can be closed or open. In other words, accent marks if a vowel is closed or open.  The vowels with closed timbre ([e, i, o, u]) are accentuated with an acute accent `<é, í, ó, ú>`[^2], whereas the vowels with open timbre ([a, ɛ, ɔ]) are accentuated with the grave accent (`<à, è, ò>`). Consequently, the accent on the vowels `<e, o>` is acute if these vowels are pronounced as closed vowels (`<é, ó>`) and grave if they are pronounced as open vowels (`<è, ò>`). If the accent is on the vowel `<a>`[^3], the accent mark is always grave. This is because the grave accent mark aligns this vowel with other open vowels (`< è, ò>`)
 
-Estou trabalhando em muitas coisas nos bastidores e atualizarei este site com as versões finais das lições conforme o tempo passar. Atualmente, estou trabalhando na versão inglesa das lições para que os falantes não nativos de línguas românicas possam aprender. Outras versões em outros idiomas serão abordadas no futuro. Obrigado pela sua paciência. 🙏
+Below are the rules for graphical accentuation:
+- Accent marks are optional, but highly recommended and the standard.
+- Every open E and open O ([ɛ, ɔ], respectively) have a grave accent mark: *p**ò**rta*, *mat**è**ria*, *acc**è**nto*. In the case of compound word with double phonetic accent (primary and secondary stress), [ɛ, ɔ] with a secondary accent can close into [e, o]: *p**ò**rta* + *l**é**tteras* → *pòrtal**é**tteras* / *portal**é**tteras*. The secondary accent in adverbs with *–mènte* falls under this component: *m**è**ra* + *m**è**nte* → *m**è**ramènte* / *m**è**ramente*.
+- Paraoxytonic words with tonic *I* or *U* in a hiatus with another vowel: *cantar**í**a*, *filosof**í****a*, *t**í**o*.
+- Oxytonic words that end in a vowel or the consonants `<s, n, t>`: *caff**è***, *per**ò***, *cantar**à**/*cantar**à**t*, *cantar**à**s*, *cantar**à**n*/*cantar**à**nt*, *dep**ò**s*, *sin**ó**n*. Note: not others like *cant**a**i*, *cant**a**u*, *cantar**a**i* where the final *I* or *U* is not a vowel (because they form a diphthong) or cases like *ad**u**c*, which end in a consonant different from `<s, n, t>`.
+- All the proparoxytonic words, regardless of their ending: ***à**nima*, *am**à**bile*, *mec**à**nico*, *f**ò**rfeces*. 
+Note: cases like *necess**a**ria*, *cont**i**nua* are not proparoxytones, since final  *-ia*, *-ua*, etc. form a diphthong in Neolatin.
+- Paraoxytonic words that do not end in a vowel or the consonants `<s, n, t>`: *st**à**ndard*, *f**ú**tbol*. They are loanwords from other languages, and they have Romanized variants with the graphical accent on the same syllable: *stàndarde*, *fútbole*.
+- The infinitives that lose the final *-e* are to be followed by clitic pronouns that conserve the graphical accent of their complete forms: *v**é**nder-los* (like *v**é**ndere-los*), *ir-se-ne* (como *ire-se-ne*).
+- Adverbs ending in *-mente* conserve the graphical accentuation of the adjectives from which they are derived (*bòna* → *bònamente*).
+- In homophones, in order to distinguish them with a diacritic accent: *nós*, *vós*, *màis* ‘more’, *càusa* ‘motive’, *dé*, *dà* ‘forms of the verb dare’ (vs. *nos*, *vos*, *mais* but’, *causa* ‘entity’, *de*, *da* ‘prepositions’).
+- It is possible to graphically accentuate interrogatives to differentiate between words in different grammatical classes (*que* vs. *qué*, *quanto* vs. *quànto*, *como* vs. *cómo*, *quando* vs. *quàndo*).
+- 
+## 1.7.4. Rhythm
 
-## 🇮🇹 ITALIANO
-In costruzione 🙂
+## 1.7.5. Intonation
 
-Nel frattempo, unisciti al [server Discord](https://discord.gg/d6rX7DQ9mF) e dai un'occhiata alla ["Grammatica neolatina essenziale"](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (solo in neolatino).
-
-Sto lavorando a molte cose dietro le quinte e aggiornerò questo sito con le versioni finali delle lezioni man mano che passerà il tempo. Attualmente sto lavorando sulla versione inglese delle lezioni, in modo che anche chi non è madrelingua di lingue romanze possa impararle. Le versioni in altre lingue saranno prese in considerazione in futuro. Grazie per la tua pazienza. 🙏
-
-## 🇫🇷 🏴󠁣󠁡󠁱󠁣󠁿 FRANÇAIS
-En construction 🙂
-
-En attendant, rejoignez le [serveur Discord](https://discord.gg/d6rX7DQ9mF) et regardez la [« Grammaire néo-latine essentielle »](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (seulement en néolatin).
-
-Je travaille sur beaucoup de choses en coulisses et je mettrai à jour ce site avec les versions finales des leçons au fil du temps. Je travaille actuellement sur une version anglaise des leçons afin que les locuteurs non natifs de langues romanes puissent apprendre. D’autres versions linguistiques seront abordées à l’avenir. Merci pour votre patience. 🙏
-
-## 🇷🇴 ROMÂNĂ
-În construcție 🙂
-
-Între timp, alătură-te [serverului Discord](https://discord.gg/d6rX7DQ9mF) și consultă [„Gramatica neolatină esențială”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (doar în neolatină).
-
-Lucrez la o mulțime de lucruri în culise și voi actualiza acest site cu versiunile finale ale lecțiilor pe măsură ce trece timpul. În prezent, lucrez la o versiune în limba engleză a lecțiilor, astfel încât și vorbitorii care nu sunt vorbitori nativi de limbi romanice să poată învăța. Alte versiuni lingvistice vor fi abordate în viitor. Vă mulțumesc pentru răbdare. 🙏
-
-## 🇩🇪 DEUTSCH
-Im Aufbau 🙂
-
-In der Zwischenzeit könnt ihr euch auf dem [Discord-Server](https://discord.gg/d6rX7DQ9mF) anmelden und euch die [„Grundlegende neulateinische Grammatik“](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (nur auf Neulatein) ansehen.
-
-Ich arbeite im Hintergrund an vielen Dingen und werde diese Seite nach und nach mit den finalen Versionen der Lektionen aktualisieren. Mein Fokus liegt derzeit auf der englischen Version der Lektionen, damit auch Nicht-Romanische-Muttersprachler lernen können. Versionen in anderen Sprachen werden in Zukunft hinzugefügt. Vielen Dank für eure Geduld. 🙏
-
-## 🇵🇱 POLSKI
-W budowie 🙂
-
-W międzyczasie dołącz do [serwera Discord](https://discord.gg/d6rX7DQ9mF) i sprawdź [„Podstawową gramatykę neołacińską”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (tylko w języku neołacińskim).
-
-Pracuję nad wieloma rzeczami za kulisami i będę aktualizować tę stronę o finalne wersje lekcji w miarę upływu czasu. Obecnie skupiam się na wersji angielskiej lekcji, aby osoby nieznające języków romańskich mogły się jej nauczyć. Wersje w innych językach zostaną omówione w przyszłości. Dziękuję za cierpliwość. 🙏
-
-
-## 🇷🇺 РУССКИЙ
-В разработке 🙂
-
-А пока присоединяйтесь к [серверу Discord](https://discord.gg/d6rX7DQ9mF) и изучите [«Основы неолатинской грамматики»](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing) (только на неолатинском).
-
-Я работаю над многими проектами и буду обновлять этот сайт, публикуя финальные версии уроков по мере их появления. Сейчас я работаю над английской версией уроков, чтобы люди, для которых романские языки не являются родными, могли изучать их. Версии на других языках будут добавлены в будущем. Спасибо за терпение. 🙏
-
-## 🇨🇳 中文
-正在建设中 🙂
-
-与此同时，请加入 [Discord 服务器](https://discord.gg/d6rX7DQ9mF)并查看[“新拉丁语语法精要”](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)（仅在新拉丁语中）。
-
-我正在幕后进行大量工作，并将随着时间的推移更新此网站的课程最终版本。我目前专注于课程的英文版本，以便非罗曼语母语人士也能学习。其他语言版本将在未来陆续推出。感谢您的耐心等待。🙏
-
-## 🇯🇵 日本語
-工事中 🙂
-
-その間、[Discord サーバー](https://discord.gg/d6rX7DQ9mF)に参加して[文法文書](https://drive.google.com/file/d/1GyxCbwnWDZKEcV_v0EUyLEaLr3VKktd0/view?usp=sharing)を参照してください（ネオラテン語のみ）。
-
-現在、舞台裏で様々な作業を進めており、レッスンの最終版をこのサイトで随時更新していきます。現在は、ロマンス語を母国語としない方でも学習できるよう、英語版のレッスンの作成に注力しています。他の言語版については、今後対応していく予定です。今しばらくお待ちください。🙏
+[^1]: There are also some words that end in -s that are singular, such as lunes and lapis
+[^2]: Attention: the vowel `<a>` had an acute accent (`<á>`) in a previous version of Neolatin
+[^3]: As a general rule, the accent on the vowels `<í, ú>` is always acute. However, there also exists the possibility in Neolatin of using `<ì, ù>` in forms like sìcco, sìte, bùcca, jùvene (variants of secco, sete, bocca, jóvene), to indicate that the majority pronunciation is open ([e, o]).
