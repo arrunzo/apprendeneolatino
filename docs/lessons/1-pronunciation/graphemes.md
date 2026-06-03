@@ -3,7 +3,6 @@ sidebar_position: 5
 ---
 
 # 1.5. Graphemes ✅
-## 1.5.1. Table of Graphemes
 
 | GRAPHEME | SOUND | EXAMPLE | TRANSCRIPTION |
 |:--------:|:-----:|:-------:|:-------------:|
@@ -67,9 +66,6 @@ The circumflex accent in the mark `<î>` is necessary because, without it, the i
 *visione* [-sjo-]. In any case, it is infrequent.
 
 Furthermore, Neolatin uses the acute (◌́) and the grave (◌̀) accents. They indicate phonetic accentuation, vocalic opening, non-diphthongization, and they differentiate some homophones.
-
-## 1.5.2. Accentuation
-
 
 [^1]: The sequence `<gn>` was pronounced in Latin as `[ŋn]`; and the first consonant is nasal in all Romance languages. From Latin /ŋn/ (like in LĬGNU): /mn/ in Romanian (*lemn*), /nn/ in Sardinian (*linna* < plural LĬGNA) and /ɲɲ/ in Italian (*legno*), and /ɲ/ in Portuguese (*lenho*), Spanish (*leño*), Catalan (*lleny*) and French (old French *leigne* < LĬGNA).
 [^2]: `<qu>` can sound like [k] in the following words: *que*, *qui*, *quèn* and compound words containing any of these words. Regularized spellings also exist: *che*, *chi*, *chèn*.
