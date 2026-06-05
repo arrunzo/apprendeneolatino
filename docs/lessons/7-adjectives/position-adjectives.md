@@ -75,17 +75,26 @@ Officially, "uno" is both a cardinal number and the masculine singular indefinit
 #### Adjectives
 All the adjectives listed can be apocopated before a masculine and singular noun.
 
-| Positive | Apocopated Form | Translation |              Example             |           Translation          |
-|:--------:|:---------------:|:-----------:|:--------------------------------:|:------------------------------:|
-|   Bòno   |       Bòn       |     Good    |             Bòn día!             |            Good day!           |
-|   Santo  |       San       |    Saint    |            San Joanne            |           Saint John           |
-|  Grande  |       Gran      |    Great    | Una gran parte de la populatione | A large part of the population |
+| Positive | Apocopated Form |   Translation  |                              Example                             |                              Translation                              |
+|:--------:|:---------------:|:--------------:|:----------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|   Bòno   |       Bòn       |      Good      |                             Bòn día!                             |                               Good day!                               |
+|   Santo  |       San       |      Saint     |                            San Joanne                            |                               Saint John                              |
+|  Grande  |       Gran      |      Great     |                 Una gran parte de la populatione                 |                     A large part of the population                    |
+|  Menore  |      Menor      | Lesser/Smaller | Cuesta civtate ha moltos cineses, et en menor mesura, filipinos. | This city has many Chinese people, and to a lesser extent, Filipinos. |
+|  Majjore |      Majjor     | Greater/Bigger |  La majjor parte de la populatione vive en la metate orientale.  |       The majority of the population lives in the eastern half.       |
+| Mellîore |     Mellîor     |      Best      |                   Cuesto èst lo mellîor libro.                   |                         This is the best book.                        |
 
 - Cognates for "bòno" are consistently apocopated across all main Romance languages.
 
 - Cognates for "santo" are apocopated in Portuguese, Spanish and Italian, but not in other languages.
 
 - Cognates for "grande" are apocopated in Spanish, Catalan and Italian, but not according to the same rules. In Italian, “gran” is an optional shortened form of “grande” when a singular noun starts with a consonant. In Spanish and Catalan, “gran” is required before singular nouns, regardless of whether it starts with a vowel or consonant.
+
+#### Nouns
+More specifically, as a title, not as a noun on its own.
+| Positive | Apocopated Form | Translation |                Example                |            Translation            |
+|:--------:|:---------------:|:-----------:|:-------------------------------------:|:---------------------------------:|
+| Sennîore |     Sennîor     |    Mister   | Lo Sennîor Cardoso serà accuí prèsto. | Mister Cardoso will be here soon. |
 
 ### Adverbial Adjectives
 
