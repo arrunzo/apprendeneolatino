@@ -61,12 +61,12 @@ In reality, "bène" is an adverb of manner. Cognates for "bène" are already apo
 
 #### Determiners
 
-| Positive | Apocopated Form |       Translation      |             Example            |           Translation          |
-|:--------:|:---------------:|:----------------------:|:------------------------------:|:------------------------------:|
-|  Alcuno  |      Alcún      | Some (indefinite type) |     Alcún día / Qualque día    |            Some day            |
-|  Necuno  |      Necún      |           No           |          Necún hòmene          |             No man             |
-|   Tale   |       Tal       |          Such          | Tales idèas non me interèssan. | Such ideas do not interest me. |
-|    Uno   |        Un       |         A / An         |      Un libro / Uno libro      |             A book             |
+| Positive | Apocopated Form |       Translation      |         Example         |            Translation            |
+|:--------:|:---------------:|:----------------------:|:-----------------------:|:---------------------------------:|
+|  Alcuno  |      Alcún      | Some (indefinite type) | Alcún día / Qualque día |              Some day             |
+|  Necuno  |      Necún      |           No           |       Necún hòmene      |               No man              |
+|   Tale   |       Tal       |          Such          | Non credo en tal causa. | I do not believe in such a thing. |
+|    Uno   |        Un       |         A / An         |   Un libro / Uno libro  |               A book              |
 
 Officially, "uno" is both a cardinal number and the masculine singular indefinite article; However, "un" is a very common form among all main Romance languages as the indefinite article. Although, "uno" appears in a language like Neapolitan, where the masculine singular indefinite article is "nu" from Latin "ūnus".
 
@@ -83,6 +83,7 @@ All the adjectives listed can be apocopated before a masculine and singular noun
 |  Menore  |      Menor      | Lesser/Smaller | Cuesta civtate ha moltos cineses, et en menor mesura, filipinos. | This city has many Chinese people, and to a lesser extent, Filipinos. |
 |  Majjore |      Majjor     | Greater/Bigger |  La majjor parte de la populatione vive en la metate orientale.  |       The majority of the population lives in the eastern half.       |
 | Mellîore |     Mellîor     |      Best      |                   Cuesto èst lo mellîor libro.                   |                         This is the best book.                        |
+|  Pejjore |      Pejjor     |      Worst     |             Cuesto èst lo pejjor libro que hai lècto.            |                This is the worst book that I have read.               |
 
 - Cognates for "bòno" are consistently apocopated across all main Romance languages.
 
