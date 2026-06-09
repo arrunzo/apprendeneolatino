@@ -93,9 +93,30 @@ All the adjectives listed can be apocopated before a masculine and singular noun
 
 #### Nouns
 More specifically, as a title, not as a noun on its own.
-| Positive | Apocopated Form | Translation |                Example                |            Translation            |
-|:--------:|:---------------:|:-----------:|:-------------------------------------:|:---------------------------------:|
-| Sennîore |     Sennîor     |    Mister   | Lo Sennîor Cardoso serà accuí prèsto. | Mister Cardoso will be here soon. |
+
+|  Positive  | Apocopated Form | Translation |                      Example                     |                  Translation                 |
+|:----------:|:---------------:|:-----------:|:------------------------------------------------:|:--------------------------------------------:|
+|  Sennîore  |     Sennîor     |    Mister   |       Lo Sennîor Cardoso serà accuí prèsto.      |       Mister Cardoso will be here soon.      |
+| Professore |    Professor    |  Professor  | Lo professor Johnson ensegna ad la universitate. | Professor Johnson teaches at the university. |
+|   Doctore  |      Doctor     |    Doctor   |    Lo doctor Castro trepallîa ad lo hospitale.   |     Doctor Castro works at the hospital.     |
+
+#### Demonstratives
+|      Positive     | Apocopated Form | Translation |   Example  | Translation |
+|:-----------------:|:---------------:|:-----------:|:----------:|:-----------:|
+| Cuello / Accuello |  Cuel / Accuél  |     That    | Cuel libro |  That book  |
+
+:::warning
+
+Although there is some basis in Romance forms ("aquel" in Spanish, "aquell" in Catalan, "quel" in Italian), apocopated forms of the demonstrative adjective "cuello" or "accuello" have the distinction of being officially rejected by Jordi Cassany-Bates.
+
+:::
+
+#### Interrogatives
+| Positive | Apocopated Form |         Translation        |            Example            |         Translation         |
+|:--------:|:---------------:|:--------------------------:|:-----------------------------:|:---------------------------:|
+|   Quale  |       Qual      | Which / What (information) | Qual èst too libro preferito? | What is your favorite book? |
+
+"Quale" is only apocopated in Italian when used with the verb "essere". It is rarely apocopated otherwise, like only in some written language (ex: qual idea).
 
 ### Adverbial Adjectives
 
