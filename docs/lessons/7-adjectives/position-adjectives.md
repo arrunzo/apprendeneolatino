@@ -125,11 +125,68 @@ Although there is some basis in Romance forms ("aquel" in Spanish, "aquell" in C
 ## 7.3.3. Only After the Noun (Postnominal Adjectives)
 
 ## 7.3.4. Change of Meaning
+|      Adjective     |                           Meaning Before Noun                          |                                         Meaning After Noun                                        |
+|:------------------:|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
+|       Pàupero      |                   Pàupera gènte (Misfortunate people)                  |                         Gènte pàupera (Poor people that have little money)                        |
+|       Triste       |           Una triste persona (A dreadful person to deal with)          |                        Una persona triste (A person that is literally sad)                        |
+|       Jòvene       |             Un jòvene actore (A actor that is young in age)            |                Un vino jòvene (A wine that is unripe, recent or generally youthful)               |
+|       Antico       |                  Mèa antica escòla (My former school)                  | - La civilizzatione antica (Ancient civilization) - Lo automòbile antico (The antique automobile) |
+|    Vèclo/Vèllîo    |                 Un vèllîo amico mèo (A longtime friend)                |                               Una casa vèllîa (An old house in age)                               |
+|        Único       |                Lo único soprevivènte (The only survivor)               |                                 Un artísta único (A unique artist)                                |
+|        Cèrto       |    Un cèrto indivíduo (A particular individual that is unspecified)    |                 Una causa cèrta (a sure thing that is definitely going to happen)                 |
+|        Puro        |                   Pura curiositate (Sheer curiosity)                   |                       Lo àere puro (The air that is naturally pure or fresh)                      |
+|       Curioso      |                  Un curioso objècto (A strange object)                 |                     Un púero curioso (A curious boy that wants to know things)                    |
+|      Símplice      |                Un símplice agricultore (A common farmer)               |          Una solutione símplice (A solution that is uncomplicated or easy to understand)          |
+|        Vero        |                    Un vero problèma (A real problem)                   |                                  Una història vera (A true story)                                 |
+|        Solo        |                      La sola puèlla (The one girl)                     |                                  La puèlla sola (The lonely girl)                                 |
+|        Mesmo       |                   La mesma persona (The same person)                   |                    La persona mesma (The person himself or the person herself)                    |
+|      Pettitto      |       Un pettitto problèma (A problem that is not very important)      |                                 Una casa pettitta (A small house)                                 |
+|       Grande       | Una grande sorpresa (A surprise that is great in degree or importance) |                                   Una casa grande (A big house)                                   |
+|        Bòno        |                   Un bòn hòmene (A man that is kind)                   |                              Un hòmene bòno (A man that is competent)                             |
+|        Malo        |                 Un malo cocinario (An incompetent cook)                |                          Un hòmene malo (A man that is bad in character)                          |
+| Divèrso/Differènte |       Differènte modèllos (Various or several models in quantity)      |                    Preferèntias differèntes (Prefererences that are different)                    |
+|        Nòvo        |          La nòva tecnología (The recent or latest technology)          |                         Un nòvo carro (A car that is brand new or unused)                         |
+|       Pròprio      |                   Mèos pròprios òllîos (My own eyes)                   |                             Un mètodo pròprio (An appropriate method)                             |
+|        Raro        |               Un raro exèmplo (An extraordinary example)               |                                  Un tipo raro (An uncommon type)                                  |
+|        Caro        |                    Mèo caro amico (My valued friend)                   |                            La televisione cara (The costly television)                            |
 
 ## 7.3.5. The Use of Adjectives With Adverbs
+The adjective always directly accompanies the adverb, being placed after the adverb. The adverb and the adjective together must go after the noun, even if the adjective by itself could have gone before the noun.
+
+|                                      |                                 |
+|:------------------------------------:|:-------------------------------:|
+|  Un libro extremamente interessante  |  An extremely interesting book  |
+| Una decisione moralmente discutíbile | A morally questionable decision |
+
 
 ## 7.3.6. The Use of Adjectives With Noun Phrases
+One must be certain whether the words constitute a compound word or just a string of words. All adjectives must either go before or after the noun phrase. They cannot go in between words that make up the noun phrase.
+
+|                                                                   |                                |
+|:-----------------------------------------------------------------:|:------------------------------:|
+| Lo deficiènte sistèma educativo / Lo sistèma educativo deficiènte | The deficient education system |
+
+Some cases of noun phrases are less clear. In such situations, the safe solution is to place the descriptive adjective before the noun phrase.
+
+|                                   |                            |
+|:---------------------------------:|:--------------------------:|
+|     Lo bèllo laco de lo amore     | The beautiful lake of love |
+| Lo principale gruppo de contròllo |   The main control group   |
+
+That being said, in the first example above ("bèllo laco de lo amore"), it would not be completely incorrect to put the adjective immediately after the head noun, but rather, it would seem less natural. Given that we understand it as a new thing entirely, the adjective would go before or after, but more likely after, because the adjective is qualifying and emphatic.
 
 ## 7.3.7. The Use of Multiple Restrictive Adjectives
 
 ## 7.3.8. The Position of One Adjective with Multiple Nouns
+If the adjective goes before, it only agrees with the gender and quantity of the first noun.
+
+|                                            |                                      |
+|:------------------------------------------:|:------------------------------------:|
+|   Soa habituale sapièntia et tolerantia.   |    His usual wisdom and tolerance.   |
+| Soos fantàsticos pensamèntos et opiniones. | Her fantastic thoughts and opinions. |
+
+If the adjective goes after, it agrees with the “common denominator” in gender and in quantity. This often means that the adjective is masculine.
+|                                   |                            |
+|:---------------------------------:|:--------------------------:|
+| Las ròsas et los àrbores frescos. | The fresh roses and trees. |
+|  Los lacos et ocèanos profondos.  | The deep lakes and oceans. |
