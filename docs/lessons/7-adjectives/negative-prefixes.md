@@ -44,6 +44,7 @@ Also, “**sene**” (without). For example: documènto sene título (“untitle
 |             Inèpto            |              Inept              |
 |         Inconveniènte         |           Inconvenient          |
 |          Inconsciènte         |           Unconscious           |
+|           Incoherènte         |            Incoherent           |
 |            Incòmodo           |          Uncomfortable          |
 |        Incomprensíbile        |         Incomprehensible        |
 |            Indeciso           |            Indecisive           |
