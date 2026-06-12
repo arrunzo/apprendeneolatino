@@ -128,6 +128,7 @@ Also, “**sene**” (without). For example: documènto sene título (“untitle
 |            Indigno            |             Unworthy            |
 |  Inarrestàbile / Incessàbile  |           Unstoppable           |
 |         Inconditionale        |          Unconditional          |
+|           Inaudible           |           Inaudíbile            |
 
 ### Im-
 |                               |                          |
