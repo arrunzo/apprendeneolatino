@@ -220,6 +220,7 @@ Also, “**sene**” (without). For example: documènto sene título (“untitle
 |  Anormale  |  Abnormal  |
 |  Apolítico | Apolitical |
 |   Atípico  |  Atypical  |
+|   Asintomàtico  |  Asymptomatic  |
 
 ### Des/De
 |                           |                         |
