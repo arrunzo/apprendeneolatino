@@ -125,30 +125,44 @@ Although there is some basis in Romance forms ("aquel" in Spanish, "aquell" in C
 ## 7.3.3. Only After the Noun (Postnominal Adjectives)
 
 ## 7.3.4. Change of Meaning
-|      Adjective     |                           Meaning Before Noun                          |                                         Meaning After Noun                                        |
-|:------------------:|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-|       Pàupero      |                   Pàupera gènte (Misfortunate people)                  |                         Gènte pàupera (Poor people that have little money)                        |
-|       Triste       |           Una triste persona (A dreadful person to deal with)          |                        Una persona triste (A person that is literally sad)                        |
-|       Jòvene       |             Un jòvene actore (A actor that is young in age)            |                Un vino jòvene (A wine that is unripe, recent or generally youthful)               |
-|       Antico       |                  Mèa antica escòla (My former school)                  | - La civilizzatione antica (Ancient civilization) - Lo automòbile antico (The antique automobile) |
-|    Vèclo/Vèllîo    |                 Un vèllîo amico mèo (A longtime friend)                |                               Una casa vèllîa (An old house in age)                               |
-|        Único       |                Lo único soprevivènte (The only survivor)               |                                 Un artísta único (A unique artist)                                |
-|        Cèrto       |    Un cèrto indivíduo (A particular individual that is unspecified)    |                 Una causa cèrta (a sure thing that is definitely going to happen)                 |
-|        Puro        |                   Pura curiositate (Sheer curiosity)                   |                       Lo àere puro (The air that is naturally pure or fresh)                      |
-|       Curioso      |                  Un curioso objècto (A strange object)                 |                     Un púero curioso (A curious boy that wants to know things)                    |
-|      Símplice      |                Un símplice agricultore (A common farmer)               |          Una solutione símplice (A solution that is uncomplicated or easy to understand)          |
-|        Vero        |                    Un vero problèma (A real problem)                   |                                  Una història vera (A true story)                                 |
-|        Solo        |                      La sola puèlla (The one girl)                     |                                  La puèlla sola (The lonely girl)                                 |
-|        Mesmo       |                   La mesma persona (The same person)                   |                    La persona mesma (The person himself or the person herself)                    |
-|      Pettitto      |       Un pettitto problèma (A problem that is not very important)      |                                 Una casa pettitta (A small house)                                 |
-|       Grande       | Una grande sorpresa (A surprise that is great in degree or importance) |                                   Una casa grande (A big house)                                   |
-|        Bòno        |                   Un bòn hòmene (A man that is kind)                   |                              Un hòmene bòno (A man that is competent)                             |
-|        Malo        |                 Un malo cocinario (An incompetent cook)                |                          Un hòmene malo (A man that is bad in character)                          |
-| Divèrso/Differènte |       Differènte modèllos (Various or several models in quantity)      |                    Preferèntias differèntes (Prefererences that are different)                    |
-|        Nòvo        |          La nòva tecnología (The recent or latest technology)          |                         Un nòvo carro (A car that is brand new or unused)                         |
-|       Pròprio      |                   Mèos pròprios òllîos (My own eyes)                   |                             Un mètodo pròprio (An appropriate method)                             |
-|        Raro        |               Un raro exèmplo (An extraordinary example)               |                                  Un tipo raro (An uncommon type)                                  |
-|        Caro        |                    Mèo caro amico (My valued friend)                   |                            La televisione cara (The costly television)                            |
+The adjectives below change in meaning depending on their position.
+
+:::note
+
+The following adjectives were excluded because they are particular of Spanish:
+- Ricco (It only has the meaning of "rich in money" or "dense", but never "delicious" or other meanings)
+- Mèdio (The Spanish word "medio", meaning "half" and "middle", is the result of a borrowing from Latin, whereas Neolatin uses an inherited evolution: "mèjjo") 
+
+The word "raro" is included, but it never has the sense of "weird" or "strange" in other languages.
+
+:::
+
+|      Adjective     |                    Meaning Before Noun                    |                    Meaning After Noun                    |                        Examples                        |                               Translations                              |
+|:------------------:|:---------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------:|:-----------------------------------------------------------------------:|
+|       Pàupero      |                    Poor (Misfortunate)                    |                Poor (Having little money)                |           - Pàupera gènte<br/>- Gènte pàupera          |   - Poor people (Misfortunate)<br/>- Poor people (Having little money)  |
+|       Triste       |                  Sad (Dreadful, pitiful)                  |           Sad (The literal emotion of sadness)           |      - Una triste persona<br/>- Una persona triste     | - A sad person (Dreadful)<br/>- A sad person (Literally sad in emotion) |
+|       Jòvene       |                    Young (Young in age)                   |       Young (Unripe, recent or generally youthful)       |       - Un jòvene actore<br/>- Una faccîa jòvene       |                  - A young actor<br/>- A youthful face                  |
+|       Antico       |                        Old (Former)                       |                     Ancient, Antique                     |  - La civilizzatione antica<br/>- Lo automòbile antico |           - Ancient civilization<br/>- The antique automobile           |
+|    Vèclo/Vèllîo    |                      Old (Long-time)                      |                     Old (Old in age)                     |        - Un vèllîo amico<br/>- Un hòmene vèllîo        |                     - An old friend<br/>- An old man                    |
+|        Único       |                            Only                           |                          Unique                          |     - Lo único soprevivènte<br/>- Un artísta único     |                - The only survivor<br/>- A unique artist                |
+|        Cèrto       |   Certain (Particular, an unspecified member of a group)  |      Certain (Something that will definitely happen)     |       - Un cèrto indivíduo<br/>- Una causa cèrta       |                - A certain individual<br/>- A sure thing                |
+|        Puro        |      Pure (Sheer, mere, absolute, as an intensifier)      |         Pure (Naturally pure in quality or fresh)        |          - Pura curiositate<br/>- Lo àere puro         |                   - Sheer curiosity<br/>- The pure air                  |
+|       Curioso      |                     Curious (Strange)                     |       Curious (Having a desire to learn new things)      |       - Un curioso objècto<br/>- Un púero curioso      |                  - A strange object<br/>- A curious boy                 |
+|      Símplice      |             Simple (Common, humble, ordinary)             |       Simple (Uncomplicated or easy to understand)       | - Un símplice agricultore<br/>- Una solutione símplice |                -A simple farmer <br/>- A simple solution                |
+|        Vero        |                 Real (Important, genuine)                 | Real, True (An objective fact or reality, not fictional) |       - Un vero problèma<br/>- Una història vera       |                   - A real problem<br/>- A true story                   |
+|        Solo        |                Lone, One (One in quantity)                |                          Lonely                          |          - Un solo libro<br/>- La puèlla sola          |                  - A single book<br/>- The lonely girl                  |
+|        Mesmo       |                            Same                           |             Self (Ex: himself, herself, etc.)            |        - La mesma persona<br/>- La persona mesma       |          - The same person<br/>- The person himself or herself          |
+|      Pettitto      | Small, Little (Small in an abstract sense or importance). |                 Small (Physically small)                 |     - Un pettitto problèma<br/>- Una casa pettitta     |                  - A small problem<br/>- A small house                  |
+|       Grande       |           Great (Great in degree or importance)           |                Big, Large (Physically big)               |       - Un grande artísta<br/>- Una casa pettitta      |                   - A great artist<br/> - A big house                   |
+|        Bòno        |           Competent, Skilled (Good at something)          |            Good (Kind or having a good nature)           |           - Un bòn hòmene<br/>- Un bòn hòmene          |             - A good man (Competent)<br/>- A good man (Kind)            |
+|        Malo        |               Incompetent (Bad at something)              |              Bad (Bad in character or evil)              |        - Un malo cocinario<br/>- Un hòmene malo        |                   - A bad cook<br/>- A bad man (Evil)                   |
+| Divèrso/Differènte |          Various, Several (Multiple in quantity)          |                         Different                        |    - Divèrsos modèllos <br/>- Preferèntias divèrsas    |               - Various models<br/>- Different preferences              |
+|        Nòvo        |                    New (Recent, Latest)                   |                  New (Brand new, Unused)                 |        - La nòva tecnología<br/>- Un nòvo carro        |                   - The new technology<br/>- A new car                  |
+|       Pròprio      |                            Own                            |               Appropriate, Proper, Suitable              |     - Mèos pròprios òllîos<br/>- Un mètodo pròprio     |                - My own eyes<br/>- An appropriate method                |
+|        Raro        |                       Extraordinary                       |                      Rare, Uncommon                      |          - Un raro exèmplo<br/>- Un tipo raro          |               - An extraordinary example<br/>- A rare type              |
+|        Caro        |                        Dear, Valued                       |                     Expensive, Costly                    |       - Mèo caro amico<br/>- La televisione cara       |             - My dear friend<br/> - The expensive television            |
+|      Qualonque     |                            Any                            |                     Ordinary, Common                     |     - Qualonque optione<br/>- Una persona qualonque    |                  - Any option<br/>- An ordinary person                  |
+|      Macro     |                            Meager, Scarce                           |                     Slim, Skinny, Thin (Physically)                      |     - Un magro salàrio<br/>- Un hòmene macro    |                  - A meager salary<br/>- A skinny man                  |
 
 ## 7.3.5. The Use of Adjectives With Adverbs
 The adjective always directly accompanies the adverb, being placed after the adverb. The adverb and the adjective together must go after the noun, even if the adjective by itself could have gone before the noun.
@@ -175,18 +189,54 @@ Some cases of noun phrases are less clear. In such situations, the safe solution
 
 That being said, in the first example above ("bèllo laco de lo amore"), it would not be completely incorrect to put the adjective immediately after the head noun, but rather, it would seem less natural. Given that we understand it as a new thing entirely, the adjective would go before or after, but more likely after, because the adjective is qualifying and emphatic.
 
-## 7.3.7. The Use of Multiple Restrictive Adjectives
+## 7.3.7. The Use of Multiple Adjectives
+### Non-Restrictive Adjectives
+If two descriptive adjectives with subjective or emphatic meanings are used, they are placed before the noun. They are separated by the coordinating conjunction "et".
+
+|                                  |                               |
+|:--------------------------------:|:-----------------------------:|
+| Vòstro húmile et leale servitore | Your humble and loyal servant |
+
+### Restrictive Adjectives
+If two descriptive adjectives with objective meanings are used, they are placed after the noun. The adjectives are either separated with commas, or more commonly, with the coordinating conjunction "et".
+
+|                          |                             |
+|:------------------------:|:---------------------------:|
+|   Una casa rossa grande  |       A big red house       |
+|  Mòda bebé et infantile  | Baby and children's fashion |
+| Un hòmene alto et peluto |     A tall and hairy man    |
+
+In the uncommon event that there are more than two adjectives with objective meanings, the first few adjectives are separated by commas, while the last adjective is separated using the coordinating conjunction.
+
+|                                                  |                                             |
+|:------------------------------------------------:|:-------------------------------------------:|
+| La empresa històrica, francesa et multinationale | The historical French multinational company |
+
+
+### Both Non-Restrictive and Restrictive Adjectives
+If one of the adjectives has a subjective meaning (non-restrictive) and the other has an objective meaning (restrictive), the non-restrictive adjective will go before the noun (or less commonly, as the last adjective), while the restrictive adjective will go after the noun.
+
+|                                                   |                                            |
+|:-------------------------------------------------:|:------------------------------------------:|
+|             Una bèlla fémena italiana             |          A beautiful Italian woman         |
+|            Un delitioso plato francese            |           A delicious French dish          |
+|            Un interessante libro rosso            |           An interesting red book          |
+|     Hao tres bèllas camisîas lòngas et rossas.    |  I have three beautiful, long, red shirts. |
+| Hao comprato un antico horològgîo suisso de auro. | I have bought an antique Swiss gold watch. |
+
 
 ## 7.3.8. The Position of One Adjective with Multiple Nouns
-If the adjective goes before, it only agrees with the gender and quantity of the first noun.
+If the adjective goes before (subjective, or non-restrictive), it only agrees with the gender and quantity of the first noun.
 
 |                                            |                                      |
 |:------------------------------------------:|:------------------------------------:|
 |   Soa habituale sapièntia et tolerantia.   |    His usual wisdom and tolerance.   |
 | Soos fantàsticos pensamèntos et opiniones. | Her fantastic thoughts and opinions. |
 
-If the adjective goes after, it agrees with the “common denominator” in gender and in quantity. This often means that the adjective is masculine.
+If the adjective goes after (objective, or restrictive), it agrees with the “common denominator” in gender and in quantity. This often means that the adjective is masculine.
+
 |                                   |                            |
 |:---------------------------------:|:--------------------------:|
 | Las ròsas et los àrbores frescos. | The fresh roses and trees. |
 |  Los lacos et ocèanos profondos.  | The deep lakes and oceans. |
+|  Carne bovina et pollo grillîatos |  Grilled beef and chicken  |
