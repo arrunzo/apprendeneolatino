@@ -43,7 +43,7 @@ The mixture of elements is not only funny in its own right, but also derives hum
 |       Necausa (de) inusuale / Necausa (de) insòlito      |                Nothing unusual                |
 |       Non hi ha necausa (de) malo en...        |       There is nothing wrong with...          |
 |       Non me dice necausa.                     |       It doesn't ring a bell.          |
-|                  Necausa male!                 |                    Not bad!                   |
+|                  Necausa male! / Non male!                |                    Not bad!                   |
 |           Necausa nòvas, bònas nòvas.          |              No news is good news.            |
 |       Necausa de necausa / Absolutamente necausa         |      Absolutely nothing  |
 
