@@ -11,17 +11,19 @@ Variable indefinite adjectives must agree with the noun it modifies in terms of 
 ### 1. Variable in Only Gender
 
 #### A. Singular
-|   Indefinite Adjective   | Translation |            Example           |       Translation      |
-|:------------------------:|:-----------:|:----------------------------:|:----------------------:|
-| (Un) altro / (Una) altra |   Another   | Un altro pèttso, per favore. | Another piece, please. |
-|  Necuno / Necún / Necuna |      No     |  Necún hòmene èst una ísola. |  No man is an island.  |
+|   Indefinite Adjective   |  Translation |                                 Example                                |                           Translation                           |
+|:------------------------:|:------------:|:----------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| (Un) altro / (Una) altra |    Another   |                      Un altro pèttso, per favore.                      |                      Another piece, please.                     |
+|  Necuno / Necún / Necuna |      No      |                       Necún hòmene èst una ísola.                      |                       No man is an island.                      |
+|        Toto / Tota       | Each / Every | Toto èssere humano èst nato líbero et equale en dignitate et derectos. | All human beings are born free and equal in dignity and rights. |
 
 #### B. Plural
 |          Indefinite Adjective         |                       Translation                      |          Example         |         Translation        |
 |:-------------------------------------:|:------------------------------------------------------:|:------------------------:|:--------------------------:|
 |            Vàrios / Vàrias            |          Various (distinct or different types)         |  Hi ha vàrias optiones.  | There are various options. |
 | Vàrios / Vàrias / Divèrsos / Divèrsas | Several (more than two of the same type, but not many) | Comprai divèrsos libros. |   I bought several books.  |
-|             Ambos / Ambas             |                          Both                          |      Ambos mètodos.      |        Both methods.       |
+|  Ambos / Ambas / Ambodoos / Ambodoas  |                          Both                          |      Ambos mètodos.      |        Both methods.       |
+|             Totos / Totas             |                           All                          |     Totos los libros.    |       All the books.       |
 
 ### 2. Variable in Gender and Quantity
 |                       Indefinite Adjective                       |                 Translation                 |                            Example                            |                        Translation                        |
@@ -44,7 +46,7 @@ Invariable indefinite adjectives do not change to agree with the noun it modifie
 |:---------------------:|:-----------------------:|:----------------------------------------------:|:---------------------------------------:|
 | Bastante / Plus tòsto | Quite / Rather / Pretty |         Cuesto èst bastante diffícile.         |         This is quite difficult.        |
 |       Qualonque       |           Any           | Èstes líberos de partire en qualonque momènto. |  You are all free to leave at any time. |
-|      Cata / Òmne      |           Each          |         Cata día èst una opportunitate.        |       Every day is an opportunity.      |
+|      Cata / Òmne      |           Each / Every          |         Cata día èst una opportunitate.        |       Every day is an opportunity.      |
 |         Menos         |       Fewer / Less      |   La classe ha menos studiantes cuesto anno.   | The class has fewer students this year. |
 |      Plus / Màis      |           More          |           Necessitamos plus súccaro.           |           We need more sugar.           |
 |        Un pauco       |    A little / Kind of   |           Èst un pauco interessante.           |       It is a little interesting.       |
