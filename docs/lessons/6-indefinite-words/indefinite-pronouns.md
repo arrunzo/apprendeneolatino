@@ -15,16 +15,16 @@ These pronouns must agree with the **gender** and **quantity** of the correspond
 |      Necuno / Necuna     |  None / Not one / Any (negative) |       Las casas? Necuna me placeu.       |     The houses? None pleased me.     |
 
 ##### B. Plural
-|          Indefinite Pronoun         |   Translation  |                    Example                   |                      Translation                     |
-|:-----------------------------------:|:--------------:|:--------------------------------------------:|:----------------------------------------------------:|
-| Ambos / Ambas / Los doos / Las doas |      Both      |     Las formas? Ambas han quattro latos.     |           The shapes? Both have four sides.          |
-|          Alcunos / Alcunas          |      Some      |      Alcunos prefèren un clima frégedo.      |              Some prefer a cold climate.             |
-|           Altros / Altras           |     Others     |       Altros prefèren un clima càlido.       |             Others prefer a warm climate.            |
-|           Vàrios / Vàrias / Divèrsos / Divèrsas          |     Several    |    Libros? Ne hi ha vàrios sopre la mesa.    |    Books? There are several of them on the table.    |
-|            Totos / Totas            | All / Everyone |             Totos son preparatos.            |                  Everyone is ready.                  |
-|      Sufficiènte / Sufficièntes     |     Enough     | Alimènto? Havemos sufficiènte por doos días. |          Food? We have enough for two days.          |
-|         Bastante / Bastantes        |   Quite a lot  | Libros en la bibliotèca? Ne hi ha bastantes. | Books in the library? There are quite a lot of them. |
-
+|                    Indefinite Pronoun                    |     Translation    |                    Example                   |                      Translation                     |
+|:--------------------------------------------------------:|:------------------:|:--------------------------------------------:|:----------------------------------------------------:|
+| Ambos / Ambas / Ambodoos/ Ambodoas / Los doos / Las doas |        Both        |     Las formas? Ambas han quattro latos.     |           The shapes? Both have four sides.          |
+|                     Alcunos / Alcunas                    |        Some        |      Alcunos prefèren un clima frégedo.      |              Some prefer a cold climate.             |
+|                      Altros / Altras                     |       Others       |       Altros prefèren un clima càlido.       |             Others prefer a warm climate.            |
+|           Vàrios / Vàrias / Divèrsos / Divèrsas          |       Several      |   Libros? Ne hi ha divèrsos sopre la mesa.   |    Books? There are several of them on the table.    |
+|                       Totos / Totas                      |   All / Everyone   |             Totos son preparatos.            |                  Everyone is ready.                  |
+|                Sufficiènte / Sufficièntes                |       Enough       | Alimènto? Havemos sufficiènte por doos días. |          Food? We have enough for two days.          |
+|                   Bastante / Bastantes                   |     Quite a lot    | Libros en la bibliotèca? Ne hi ha bastantes. | Books in the library? There are quite a lot of them. |
+|           Totos et cata uno / Totas et cata una          | Each and every one |        Totos et cata uno èst speciale.       |            Each and every one is special.            |
 
 ##### C. Invariable Singular with Variable Plural
 |               Indefinite Pronoun              | Translation |                     Example                     |                Translation               |
@@ -78,15 +78,18 @@ All the indefinite pronouns below must agree with the gender of the correspondin
 | Alcunos de / Alcunas de |   Some of   | Alcunos de los libros son en japonese. | Some of the books are in Japanese. |
 
 #### C. Singular and Plural
-|     Indefinite pronoun + de     |       Translation      |                  Example                 |                Translation               |
-|:-------------------------------:|:----------------------:|:----------------------------------------:|:----------------------------------------:|
-| Molto / Moltos / Molta / Moltas | Much / Many / A lot of | Molto de cuesto èst vero, mais non toto. | Much of this is true, but not all of it. |
+
+|           Indefinite pronoun + de           |        Translation        |                                 Example                                |                            Translation                           |
+|:-------------------------------------------:|:-------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------:|
+|       Molto / Moltos / Molta / Moltas       | Much of / Many / A lot of |                Molto de cuesto èst vero, mais non toto.                |             Much of this is true, but not all of it.             |
+| Totos et cata uno de / Totas et cata una de |    Each and everyone of   | Volería regratiare totos et cata uno de vós per vòstra participatione. | I would like to thank each and every one for your participation. |
 
 ### Invariable
 The indefinite pronouns below do not change for gender or quantity.
 
-| Indefinite pronoun + de |   Translation   |                    Example                    |                   Translation                   |
-|:-----------------------:|:---------------:|:---------------------------------------------:|:-----------------------------------------------:|
-|       Un pauco de       | A little / Some |               Un pauco de aqua.               |                   Some water.                   |
-|       Qualonque de      |      Any of     | Qualonque de nós potería èssere lo colpàbile. |         Any of us could be the culprit.         |
-|       Bastante de       |  Quite a lot of |  Comprendei bastante de cuello que has dicto. | I understood quite a lot of what you have said. |
+| Indefinite pronoun + de |     Translation     |                                                    Example                                                    |                                      Translation                                      |
+|:-----------------------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+|       Un pauco de       |   A little / Some   |                                               Un pauco de aqua.                                               |                                      Some water.                                      |
+|       Qualonque de      |        Any of       |                                 Qualonque de nós potería èssere lo colpàbile.                                 |                            Any of us could be the culprit.                            |
+|       Bastante de       |    Quite a lot of   |                                  Comprendei bastante de cuello que has dicto.                                 |                    I understood quite a lot of what you have said.                    |
+|        Necausa de       | Any (negative) / No | 1. Non sai necausa de anglese.<br/> 2. Non hi ha necausa de aqua en lo pottso.<br/> 3. Necausa (de) mentiras! | 1. I do not know any English.<br/> 2. There is no water in the well.<br/> 3. No lies! |
