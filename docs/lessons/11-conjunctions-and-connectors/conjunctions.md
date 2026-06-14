@@ -61,12 +61,13 @@ A conjunction is a part of speech that connects words, phrases, or clauses.
 |                          Si                         |                         If                         |                                   Si plòve, restarai addentro.                                   |                       If it rains, I will stay inside.                      |
 |                       Solo si                       |                       Only if                      |                           Te clamarai solo si hi haverà una emergèntia.                          |                I will call you only if there is an emergency.               |
 |                        Si non                       |                       If not                       |              Vedamos si han gelato de cîocolate. Si non, potemos pètere de vanillîa.             |   Let's see if they have chocolate ice cream. If not, we can get vanilla.   |
-|                  En caso contrario                  |                      Otherwise                     |                     Prènde cuesta paraplòjja; en caso contrario te mollîaràs.                    |     Take this umbrella; otherwise you will get wet.                                                                        |
-|                      Altramente                     |                      Otherwise                     |                        Prènde cuesta paraplòjja; altrimènto te mollîaràs.                        |       Take this umbrella; otherwise you will get wet.                                                                      |
+|                  En caso contrario                  |                      Otherwise                     |                     Prènde cuesta paraplòjja; en caso contrario te mollîaràs.                    |               Take this umbrella; otherwise you will get wet.               |
+|                      Altramente                     |                      Otherwise                     |                        Prènde cuesta paraplòjja; altrimènto te mollîaràs.                        |               Take this umbrella; otherwise you will get wet.               |
 |         Ad menos que (Requires subjunctive)         |                       Unless                       | Ad menos que vòllîas mangîare necausa plus que fasîòlos, necessitamos vàdere ad lo supermercato. | Unless you want to eat nothing but beans, we need to go to the supermarket. |
 |           Salvo que (Requires subjunctive)          |                       Unless                       |                      Non farai necausa, salvo que tu me dicas de fàcere-lo.                      |             I will not do anything, unless you tell me to do so.            |
 |       Ad conditione que (Requires subjunctive)      | On the condition that / As long as / Provided that |           Pòtes vedere la televisione ad conditione que termines de lavare los platos.           |      You can watch television as long as you finish washing the dishes.     |
 | En caso que / En lo caso que (Requires subjunctive) |             In case / In the event that            |                       Deverías portare una paraplòjja en lo caso que plòva.                      |                You should bring an umbrella in case it rains.               |
+|          Sèmpre que (Requires subjunctive)          | On the condition that / As long as / Provided that |               Pòtes vedere la televisione sèmpre que termines de lavare los platos.              |      You can watch television as long as you finish washing the dishes.     |
 
 ### Consecutive / Result
 |                      Conjunction                      |                   Translation                   |                                      Example                                      |                                    Translation                                   |
@@ -76,7 +77,7 @@ A conjunction is a part of speech that connects words, phrases, or clauses.
 |     Fine ad tale ponto que… / Ad tale ponto que...    |              To such a extent that…             |          Ella cambiau soo aspècto ad tale ponto que necuno la reconosceu.         | She changed her appearance so much to such an extent that no one recognized her. |
 |                  En la mesura en que                  |         To the extent that / Insofar as         |                      Ella ajjutau en la mesura en que poteu.                      |                    She helped to the extent that she was able.                   |
 |              Per tanto / Per consequènte              |                    Therefore                    |                   Hai fame. Per tanto, mangîarai de lo alimènto.                   |                   I am hungry. Therefore, I will eat some food.                  |
-|                  Per cuello / Per cuò                 | For that reason / Because of that / That is why |                  Està plovèndo. Per cuesto pòrto una paraplòjja.                  |                  It is raining. That is why I carry an umbrella.                 |
+|                  Per cuello / Per cuò                 | For that reason / Because of that / That is why |                  Està plovèndo. Per cuesto porto una paraplòjja.                  |                  It is raining. That is why I carry an umbrella.                 |
 
 
 ### Purpose
@@ -90,7 +91,7 @@ A conjunction is a part of speech that connects words, phrases, or clauses.
 | En la esperantsa que / Con la esperantsa que |    In the hope that   |                    Ella lo ignorau en la esperantsa que elle se ne vadesse.                   |          She ignored him in the hope that he would go away.          |
 
 ### Time
-|                               Conjunction                               |         Translation        |                                Example                                |                         Translation                        |
+|                                     Conjunction                                     |         Translation        |                                Example                                |                         Translation                        |
 |:-----------------------------------------------------------------------------------:|:--------------------------:|:---------------------------------------------------------------------:|:----------------------------------------------------------:|
 |                                        Mentre                                       |            While           |                 Ascolto música mentre netejjo la casa.                |         I listen to music while I clean the house.         |
 | Appena / Tanto prèsto como / Lo momènto que (Requires subjunctive or simple future) |         As soon as         |                        Clama-me appena arripes.                       |               Call me as soon as you arrive.               |
@@ -106,7 +107,7 @@ A conjunction is a part of speech that connects words, phrases, or clauses.
 |                              Dès de que / Dès de quando                             |            Since           |            Non lo hai visto dès de que partiu de la fèsta.            |        I have not seen him since he left the party.        |
 |                            Cata vece que / Òmne vece que                            | Whenever / Every time that |      Cata vece que ascolto cuella cantsone, pènso ad lo passato.      |   Whenever I listen to that song, I think about the past.  |
 |                                    Ad mesura que                                    |             As             | Ad mesura que la balla descendeva la collina, guadannîava velocitate. |     As the ball went down the hill, it gained velocity.    |
-
+|                  Sèmpre que (Without subjunctive, Indicative only)                  | Whenever / Every time that |        Sèmpre que ascolto cuella cantsone, pènso ad lo passato.       |   Whenever I listen to that song, I think about the past.  |
 
 ## 11.1.4. Correlative Conjunctions
 |         Cumulative Conjunction         |             Translation            |                                       Example                                      |                              Translation                              |
@@ -121,3 +122,34 @@ A conjunction is a part of speech that connects words, phrases, or clauses.
 |       Tanto…quanto… / Tanto…como…      |                Both…               |          Tanto la prima optione quanto la seconda optione me paren bònas.          |      Both the first option and the second option seem good to me.     |
 |    De un lato...de lo altro lato...    | On one hand...on the other hand... | De un lato, me place la torta, mais de lo altro lato, la torta non èst salutàbile. | On one hand, I like cake, but on the other hand, cake is not healthy. |
 | Plus...plus... / Quanto plus...plus... |       The more...the more...       |                          Plus ella studia, plus comprènde.                         |            The more she studies, the more she understands.            |
+
+## 11.1.5. More Information
+### Excluded Conjunctions
+
+:::warning
+
+The conjunctions below were excluded due to a lack of a consensus among different Romance languages.
+
+:::
+
+| Neolatin (Supposed Form) |                                Portuguese                               |                                                       Spanish                                                       |                              Catalan                              |           French           |                                               Italian                                               |           Romanian          |
+|:------------------------:|:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:--------------------------:|:---------------------------------------------------------------------------------------------------:|:---------------------------:|
+|         Assí que         |                        Assim que:<br/> As soon as                       |                                             Así que:<br/> So / Therefore                                            |        Així que:<br/> 1. So / Therefore<br/> 2. As soon as        | Ainsi que:<br/> As well as |                                        Così che:<br/> So that                                       | Așa că:<br/> So / Therefore |
+|       En tanto que       |                                    ∅                                    |    En tanto que:<br/> (1) As long as / On the condition that / Provided that (Requires subjunctive)<br/> 2. While   | En tant que:<br/> 1. In so far as<br/> 2. As / In the capacity of |              ∅             |                                       Intanto que:<br/> While                                       |              ∅              |
+|         En quanto        | Enquanto:<br/> (1) While<br/> (2) (Preposition) As / In the capacity of | En cuanto:<br/> (1) While<br/> (2) As soon as (Requires subjunctive)<br/> (3) (Preposition) As / In the capacity of |                                 ∅                                 |              ∅             | In quanto:<br/> 1. (Conjunction) As / Since / Because<br/> 2. (Preposition) As / In the capacity of |              ∅              |
+
+
+### Que vs Qué vs Cuello que/Cuò que
+Below are comparisons of the uses of these words. Note that not every use is related to a conjunction. Nevertheless, they are worth knowing.
+
+#### Que
+
+
+
+
+#### Qué/Que (Interrogative/Exclamative)
+
+
+
+
+#### Cuello que/Cuò que (Relative Pronouns)
