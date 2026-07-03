@@ -15,4 +15,4 @@ sidebar_position: 6
 | Ad lo initio de / Ad lo principio de |   At the beginning of   |                Viaggerai en Euròpa ad lo initio de lo pròximo anno.               |        I will travel in Europe at the beginning of next year.       |
 |             Ad metate de             |     Halfway through     |                         Ad metate de lo film me addormíi.                         |              Halfway through the movie, I fell asleep.              |
 |             Ad la fine de            |      At the end of      |                 Lo projècto serà terminato ad la fine de lo mese.                 |        The project will be finished at the end of the month.        |
-|             Ad partire de            | From / As of / Starting | Ad partire de lo pròximo mese, las reuniones septemanales si teneràn lo mèrcores. |   Starting next month, the weekly meetings will be on Wednesdays.   |
+|             Ad partire de            | From / As of / Starting | Ad partire de lo pròximo mese, las reuniones septemanales se teneràn lo mèrcores. |   Starting next month, the weekly meetings will be on Wednesdays.   |
