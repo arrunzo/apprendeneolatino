@@ -26,7 +26,7 @@ The verbs "loctare" (open in Italian) and "coprare" (open in Catalan) are debata
 
 :::
 
-In addition, there are common verbs whose root stress are always closed:
+In addition, there are common verbs whose root stress is always closed:
 - Córrere
 - Affrontare
 - Tornare
@@ -36,8 +36,6 @@ In addition, there are common verbs whose root stress are always closed:
 - Adorare
 - Entrare
 - Devorare
-- Recépere
-- Percépere
 - Pónere
 - Lavorare
 - Propagare
@@ -78,7 +76,7 @@ In addition, there are common verbs whose root stress are always closed:
 |   Offèndere  |**Offèndo** |**Offèndes** |**Offènde** |   Offendemos  |   Offendetes  |**Offènden** |
 |    Tèndere   | **Tèndo**| **Tèndes**| **Tènde**|    Tendemos   |    Tendetes   | **Tènden**|
 |   Attèndere  |**Attèndo** |**Attèndes** |**Attènde** |   Attendemos  |   Attendetes  |**Attènden** |
-|   Entèndere  |**Entèndo** |**Entèndes** |**Entènde** |   Entendemos  |   Entendetes  |**Attènden** |
+|   Entèndere  |**Entèndo** |**Entèndes** |**Entènde** |   Entendemos  |   Entendetes  |**Entènden** |
 |   Extèndere  |**Extèndo** |**Extèndes** |**Extènde** |   Extendemos  |   Extendetes  |**Extènden** |
 
 #### SENTIRE
@@ -138,50 +136,115 @@ In addition, there are common verbs whose root stress are always closed:
 
 ### Open E (Does Not Have Diphthong in Spanish)
 #### Other Verbs
-|                   |          Èo         |           Tu         |       Elle/Ella     |          Nós        |          Vós        |      Ellos/Ellas     |
-|:-----------------:|:-------------------:|:--------------------:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|
-|      Abbordare    |   **Abbòrdo** |   **Abbòrdas** |   **Abbòrda** |      Abbordamos     |      Abbordates     |   **Abbòrdan** |
-|    Addormire-se   | **Me addòrmo**| **Te addòrmes**| **Se addòrme**|    Nos addormimos   |    Vos addormites   | **Se addòrmen**|
-|      Adoptare     |   **Adòpto**|   **Adòptas**|   **Adòpta**|       Adoptamos     |       Adoptates     |   **Adòptan**|
-|      Annotare     |   **Annòto**|   **Annòtas**|   **Annòta**|       Annotamos     |       Annotates     |   **Annòtan**|
-|      Appojjare    |   **Appòjjo** |   **Appòjjas** |   **Appòjja** |      Appojjamos     |      Appojjates     |   **Appòjjan** |
-|   Appropriare-se  |**Me appròprio** |**Te appròprias** |**Se appròpria** |   Nos appropriamos  |   Vos appropriates  |**Se appròprian** |
-|   Approximare-se  |**Me appròximo** |**Te appròximas** |**Se appròxima** |   Nos approximamos  |   Vos approximates  |**Se appròximan** |
-|      Associare    |   **Assòcio** |   **Assòcias** |   **Assòcia** |      Associamos     |      Associates     |   **Assòcian** |
-|       Collare     |    **Còllo**  |    **Còllas**  |    **Còlla**  |       Collamos      |       Collates      |    **Còllan**  |
-|     Controllare   |  **Contròllo**|  **Contròllas**|  **Contròlla**|     Contrallamos    |     Controllates    |  **Contròllan**|
-|       Coprare     |    **Còpro**  |    **Còpras**  |    **Còpra**  |       Copramos      |       Coprates      |    **Còpran**  |
-|      Decorare     |   **Decòro**  |   **Decòras**  |   **Decòra**  |       Decoramos     |       Decorates     |   **Decòran**  |
-|      Demorare     |   **Demòro**  |   **Demòras**  |   **Demòra**  |       Demoramos     |       Demorates     |   **Demòran**  |
-|      Detonare     |   **Detòno**  |   **Detònas**  |   **Detòna**  |       Detonamos     |       Detonates     |   **Detònan**  |
-|     Divortiare    |  **Divòrtio** |  **Divòrtias** |  **Divòrtia** |      Divortiamos    |      Divortiates    |  **Divòrtian** |
-|      Exhortare    |   **Exhòrto** |   **Exhòrtas** |   **Exhòrta** |      Exhortamos     |      Exhortates     |   **Exhòrtan** |
-|      Explòdere    |   **Explòdo** |   **Explòdes** |   **Explòde** |      Explodemos     |      Explodetes     |   **Explòden** |
-|      Forgîare     |   **Fòrgîo**  |   **Fòrgîas**  |   **Fòrgîa**  |       Forgîamos     |       Forgîates     |   **Fòrgîan**  |
-|      Ignorare     |   **Ignòro**  |   **Ignòras**  |   **Ignòra**  |       Ignoramos     |       Ignorates     |   **Ignòran**  |
-|      Implòdere    |   **Implòdo** |   **Implòdes** |   **Implòde** |      Implodemos     |      Implodetes     |   **Implòden** |
-|       Locare      |    **Lòco**   |    **Lòcas**   |    **Lòca**   |        Locamos      |        Locates      |    **Lòcan**   |
-|       Loctare     |    **Lòcto**  |    **Lòctas**  |    **Lòcta**  |       Loctamos      |       Loctates      |    **Lòctan**  |
-|      Negotiare    |   **Negòtio** |   **Negòtias** |   **Negòtia** |      Negotiamos     |      Negotiates     |   **Negòtian** |
-|       Notare      |    **Nòto**   |    **Nòtas**   |    **Nòta**   |        Notamos      |        Notates      |    **Nòtan**   |
-|       Optare      |    **Òpto**   |    **Òptas**   |    **Òpta**   |        Optamos      |        Optates      |    **Òptan**   |
-|      Renovare     |   **Renòvo**  |   **Renòvas**  |   **Renòva**  |       Renovamos     |       Renovates     |   **Renòvan**  |
+|                 |         Èo        |          Tu        |      Elle/Ella    |         Nós       |         Vós       |     Ellos/Ellas    |
+|:---------------:|:-----------------:|:------------------:|:-----------------:|:-----------------:|:-----------------:|:------------------:|
+|     Acceptare   |  **Accèpto**|  **Accèptas**|  **Accèpta**|     Acceptamos    |     Acceptates    |  **Accèptan**|
+|     Affectare   |  **Affècto**|  **Affèctas**|  **Affècta**|     Affectamos    |     Affectates    |  **Affèctan**|
+|     Alleviare   |  **Allèvio**|  **Allèvias**|  **Allèvia**|     Alleviamos    |     Alleviates    |  **Allèvian**|
+|    Apprettsare  | **Apprèttso** | **Apprèttsas** | **Apprèttsa** |    Apprettsamos   |    Apprettsates   | **Apprèttsan** |
+|     Arrestare   |  **Arrèsto**|  **Arrèstas**|  **Arrèsta**|     Arrestamos    |     Arrestates    |  **Arrèstan**|
+|    Cancellare   | **Cancèllo**| **Cancèllas**| **Cancèlla**|     Cancellamos   |     Cancellates   | **Cancèllan**|
+|     Centrare    |  **Cèntro** |  **Cèntras** |  **Cèntra** |      Centramos    |      Centrates    |  **Cèntran** |
+|      Cessare    |   **Cèsso** |   **Cèssas** |   **Cèssa** |      Cessamos     |      Cessates     |   **Cèssan** |
+|    Compensare   | **Compènso**| **Compènsas**| **Compènsa**|     Compensamos   |     Compensates   | **Compènsan**|
+|    Completare   | **Complèto**| **Complètas**| **Complèta**|     Completamos   |     Completates   | **Complètan**|
+|    Concentrare  | **Concèntro** | **Concèntras** | **Concèntra** |    Concentramos   |    Concentrates   | **Concèntran** |
+|    Condensare   | **Condènso**| **Condènsas**| **Condènsa**|     Condensamos   |     Condensates   | **Condènsan**|
+|    Contentare   | **Contènto**| **Contèntas**| **Contènta**|     Contentamos   |     Commentates   | **Contèntan**|
+|     Correlare   |  **Corrèlo**|  **Corrèlas**|  **Corrèla**|     Correlamos    |     Correlates    |  **Corrèlan**|
+|      Cremare    |   **Crèmo** |   **Crèmas** |   **Crèma** |      Cremamos     |      Cremates     |   **Crèman** |
+|      Crepare    |   **Crèpo** |   **Crèpas** |   **Crèpa** |      Crepamos     |      Crepates     |   **Crèpan** |
+|     Defecare    |  **Defèco** |  **Defècas** |  **Defèca** |      Defecamos    |      Defecates    |  **Defècan** |
+|   Delectare-se  |**Me delècto** |**Te delèctas** |**Se delècta** |   Nos delectamos  |   Vos delectates  |**Se delèctan** |
+|     Detectare   |  **Detècto**|  **Detèctas**|  **Detècta**|     Detectamos    |     Detectates    |  **Detèctan**|
+|      Errare     |   **Èrro**  |   **Èrras**  |   **Èrra**  |       Erramos     |       Errates     |   **Èrran**  |
+|     Esperare    |  **Espèro** |  **Espèras** |  **Espèra** |      Esperamos    |      Esperates    |  **Espèran** |
+|    Expaventare  | **Expavènto** | **Expavèntas** | **Expavènta** |    Expaventamos   |    Expaventates   | **Expavèntan** |
+|     Expectare   |  **Expècto**|  **Expèctas**|  **Expècta**|     Expectamos    |     Expectates    |  **Expèctan**|
+|    Frequentare  | **Frequènto** | **Frequèntas** | **Frequènta** |    Frequentamos   |    Frequentates   | **Frequèntan** |
+|     Governare   |  **Govèrno**|  **Govèrnas**|  **Govèrna**|     Governamos    |     Governates    |  **Govèrnan**|
+|   Influentiare  |**Influèntio** |**Influèntias** |**Influèntia** |    Influentiamos  |    Influentiates  |**Influèntian** |
+|    Interessare  | **Interèsso** | **Interèssas** | **Interèssa** |    Interessamos   |    Interessates   | **Interèssan** |
+|    Inquietare   | **Inquièto**| **Inquiètas**| **Inquièta**|     Inquietamos   |     Inquietates   | **Inquiètan**|
+|     Inventare   |  **Invènto**|  **Invèntas**|  **Invènta**|     Inventamos    |     Inventates    |  **Invèntan**|
+|    Manifestare  | **Manifèsto** | **Manifèstas** | **Manifèsta** |    Manifestamos   |    Manifestates   | **Manifèstan** |
+|     Molestare   |  **Molèsto**|  **Molèstas**|  **Molèsta**|     Molestamos    |     Molestates    |  **Molèstan**|
+|     Possedere   |  **Possèdo**|  **Possèdes**|  **Possède**|     Possedemos    |     Possedetes    |  **Possèden**|
+|      Precare    |   **Prèco** |   **Prècas** |   **Prèca** |      Precamos     |      Precates     |   **Prècan** |
+|    Presentare   | **Presènto**| **Presèntas**| **Presènta**|     Presentamos   |     Presentates   | **Presèntan**|
+|     Remediare   |  **Remèdio**|  **Remèdias**|  **Remèdia**|     Remediamos    |     Remediates    |  **Remèdian**|
+|   Repentire-se  |**Me repènto** |**Te repèntes** |**Se repènte** |   Nos repentimos  |   Vos repentites  |**Se repènten** |
+|    Respectare   | **Respècto**| **Respèctas**| **Respècta**|     Respectamos   |     Respectates   | **Respèctan**|
+|      Restare    |   **Rèsto** |   **Rèstas** |   **Rèsta** |      Restamos     |      Restates     |   **Rèstan** |
+|     Revelare    |  **Revèlo** |  **Revèlas** |  **Revèla** |      Revelamos    |      Revelates    |  **Revèlan** |
+|      Rèndere    |   **Rèndo** |   **Rèndes** |   **Rènde** |      Rendemos     |      Rendetes     |   **Rèndan** |
+|     Sedere-se   |  **Me sèdo**|  **Te sèdes**|  **Se sède**|     Nos sedemos   |     Vos sedetes   |  **Se sèden**|
+|     Stressare   |  **Strèsso**|  **Strèssas**|  **Strèssa**|     Stressamos    |     Stressates    |  **Strèssan**|
+|      Tremare    |   **Trèmo** |   **Trèmas** |   **Trèma** |      Tremamos     |      Tremates     |   **Trèman** |
+|    Vestire-se   | **Me vèsto**| **Te vèstes**| **Se vèste**|    Nos vestimos   |    Vos vestites   | **Se vèsten**|
 
-#### Portare
-|                  |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
-|:----------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
-|      Portare     |**Pòrto**|**Pòrtas**|**Pòrta**|     Portamos   |     Portates   |**Pòrtan**|
-|   Comportare-se  |**Compòrto** |**Compòrtas** |**Compòrta** |   Comportamos  |   Comportates  |**Compòrtan** |
-|     Importare    |**Impòrto** |**Impòrtas** |**Impòrta** |    Importamos  |    Importates  |**Impòrtan** |
-|     Exportare    |**Expòrto** |**Expòrtas** |**Expòrta** |    Exportamos  |    Exportates  |**Expòrtan** |
-|     Sopportare   |**Soppòrto** |**Soppòrtas** |**Soppòrta** |   Sopportamos  |   Sopportates  |**Soppòrtan** |
 
-#### Plorare
+#### PRÈNDERE
+|                |         Èo       |         Tu        |     Elle/Ella    |        Nós      |        Vós      |     Ellos/Ellas   |
+|:--------------:|:----------------:|:-----------------:|:----------------:|:---------------:|:---------------:|:-----------------:|
+|     Prèndere   |  **Prèndo**|  **Prèndes**|  **Prènde**|     Prendemos   |     Prendetes   |  **Prènden**|
+|   Comprèndere  |**Comprèndo** |**Comprèndes** |**Comprènde** |   Comprendemos  |   Comprendetes  |**Comprènden** |
+|    Reprèndere  | **Reprèndo** | **Reprèndes** | **Reprènde** |    Reprendemos  |    Reprendetes  | **Reprènden** |
+|    Apprèndere  | **Apprèndo** | **Apprèndes** | **Apprènde** |    Apprendemos  |    Apprendetes  | **Apprènden** |
+
+#### -CÉPERE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
-|    Plorare   |**Plòro**|**Plòras**|**Plòra**|    Ploramos   |    Plorates   |**Plòran**|
-|   Explorare  |**Explòro** |**Explòras** |**Explòra** |   Exploramos  |   Explorates  |**Explòran** |
-|   Implorare  |**Implòro** |**Implòras** |**Implòra** |   Imploramos  |   Implorates  |**Implòran** |
+|   Concépere  |**Concèpo** |**Concèpes** |**Concèpe** |   Concepemos  |   Concepetes  |**Concèpen** |
+|   Percépere  |**Percèpo** |**Percèpes** |**Percèpe** |   Percepemos  |   Percepetes  |**Percèpen** |
+|    Recépere  | **Recèpo** | **Recèpes** | **Recèpe** |    Recepemos  |    Recepetes  | **Recèpen** |
+
+#### -PÈNDERE
+|               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
+|:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
+|     Pèndere   |  **Pèndo**|  **Pèndes**|  **Pènde**|     Pendemos   |     Pendetes   |  **Pènden**|
+|    Depèndere  | **Depèndo** | **Depèndes** | **Depènde** |    Dependemos  |   Dependentes  | **Depènden** |
+|   Sospèndere  |**Sospèndo** |**Sospèndes** |**Sospènde** |   Sospendemos  |   Sospendetes  |**Sospènden** |
+|   Despèndere  |**Despèndo** |**Despèndes** |**Despènde** |   Despendemos  |   Despendetes  |**Despènden** |
+
+#### CÈDERE
+|              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
+|:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
+|     Cèdere   |  **Cèdo**|  **Cèdes**|  **Cède**|     Cedemos   |     Cedetes   |  **Cèden**|
+|   Procèdere  |**Procèdo**|**Procèdes**|**Procède**|   Procedemos  |   Procedetes  |**Procèden**|
+|   Succèdere  |**Succèdo**|**Succèdes**|**Succède**|   Succedemos  |   Succedetes  |**Succèden**|
+|    Accèdere  | **Accèdo**| **Accèdes**| **Accède**|    Accedemos  |    Accedetes  | **Accèden**|
+
+#### -SERVARE
+|               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
+|:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
+|    Observare  |**Obsèrvo** |**Obsèrvas** |**Obsèrva** |    Observamos  |    Observates  |**Obsèrvan** |
+|   Conservare  |**Consèrvo** |**Consèrvas** |**Consèrva** |   Conservamos  |   Conservates  |**Consèrvan** |
+
+#### JECTARE
+|              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
+|:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
+|    Jectare   | **Jècto**| **Jèctas**| **Jècta**|    Jectamos   |    Jectates   | **Jèctan**|
+|   Rejectare  |**Rejècto** |**Rejèctas** |**Rejècta** |   Rejectamos  |   Rejectates  |**Rejèctan** |
+|   Objectare  |**Objècto** |**Objèctas** |**Objècta** |   Objectamos  |   Objectates  |**Objèctan** |
+
+
+#### PÈTERE
+|              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
+|:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
+|     Pètere   |  **Pèto**|  **Pètes**|  **Pète**|     Petemos   |     Petetes   |  **Pèten**|
+|    Repètere  | **Repèto** | **Repètes** | **Repète** |    Repetemos  |    Repetetes  | **Repèten** |
+|   Compètere  |**Compèto** |**Compètes** |**Compète** |   Competemos  |   Competetes  |**Compèten** |
+
+
+#### TESTARE
+|               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
+|:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
+|     Testare   |  **Tèsto**|  **Tèstas**|  **Tèsta**|     Testamos   |     Testates   |  **Tèstan**|
+|   Protestare  |**Protèsto** |**Protèstas** |**Protèsta** |   Protestamos  |   Protestates  |**Protèstan** |
+|    Detestare  | **Detèsto** | **Detèstas** | **Detèsta** |    Detestamos  |    Detestates  | **Detèstan** |
+|   Contestare  |**Contèsto** |**Contèstas** |**Contèsta** |   Contestamos  |   Contestates  |**Contèstan** |
+
 
 
 ### Open O (Has Diphthong in Spanish)
@@ -206,7 +269,7 @@ In addition, there are common verbs whose root stress are always closed:
 |     Sonare    |  **Sòno** |  **Sònas** |  **Sòna** |     Sonamos    |     Sonates    |  **Sònan** |
 |    Sonnîare   | **Sònnîo**| **Sònnîas**| **Sònnîa**|    Sonnîamos   |    Sonnîates   | **Sònnîan**|
 |     Tostare   |  **Tòsto**|  **Tòstas**|  **Tòsta**|     Tostamos   |     Tostates   |  **Tòstan**|
-|     Tropare   |  **Tròpo**|  **Tròpas**|  **Tròpa**|     Tropamos   |      Tropes    |  **Tròpan**|
+|     Tropare   |  **Tròpo**|  **Tròpas**|  **Tròpa**|     Tropamos   |      Tropates    |  **Tròpan**|
 |     Volare    |  **Vòlo** |  **Vòlas** |  **Vòla** |     Volamos    |     Volates    |  **Vòlan** |
 |      Òlere    |   **Òlo** |   **Òles** |   **Òle** |      Olemos    |      Oletes    |   **Òlen** |
 |     Tòrcere   |  **Tòrco**|  **Tòrces**|  **Tòrce**|     Torcemos   |     Torcetes   |  **Tòrcen**|
@@ -278,7 +341,7 @@ In addition, there are common verbs whose root stress are always closed:
 |                  |      Èo      |       Tu      |   Elle/Ella  |       Nós      |       Vós      |  Ellos/Ellas  |
 |:----------------:|:------------:|:-------------:|:------------:|:--------------:|:--------------:|:-------------:|
 |      Portare     |   **Pòrto** |   **Pòrtas** |   **Pòrta** |     Portamos   |     Portates   |   **Pòrtan** |
-|   Comportare-se  | **Compòrto**| **Compòrtas**| **Compòrta**|   Comportamos  |   Comportates  | **Compòrtan**|
+|   Comportare-se  | **Me compòrto**| **Te compòrtas**| **Se compòrta**|   Nos comportamos  |   Vos comportates  | **Se compòrtan**|
 |     Importare    |  **Impòrto**|  **Impòrtas**|  **Impòrta**|    Importamos  |    Importates  |  **Impòrtan**|
 |     Exportare    |  **Expòrto**|  **Expòrtas**|  **Expòrta**|    Exportamos  |    Exportates  |  **Expòrtan**|
 |     Sopportare   | **Soppòrto**| **Soppòrtas**| **Soppòrta**|   Sopportamos  |   Sopportates  | **Soppòrtan**|
@@ -292,13 +355,15 @@ In addition, there are common verbs whose root stress are always closed:
 
 ## 16.3.3. REGIONAL: Change in Stress
 ### Change in Stress?
-The verbs below have a change in stress if one wants to follow the stress pattern seen in Latin or Italian.  In some verbs, this not only corresponds to a change in stress, but also the pronunciation of an open vowel. That being said, this is optional and more for informational purposes, like if someone wants to learn about Latin pronunciation or understand Italian pronunciation. It is worth noting that some verbs, like "evaporare" in Italian, accept both irregular and regular stress, but the irregular stress is more common in speech. The majority of modern Romance languages simply use regular stress, which is to say, penultimate stress (the second to last syllable). 
+The verbs below have a change in stress if one wants to follow the stress pattern seen in Latin or Italian.  In some verbs, this not only corresponds to a change in stress, but also the pronunciation of an open vowel. That being said, this is optional and more for informational purposes, like if someone wants to learn about Latin pronunciation or understand Italian pronunciation. It is worth noting that some verbs, like "evaporare" in Italian, accept both irregular and regular stress, but the irregular stress is more common in speech. 
+
+**The majority of modern Romance languages simply use regular stress**, which is to say, penultimate stress (the second to last syllable). 
 
 The common thread is that verbs derived from nouns retain the same stress in both the infinitive and conjugations as the base noun. Some shortcuts in pronunciation are the changes in stress for verbs ending in -icare or -itare.
 
 :::note
 
-Some verbs in Italian notably have stress that differ from Latin: "evitare" and "soffocare".
+Some verbs in Italian notably have stress that differ from Latin: "evitare", "educare" and "soffocare".
 
 :::
 
@@ -325,67 +390,72 @@ Some verbs in Italian notably have stress that differ from Latin: "evitare" and 
 ### Change in Stress + Open O
 |                |             Èo           |              Tu            |         Elle/Ella        |        Nós      |        Vós      |         Ellos/Ellas        |
 |:--------------:|:------------------------:|:--------------------------:|:------------------------:|:---------------:|:---------------:|:--------------------------:|
+|     Advocare   |      Àdvoco / Advòco     |      Àdvocas / Advòcas     |      Àdvoca / Advòca     |     Advocamos   |     Advocates   |      Àdvocan / Advòcan     |
 |    Collocare   |     Còlloco / Collòco    |     Còllocas / Collòcas    |     Còlloca / Collòca    |    Collocamos   |    Collocates   |     Còllocan / Collòcan    |
-|     Evocare    |       Èvoco / Evòco      |       Èvocas / Evòcas      |       Èvoca / Evòca      |     Evocamos    |     Evocates    |       Èvocan / Evòcan      |
-|    Provocare   |     Pròvoco / Provòco    |     Pròvocas / Provòcas    |     Pròvoca / Provòca    |    Provocamos   |    Provocates   |     Pròvocan / Provòcan    |
 |     Comodare   |      Còmodo / Comòdo     |      Còmodas / Comòdas     |      Còmoda / Comòda     |     Comodamos   |     Comodates   |      Còmodan / Comòdan     |
-|    Incomodare  |    Incòmodo / Incomòdo   |    Incòmodas / Incomòdas   |    Incòmoda / Incomòda   |    Incomodamos  |    Incomodates  |    Incòmodan / Incomòdan   |
-|    Modificare  |    Mòdifico / Modifico   |    Mòdificas / Modificas   |    Mòdifica / Modifica   |    Modificamos  |    Modificates  |    Mòdifican / Modifican   |
 |    Depositare  |    Depòsito / Deposito   |    Depòsitas / Depositas   |    Depòsita / Deposita   |    Depositamos  |    Depositates  |    Depòsitan / Depositan   |
-|    Prosperare  |    Pròspero / Prospero   |    Pròsperas / Prosperas   |    Pròspera / Prospera   |    Prosperamos  |    Prosperates  |    Pròsperan / Prosperan   |
+|     Evocare    |       Èvoco / Evòco      |       Èvocas / Evòcas      |       Èvoca / Evòca      |     Evocamos    |     Evocates    |       Èvocan / Evòcan      |
+|    Incomodare  |    Incòmodo / Incomòdo   |    Incòmodas / Incomòdas   |    Incòmoda / Incomòda   |    Incomodamos  |    Incomodates  |    Incòmodan / Incomòdan   |
 |   Incorporare  |   Incòrporo / Incorporo  |   Incòrporas / Incorporas  |   Incòrpora / Incorpora  |   Incorporamos  |   Incorporates  |   Incòrporan / Incorporan  |
+|     Moderare   |      Mòdero / Modero     |      Mòderas / Moderas     |      Mòdera / Modera     |     Moderamos   |     Moderates   |      Mòderan / Moderan     |
+|    Modificare  |    Mòdifico / Modifico   |    Mòdificas / Modificas   |    Mòdifica / Modifica   |    Modificamos  |    Modificates  |    Mòdifican / Modifican   |
 |     Obligare   |      Òbligo / Obligo     |      Òbligas / Obligas     |      Òbliga / Obliga     |     Obligamos   |     Obligates   |      Òbligan / Obligan     |
-|     Vomitare   |      Vòmito / Vomito     |      Vòmitas / Vomitas     |      Vòmita / Vomita     |     Vomitamos   |     Vomitates   |           Vòmitan          |
-|     Tolerare   |      Tòlero / Tolero     |      Tòleras / Toleras     |      Tòlera / Tolera     |     Toleramos   |     Tolerates   |      Tòleran / Toleran     |
 |     Occupare   |      Òccupo / Occupo     |      Òccupas / Occupas     |      Òccupa / Occupa     |     Occupamos   |     Occupates   |      Òccupan / Occupan     |
-|   Preoccupare  |   Preòccupo / Preoccupo  |   Preòccupas / Preoccupas  |   Preòccupa / Preoccupa  |   Preoccupamos  |   Preoccupates  |   Preòccupan / Preoccupan  |
 |     Operare    |       Òpero / Opero      |       Òperas / Operas      |       Òpera / Opera      |     Operamos    |     Operates    |       Òperan / Operan      |
+|   Preoccupare  |   Preòccupo / Preoccupo  |   Preòccupas / Preoccupas  |   Preòccupa / Preoccupa  |   Preoccupamos  |   Preoccupates  |   Preòccupan / Preoccupan  |
+|    Prosperare  |    Pròspero / Prospero   |    Pròsperas / Prosperas   |    Pròspera / Prospera   |    Prosperamos  |    Prosperates  |    Pròsperan / Prosperan   |
+|    Provocare   |     Pròvoco / Provòco    |     Pròvocas / Provòcas    |     Pròvoca / Provòca    |    Provocamos   |    Provocates   |     Pròvocan / Provòcan    |
+|     Tolerare   |      Tòlero / Tolero     |      Tòleras / Toleras     |      Tòlera / Tolera     |     Toleramos   |     Tolerates   |      Tòleran / Toleran     |
+|     Vomitare   |      Vòmito / Vomito     |      Vòmitas / Vomitas     |      Vòmita / Vomita     |     Vomitamos   |     Vomitates   |           Vòmitan          |
 
 
 ### Change in Stress + Closed Vowel
 |                |             Èo           |              Tu            |         Elle/Ella        |        Nós      |        Vós      |         Ellos/Ellas        |
 |:--------------:|:------------------------:|:--------------------------:|:------------------------:|:---------------:|:---------------:|:--------------------------:|
-|     Liberare   |      Líbero / Libero     |      Líberas / Liberas     |      Líbera / Libera     |     Liberamos   |     Liberates   |      Líberan / Liberan     |
-|    Allineare   |     Allíneo / Allineo    |     Allíneas / Allineas    |     Allínea / Allinea    |    Allineamos   |    Allineates   |     Allínean / Allinean    |
-|     Limitare   |      Límito / Limito     |      Límitas / Limitas     |      Límita / Limita     |     Limitamos   |     Limitates   |      Límitan / Limitan     |
-|     Digitare   |      Dígito / Digito     |      Dígitas / Digitas     |      Dígita / Digita     |     Digitamos   |     Digitates   |      Dígitan / Digitan     |
-|     Dubitare   |      Dúbito / Dubito     |      Dúbitas / Dubitas     |      Dúbita / Dubita     |     Dubitamos   |     Dubitates   |      Dúbitan / Dubitan     |
-|    Continuare  |    Contínuo / Continúo   |    Contínuas / Continúas   |    Contínua / Continúa   |    Continuamos  |    Continuates  |    Contínuan / Continúan   |
-|   Considerare  |   Consídero / Considero  |   Consíderas / Consideras  |   Consídera / Considera  |   Consideramos  |   Considerates  |   Consíderan / Consideran  |
-|    Manipulare  |    Manípulo / Manipulo   |    Manípulas / Manipulas   |    Manípula / Manipula   |    Manipulamos  |    Manipulates  |    Manípulan / Manipulan   |
-|   Communicare  |   Commúnico / Communico  |   Commúnicas / Communicas  |   Commúnica / Communica  |   Communicamos  |   Communicates  |   Commúnican / Communican  |
-|     Indicare   |      Índico / Indico     |      Índicas / Indicas     |      Índica / Indica     |     Indicamos   |     Indicates   |      Índican / Indican     |
-|    Implicare   |     Ímplico / Implico    |     Ímplicas / Implicas    |     Ímplica / Implica    |    Implicamos   |    Implicates   |     Ímplican / Implican    |
-|    Publicare   |     Público / Publico    |     Públicas / Publicas    |     Pública / Publica    |    Publicamos   |    Publicates   |           Publican         |
-|    Verificare  |    Verífico / Verifico   |    Veríficas / Verificas   |    Verífica / Verifica   |    Verificamos  |    Verificates  |    Verífican / Verifican   |
-|     Judicare   |      Júdico / Judico     |      Júdicas / Judicas     |      Júdica / Judica     |     Judicamos   |     Judicates   |      Júdican / Judican     |
-|    Applicare   |     Ápplico / Applico    |     Ápplicas / Applicas    |     Ápplica / Applica    |    Applicamos   |    Applicates   |     Ápplican / Applican    |
-|   Significare  |   Signífico / Significo  |   Signíficas / Significas  |   Signífica / Significa  |   Significamos  |   Significates  |   Signífican / Significan  |
-|    Dissipare   |     Díssipo / Dissipo    |     Díssipas / Dissipas    |     Díssipa / Dissipa    |    Dissipamos   |    Dissipates   |     Díssipan / Dissipan    |
-|    Evaporare   |     Evàporo / Evaporo    |     Evàporas / Evaporas    |     Evàpora / Evapora    |    Evaporamos   |    Evaporates   |     Evàporan / Evaporan    |
-|    Intimidare  |    Intímido / Intimido   |    Intímidas / Intimidas   |    Intímida / Intimida   |    Intimidamos  |    Intimidates  |    Intímidan / Intimidan   |
-|    Fabricare   |     Fàbrico / Fabrico    |     Fàbricas / Fabricas    |     Fàbrica / Fabrica    |    Fabricamos   |    Fabricates   |     Fàbrican / Fabrican    |
-|    Calculare   |     Càlculo / Calculo    |     Càlculas / Calculas    |     Càlcula / Calcula    |    Calculamos   |    Calculates   |     Càlculan / Calculan    |
-|   Participare  |   Partícipo / Participo  |   Partícipas / Participas  |   Partícipa / Participa  |   Participamos  |   Participates  |   Partícipan / Participan  |
-|    Debilitare  |    Debílito / Debilito   |    Debílitas / Debilitas   |    Debílita / Debilita   |    Debilitamos  |    Debilitates  |    Debílitan / Debilitan   |
-|    Facilitare  |    Facílito / Facilito   |    Facílitas / Facilitas   |    Facílita / Facilita   |    Facilitamos  |    Facilitates  |    Facílitan / Facilitan   |
-|    Carrecare   |     Càrreco / Carreco    |      Càrrecas / Caracas    |     Càrreca / Carreca    |    Carrecamos   |    Carrecates   |     Càrrecan / Carrecan    |
-|     Navegare   |      Nàvego / Navego     |      Nàvegas / Navegas     |      Nàvega / Navega     |     Navegamos   |     Navegates   |      Nàvegan / Navegan     |
-|   Collaborare  |   Collàboro / Collaboro  |   Collàboras / Collaboras  |   Collàbora / Collabora  |   Collaboramos  |   Collaborates  |   Collàboran / Collaboran  |
-|     Validare   |      Vàlido / Valido     |      Vàlidas / Validas     |      Vàlida / Valida     |     Validamos   |     Validates   |      Vàlidan / Validan     |
-|    Imaginare   |     Imàgino / Imagino    |     Imàginas / Imaginas    |     Imàgina / Imagina    |    Imaginamos   |    Imaginates   |     Imàginan / Imaginan    |
-|     Ordenare   |      Órdeno / Ordeno     |      Órdenas / Ordenas     |      Órdena / Ordena     |     Ordenamos   |     Ordenates   |      Órdenan / Ordenan     |
-|     Violare    |       Víolo / Violo      |       Víolas / Violas      |       Víola / Viola      |     Violamos    |     Violates    |       Víolan / Violan      |
-|    Integrare   |     Íntegro / Integro    |     Íntegras / Integras    |     Íntegra / Integra    |    Integramos   |    Integrates   |     Íntegran / Integran    |
-|     Alterare   |      Àltero / Altero     |      Àlteras / Alteras     |      Àltera / Altera     |     Alteramos   |     Alterates   |      Àlteran / Alteran     |
-|    Examinare   |     Exàmino / Examino    |     Exàminas / Examinas    |     Exàmina / Examina    |    Examinamos   |    Examinates   |     Exàminan / Examinan    |
-|   Sollicitare  |   Sollícito / Sollicito  |   Sollícitas / Sollicitas  |   Sollícita / Sollicita  |   Sollicitamos  |   Sollicitates  |   Sollícitan / Sollicitan  |
-|    Circulare   |     Círculo / Circulo    |     Círculas / Circulas    |     Círcula / Circula    |    Circulamos   |    Circulates   |     Círculan / Circulan    |
-|    Articulare  |    Artículo / Artículo   |    Artículas / Artículas   |    Artícula / Artícula   |    Articulamos  |    Articulates  |    Artículan / Artículan   |
-|   Specificare  |   Specífico / Specifico  |   Specíficas / Specificas  |   Specífica / Specifica  |   Specificamos  |   Specificates  |   Specífican / Specifican  |
-|    Enumerare   |     Enúmero / Enumero    |     Enúmeras / Enumeras    |     Enúmera / Enumera    |    Enumeramos   |    Enumerates   |     Enúmeran / Enumeran    |
-|   Reciprocare  |   Recíproco / Reciproco  |   Recíprocas / Reciprocas  |   Recíproca / Reciproca  |   Reciprocamos  |   Reciprocates  |   Recíprocan / Reciprocan  |
-|    Obliterare  |    Oblítero / Oblitero   |    Oblíteras / Obliteras   |    Oblítera / Oblitera   |    Obliteramos  |    Obliterates  |    Oblíteran / Obliteran   |
-|    Assimilare  |    Assímilo / Assimilo   |    Assímilas / Assimilas   |    Assímila / Assimila   |    Assimilamos  |    Assimilates  |    Assímilan / Assimilan   |
 |    Accumulare  |    Accúmulo / Accumulo   |    Accúmulas / Accumulas   |    Accúmula / Accumula   |    Accumulamos  |    Accumulates  |    Accúmulan / Accumulan   |
+|    Allineare   |     Allíneo / Allineo    |     Allíneas / Allineas    |     Allínea / Allinea    |    Allineamos   |    Allineates   |     Allínean / Allinean    |
+|     Alterare   |      Àltero / Altero     |      Àlteras / Alteras     |      Àltera / Altera     |     Alteramos   |     Alterates   |      Àlteran / Alteran     |
+|    Applicare   |     Àpplico / Applico    |     Àpplicas / Applicas    |     Àpplica / Applica    |    Applicamos   |    Applicates   |     Àpplican / Applican    |
+|    Articulare  |    Artículo / Artículo   |    Artículas / Artículas   |    Artícula / Artícula   |    Articulamos  |    Articulates  |    Artículan / Artículan   |
+|    Assimilare  |    Assímilo / Assimilo   |    Assímilas / Assimilas   |    Assímila / Assimila   |    Assimilamos  |    Assimilates  |    Assímilan / Assimilan   |
+|    Calculare   |     Càlculo / Calculo    |     Càlculas / Calculas    |     Càlcula / Calcula    |    Calculamos   |    Calculates   |     Càlculan / Calculan    |
+|    Carrecare   |     Càrreco / Carreco    |      Càrrecas / Caracas    |     Càrreca / Carreca    |    Carrecamos   |    Carrecates   |     Càrrecan / Carrecan    |
+|    Circulare   |     Círculo / Circulo    |     Círculas / Circulas    |     Círcula / Circula    |    Circulamos   |    Circulates   |     Círculan / Circulan    |
+|   Collaborare  |   Collàboro / Collaboro  |   Collàboras / Collaboras  |   Collàbora / Collabora  |   Collaboramos  |   Collaborates  |   Collàboran / Collaboran  |
+|   Communicare  |   Commúnico / Communico  |   Commúnicas / Communicas  |   Commúnica / Communica  |   Communicamos  |   Communicates  |   Commúnican / Communican  |
+|   Considerare  |   Consídero / Considero  |   Consíderas / Consideras  |   Consídera / Considera  |   Consideramos  |   Considerates  |   Consíderan / Consideran  |
+|   Contaminare  |   Contàmino / Contamino  |   Contàminas / Contaminas  |   Contàmina / Contamina  |   Contaminamos  |   Contaminates  |   Contàminan / Contaminan  |
+|    Continuare  |    Contínuo / Continúo   |    Contínuas / Continúas   |    Contínua / Continúa   |    Continuamos  |    Continuates  |    Contínuan / Continúan   |
+|    Debilitare  |    Debílito / Debilito   |    Debílitas / Debilitas   |    Debílita / Debilita   |    Debilitamos  |    Debilitates  |    Debílitan / Debilitan   |
+|     Digitare   |      Dígito / Digito     |      Dígitas / Digitas     |      Dígita / Digita     |     Digitamos   |     Digitates   |      Dígitan / Digitan     |
+|    Dissipare   |     Díssipo / Dissipo    |     Díssipas / Dissipas    |     Díssipa / Dissipa    |    Dissipamos   |    Dissipates   |     Díssipan / Dissipan    |
+|     Dubitare   |      Dúbito / Dubito     |      Dúbitas / Dubitas     |      Dúbita / Dubita     |     Dubitamos   |     Dubitates   |      Dúbitan / Dubitan     |
+|    Enumerare   |     Enúmero / Enumero    |     Enúmeras / Enumeras    |     Enúmera / Enumera    |    Enumeramos   |    Enumerates   |     Enúmeran / Enumeran    |
+|    Evaporare   |     Evàporo / Evaporo    |     Evàporas / Evaporas    |     Evàpora / Evapora    |    Evaporamos   |    Evaporates   |     Evàporan / Evaporan    |
+|    Exagerare   |     Exàgero / Exagero    |     Exàgeras / Exageras    |     Exàgera / Exagera    |    Exageramos   |    Exagerates   |     Exàgeran / Exageran    |
+|    Examinare   |     Exàmino / Examino    |     Exàminas / Examinas    |     Exàmina / Examina    |    Examinamos   |    Examinates   |     Exàminan / Examinan    |
+|    Fabricare   |     Fàbrico / Fabrico    |     Fàbricas / Fabricas    |     Fàbrica / Fabrica    |    Fabricamos   |    Fabricates   |     Fàbrican / Fabrican    |
+|    Facilitare  |    Facílito / Facilito   |    Facílitas / Facilitas   |    Facílita / Facilita   |    Facilitamos  |    Facilitates  |    Facílitan / Facilitan   |
+|    Fascinare   |     Fàscino / Fascino    |     Fàscinas / Fascinas    |     Fàscina / Fascina    |    Fascinamos   |    Fascinates   |     Fàscinan / Fascinan    |
+|    Imaginare   |     Imàgino / Imagino    |     Imàginas / Imaginas    |     Imàgina / Imagina    |    Imaginamos   |    Imaginates   |     Imàginan / Imaginan    |
+|    Implicare   |     Ímplico / Implico    |     Ímplicas / Implicas    |     Ímplica / Implica    |    Implicamos   |    Implicates   |     Ímplican / Implican    |
+|     Indicare   |      Índico / Indico     |      Índicas / Indicas     |      Índica / Indica     |     Indicamos   |     Indicates   |      Índican / Indican     |
+|    Integrare   |     Íntegro / Integro    |     Íntegras / Integras    |     Íntegra / Integra    |    Integramos   |    Integrates   |     Íntegran / Integran    |
+|    Intimidare  |    Intímido / Intimido   |    Intímidas / Intimidas   |    Intímida / Intimida   |    Intimidamos  |    Intimidates  |    Intímidan / Intimidan   |
+|     Judicare   |      Júdico / Judico     |      Júdicas / Judicas     |      Júdica / Judica     |     Judicamos   |     Judicates   |      Júdican / Judican     |
+|     Liberare   |      Líbero / Libero     |      Líberas / Liberas     |      Líbera / Libera     |     Liberamos   |     Liberates   |      Líberan / Liberan     |
+|     Limitare   |      Límito / Limito     |      Límitas / Limitas     |      Límita / Limita     |     Limitamos   |     Limitates   |      Límitan / Limitan     |
+|    Manipulare  |    Manípulo / Manipulo   |    Manípulas / Manipulas   |    Manípula / Manipula   |    Manipulamos  |    Manipulates  |    Manípulan / Manipulan   |
+|     Navegare   |      Nàvego / Navego     |      Nàvegas / Navegas     |      Nàvega / Navega     |     Navegamos   |     Navegates   |      Nàvegan / Navegan     |
+|    Obliterare  |    Oblítero / Oblitero   |    Oblíteras / Obliteras   |    Oblítera / Oblitera   |    Obliteramos  |    Obliterates  |    Oblíteran / Obliteran   |
+|     Ordenare   |      Órdeno / Ordeno     |      Órdenas / Ordenas     |      Órdena / Ordena     |     Ordenamos   |     Ordenates   |      Órdenan / Ordenan     |
+|   Participare  |   Partícipo / Participo  |   Partícipas / Participas  |   Partícipa / Participa  |   Participamos  |   Participates  |   Partícipan / Participan  |
 |    Practicare  |    Pràctico / Practico   |    Pràcticas / Practicas   |    Pràctica / Practica   |    Practicamos  |    Practicates  |    Pràctican / Practican   |
+|    Publicare   |     Público / Publico    |     Públicas / Publicas    |     Pública / Publica    |    Publicamos   |    Publicates   |           Publican         |
+|   Reciprocare  |   Recíproco / Reciproco  |   Recíprocas / Reciprocas  |   Recíproca / Reciproca  |   Reciprocamos  |   Reciprocates  |   Recíprocan / Reciprocan  |
+|   Significare  |   Signífico / Significo  |   Signíficas / Significas  |   Signífica / Significa  |   Significamos  |   Significates  |   Signífican / Significan  |
+|   Sollicitare  |   Sollícito / Sollicito  |   Sollícitas / Sollicitas  |   Sollícita / Sollicita  |   Sollicitamos  |   Sollicitates  |   Sollícitan / Sollicitan  |
+|   Specificare  |   Specífico / Specifico  |   Specíficas / Specificas  |   Specífica / Specifica  |   Specificamos  |   Specificates  |   Specífican / Specifican  |
+|     Validare   |      Vàlido / Valido     |      Vàlidas / Validas     |      Vàlida / Valida     |     Validamos   |     Validates   |      Vàlidan / Validan     |
+|    Verificare  |    Verífico / Verifico   |    Veríficas / Verificas   |    Verífica / Verifica   |    Verificamos  |    Verificates  |    Verífican / Verifican   |
+|     Violare    |       Víolo / Violo      |       Víolas / Violas      |       Víola / Viola      |     Violamos    |     Violates    |       Víolan / Violan      |
