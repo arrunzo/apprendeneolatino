@@ -1,11 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# 16.3. Stem-Changing Verbs and Root Stress
+# 16.4. Type 2: Stem-Changing Verbs and Root Stress
 Access a preview of this section [here](https://docs.google.com/document/d/1Ddoj5TYwg02mBJbEsqvzr1eOvB3ov3iFVSCHK-5Q4Us/edit?usp=sharing).
 
-## 16.3.1. Root Stress?
+## 16.4.1. Root Stress?
 In verbs where applicable, occurs in all conjugations of a verb except for vós and nós. In the case of vós and nós, it does not occur in these conjugations because the stress falls on the ending, and therefore, the stem remains unchanged. In applicable verbs, this pattern applies to conjugations in the present indicative, the present subjunctive and the imperative.
 
 Below are some considerations for root stress:
@@ -48,9 +48,8 @@ In addition, there are common verbs whose root stress is always closed:
 - Adornare
 
 
-## 16.3.2. No Change In Stress
-### Open E (Has Diphthong in Spanish)
-#### Other Verbs
+## 16.4.2. Open E (Has Diphthong in Spanish)
+### Other Verbs
 |                 |         Èo        |          Tu        |      Elle/Ella    |        Nós       |        Vós       |     Ellos/Ellas    |
 |:---------------:|:-----------------:|:------------------:|:-----------------:|:----------------:|:----------------:|:------------------:|
 |     Accertare   |  **Accèrto**|  **Accèrtas**|  **Accèrta**|     Accertamos   |     Accertates   |  **Accèrtan**|
@@ -67,7 +66,7 @@ In addition, there are common verbs whose root stress is always closed:
 |      Servire    |   **Sèrvo** |   **Sèrves** |   **Sèrve** |      Servimos    |      Servites    |   **Sèrven** |
 |      Tentare    |   **Tènto** |   **Tèntas** |   **Tènta** |      Tentamos    |      Tentates    |   **Tèntan** |
 
-#### -ÈNDERE
+### -ÈNDERE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |   Accèndere  |**Accèndo** |**Accèndes** |**Accènde** |   Accendemos  |   Accendetes  |**Accènden** |
@@ -79,27 +78,27 @@ In addition, there are common verbs whose root stress is always closed:
 |   Entèndere  |**Entèndo** |**Entèndes** |**Entènde** |   Entendemos  |   Entendetes  |**Entènden** |
 |   Extèndere  |**Extèndo** |**Extèndes** |**Extènde** |   Extendemos  |   Extendetes  |**Extènden** |
 
-#### SENTIRE
+### SENTIRE
 |               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
 |:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
 |     Sentire   |   **Sènto**|   **Sèntes**|   **Sènte**|     Sentimos   |     Sentites   |   **Sènten**|
 |   Consentire  | **Consènto**| **Consèntes**| **Consènte**|   Consentimos  |   Consentites  | **Consènten**|
 |   Dissentire  | **Dissènto**| **Dissèntes**| **Dissènte**|   Dissentimos  |   Dissentites  | **Dissènten**|
 
-#### -CÈRNERE
+### -CÈRNERE
 |               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
 |:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
 |   Concèrnere  |**Concèrno** |**Concèrnes** |**Concèrne** |   Concernemos  |   Concernetes  |**Concèrnen** |
 |   Discèrnere  |**Discèrno** |**Discèrnes** |**Discèrne** |   Discernemos  |   Discernetes  |**Discèrnen** |
 
 
-#### CHÈRERE
+### CHÈRERE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |    Chèrere   | **Chèro**| **Chères**| **Chère**|    Cheremos   |    Cheretes   | **Chèren**|
 |   Rechèrere  |**Rechèro** |**Rechères** |**Rechère** |   Recheremos  |   Recheretes  |**Rechèren** |
 
-#### -VÈRTERE or -VERTIRE
+### -VÈRTERE or -VERTIRE
 |                 |         Èo        |          Tu        |      Elle/Ella    |         Nós       |         Vós       |     Ellos/Ellas    |
 |:---------------:|:-----------------:|:------------------:|:-----------------:|:-----------------:|:-----------------:|:------------------:|
 |      Vèrtere    |   **Vèrto**|   **Vèrtes**|   **Vèrte**|      Vertemos     |      Vertetes     |   **Vèrten**|
@@ -108,13 +107,13 @@ In addition, there are common verbs whose root stress is always closed:
 |   Divertire-se  |**Me divèrto**|**Te divèrtes**|**Se divèrte**|   Nos divertimos  |   Vos divertites  |**Se divèrten**|
 |     Advertire   |  **Advèrto**|  **Advèrtes**|  **Advèrte**|     Advertimos    |     Advertites    |  **Advèrten**|
 
-#### GERIRE
+### GERIRE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |     Gerire   | **Gèro**| **Gères**| **Gère**|     Gerimos   |     Gerites   | **Gèren**|
 |   Suggerire  |**Suggèro**|**Suggères**|**Suggère**|   Suggerimos  |   Suggerites  |**Suggèren**|
 
-#### FERIRE
+### FERIRE
 |                |         Èo       |         Tu        |     Elle/Ella    |        Nós      |        Vós      |     Ellos/Ellas   |
 |:--------------:|:----------------:|:-----------------:|:----------------:|:---------------:|:---------------:|:-----------------:|
 |      Ferire    |   **Fèro** |   **Fères** |   **Fère** |      Ferimos    |      Ferites    |   **Fèren** |
@@ -124,7 +123,7 @@ In addition, there are common verbs whose root stress is always closed:
 |   Transferire  |**Transfèro** |**Transfères** |**Transfère** |   Transferimos  |   Transferites  |**Transfèren** |
 |     Adherire   |  **Adhèro**|  **Adhères**|  **Adhère**|     Adherimos   |     Adherites   |  **Adhèren**|
 
-#### TENERE (Irregular Èo Form and Stem Change)
+### TENERE (Irregular Èo Form and Stem Change)
 |              |         Èo       |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:----------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |     Tenere   |  **Tènnîo**|  **Tènes**|  **Tène**|     Tenemos   |     Tenetes   |  **Tènen**|
@@ -134,8 +133,8 @@ In addition, there are common verbs whose root stress is always closed:
 |    Obtenere  | **Obtènnîo** | **Obtènes** | **Obtène** |    Obtenemos  |    Obtenetes  | **Obtènen** |
 
 
-### Open E (Does Not Have Diphthong in Spanish)
-#### Other Verbs
+## 16.4.3. Open E (Does Not Have Diphthong in Spanish)
+### Other Verbs
 |                 |         Èo        |          Tu        |      Elle/Ella    |         Nós       |         Vós       |     Ellos/Ellas    |
 |:---------------:|:-----------------:|:------------------:|:-----------------:|:-----------------:|:-----------------:|:------------------:|
 |     Acceptare   |  **Accèpto**|  **Accèptas**|  **Accèpta**|     Acceptamos    |     Acceptates    |  **Accèptan**|
@@ -184,7 +183,7 @@ In addition, there are common verbs whose root stress is always closed:
 |    Vestire-se   | **Me vèsto**| **Te vèstes**| **Se vèste**|    Nos vestimos   |    Vos vestites   | **Se vèsten**|
 
 
-#### PRÈNDERE
+### PRÈNDERE
 |                |         Èo       |         Tu        |     Elle/Ella    |        Nós      |        Vós      |     Ellos/Ellas   |
 |:--------------:|:----------------:|:-----------------:|:----------------:|:---------------:|:---------------:|:-----------------:|
 |     Prèndere   |  **Prèndo**|  **Prèndes**|  **Prènde**|     Prendemos   |     Prendetes   |  **Prènden**|
@@ -192,14 +191,14 @@ In addition, there are common verbs whose root stress is always closed:
 |    Reprèndere  | **Reprèndo** | **Reprèndes** | **Reprènde** |    Reprendemos  |    Reprendetes  | **Reprènden** |
 |    Apprèndere  | **Apprèndo** | **Apprèndes** | **Apprènde** |    Apprendemos  |    Apprendetes  | **Apprènden** |
 
-#### -CÉPERE
+### -CÉPERE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |   Concépere  |**Concèpo** |**Concèpes** |**Concèpe** |   Concepemos  |   Concepetes  |**Concèpen** |
 |   Percépere  |**Percèpo** |**Percèpes** |**Percèpe** |   Percepemos  |   Percepetes  |**Percèpen** |
 |    Recépere  | **Recèpo** | **Recèpes** | **Recèpe** |    Recepemos  |    Recepetes  | **Recèpen** |
 
-#### -PÈNDERE
+### -PÈNDERE
 |               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
 |:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
 |     Pèndere   |  **Pèndo**|  **Pèndes**|  **Pènde**|     Pendemos   |     Pendetes   |  **Pènden**|
@@ -207,7 +206,7 @@ In addition, there are common verbs whose root stress is always closed:
 |   Sospèndere  |**Sospèndo** |**Sospèndes** |**Sospènde** |   Sospendemos  |   Sospendetes  |**Sospènden** |
 |   Despèndere  |**Despèndo** |**Despèndes** |**Despènde** |   Despendemos  |   Despendetes  |**Despènden** |
 
-#### CÈDERE
+### CÈDERE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |     Cèdere   |  **Cèdo**|  **Cèdes**|  **Cède**|     Cedemos   |     Cedetes   |  **Cèden**|
@@ -215,13 +214,13 @@ In addition, there are common verbs whose root stress is always closed:
 |   Succèdere  |**Succèdo**|**Succèdes**|**Succède**|   Succedemos  |   Succedetes  |**Succèden**|
 |    Accèdere  | **Accèdo**| **Accèdes**| **Accède**|    Accedemos  |    Accedetes  | **Accèden**|
 
-#### -SERVARE
+### -SERVARE
 |               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
 |:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
 |    Observare  |**Obsèrvo** |**Obsèrvas** |**Obsèrva** |    Observamos  |    Observates  |**Obsèrvan** |
 |   Conservare  |**Consèrvo** |**Consèrvas** |**Consèrva** |   Conservamos  |   Conservates  |**Consèrvan** |
 
-#### JECTARE
+### JECTARE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |    Jectare   | **Jècto**| **Jèctas**| **Jècta**|    Jectamos   |    Jectates   | **Jèctan**|
@@ -229,7 +228,7 @@ In addition, there are common verbs whose root stress is always closed:
 |   Objectare  |**Objècto** |**Objèctas** |**Objècta** |   Objectamos  |   Objectates  |**Objèctan** |
 
 
-#### PÈTERE
+### PÈTERE
 |              |        Èo      |        Tu       |    Elle/Ella   |       Nós     |       Vós     |    Ellos/Ellas  |
 |:------------:|:--------------:|:---------------:|:--------------:|:-------------:|:-------------:|:---------------:|
 |     Pètere   |  **Pèto**|  **Pètes**|  **Pète**|     Petemos   |     Petetes   |  **Pèten**|
@@ -237,7 +236,7 @@ In addition, there are common verbs whose root stress is always closed:
 |   Compètere  |**Compèto** |**Compètes** |**Compète** |   Competemos  |   Competetes  |**Compèten** |
 
 
-#### TESTARE
+### TESTARE
 |               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
 |:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
 |     Testare   |  **Tèsto**|  **Tèstas**|  **Tèsta**|     Testamos   |     Testates   |  **Tèstan**|
@@ -247,7 +246,7 @@ In addition, there are common verbs whose root stress is always closed:
 
 
 
-### Open O (Has Diphthong in Spanish)
+## 16.4.4. Open O (Has Diphthong in Spanish)
 
 |               |        Èo       |         Tu       |     Elle/Ella   |       Nós      |       Vós      |    Ellos/Ellas   |
 |:-------------:|:---------------:|:----------------:|:---------------:|:--------------:|:--------------:|:----------------:|
@@ -275,38 +274,38 @@ In addition, there are common verbs whose root stress is always closed:
 |     Tòrcere   |  **Tòrco**|  **Tòrces**|  **Tòrce**|     Torcemos   |     Torcetes   |  **Tòrcen**|
 
 
-#### MÒVERE
+### MÒVERE
 |           |      Èo     |      Tu      |  Elle/Ella  |     Nós    |     Vós    |  Ellos/Ellas |
 |:---------:|:-----------:|:------------:|:-----------:|:----------:|:----------:|:------------:|
 |   Mòvere  |   **Mòvo** |   **Mòves** |   **Mòve** |   Movemos  |   Movetes  |   **Mòven** |
 | Promòvere | **Promòvo**| **Promòves**| **Promòve**| Promovemos | Promovetes | **Promòven**|
 
-#### PROVARE
+### PROVARE
 |           |      Èo     |      Tu      |  Elle/Ella  |     Nós    |     Vós    |  Ellos/Ellas |
 |:---------:|:-----------:|:------------:|:-----------:|:----------:|:----------:|:------------:|
 |  Provare  |  **Pròvo** |  **Pròvas** |  **Pròva** |  Provamos  |  Provates  |  **Pròvan** |
 | Approvare | **Appròvo**| **Appròvas**| **Appròva**| Approvamos | Approvates | **Appròvan**|
 
-#### MOSTRARE
+### MOSTRARE
 |            |      Èo      |       Tu      |   Elle/Ella  |     Nós     |     Vós     |  Ellos/Ellas  |
 |:----------:|:------------:|:-------------:|:------------:|:-----------:|:-----------:|:-------------:|
 |  Mostrare  |  **Mòstro** |  **Mòstras** |  **Mòstra** |  Mostramos  |  Mostrates  |  **Mòstran** |
 | Demostrare | **Demòstro**| **Demòstras**| **Demòstra**| Demostramos | Demostrates | **Demòstran**|
 
-#### SÒLVERE
+### SÒLVERE
 |           |      Èo     |      Tu      |  Elle/Ella  |     Nós    |     Vós    |  Ellos/Ellas |
 |:---------:|:-----------:|:------------:|:-----------:|:----------:|:----------:|:------------:|
 |  Sòlvere  |  **Sòlvo** |  **Sòlves** |  **Sòlve** |  Solvemos  |  Solvetes  |  **Sòlven** |
 | Resòlvere | **Resòlvo**| **Resòlves**| **Resòlve**| Resolvemos | Resolvetes | **Resòlven**|
 
-#### VÒLVERE
+### VÒLVERE
 |           |      Èo     |      Tu      |  Elle/Ella  |     Nós    |     Vós    |  Ellos/Ellas |
 |:---------:|:-----------:|:------------:|:-----------:|:----------:|:----------:|:------------:|
 |  Vòlvere  |  **Vòlvo** |  **Vòlves** |  **Vòlve** |  Volvemos  |  Volvetes  |  **Vòlven** |
 | Devòlvere | **Devòlvo**| **Devòlves**| **Devòlve**| Devolvemos | Devolvetes | **Devòlven**|
 | Envòlvere | **Envòlvo**| **Envòlves**| **Envòlve**| Envolvemos | Envolvetes | **Envòlven**|
 
-### Open O (Does Not Have Diphthong in Spanish)
+## 16.4.5. Open O (Does Not Have Diphthong in Spanish)
 |                   |          Èo         |          Tu         |      Elle/Ella      |         Nós         |         Vós         |      Ellos/Ellas     |
 |:-----------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|
 |     Abbordare     |    **Abbòrdo**  |   **Abbòrdas** |   **Abbòrda**|      Abbordamos     |      Abbordates     |   **Abbòrdan**|
@@ -337,7 +336,7 @@ In addition, there are common verbs whose root stress is always closed:
 |      Renovare     |     **Renòvo**  |   **Renòvas** |   **Renòva** |       Renovamos     |       Renovates     |   **Renòvan** |
 
 
-#### PORTARE
+### PORTARE
 |                  |      Èo      |       Tu      |   Elle/Ella  |       Nós      |       Vós      |  Ellos/Ellas  |
 |:----------------:|:------------:|:-------------:|:------------:|:--------------:|:--------------:|:-------------:|
 |      Portare     |   **Pòrto** |   **Pòrtas** |   **Pòrta** |     Portamos   |     Portates   |   **Pòrtan** |
@@ -346,116 +345,10 @@ In addition, there are common verbs whose root stress is always closed:
 |     Exportare    |  **Expòrto**|  **Expòrtas**|  **Expòrta**|    Exportamos  |    Exportates  |  **Expòrtan**|
 |     Sopportare   | **Soppòrto**| **Soppòrtas**| **Soppòrta**|   Sopportamos  |   Sopportates  | **Soppòrtan**|
 
-#### PLORARE
+### PLORARE
 |              |      Èo     |      Tu      |  Elle/Ella  |      Nós      |      Vós      |  Ellos/Ellas |
 |:------------:|:-----------:|:------------:|:-----------:|:-------------:|:-------------:|:------------:|
 |    Plorare   |  **Plòro** |  **Plòras** |  **Plòra** |    Ploramos   |    Plorates   |  **Plòran** |
 |   Explorare  | **Explòro**| **Explòras**| **Explòra**|   Exploramos  |   Explorates  | **Explòran**|
 |   Implorare  | **Implòro**| **Implòras**| **Implòra**|   Imploramos  |   Implorates  | **Implòran**|
 
-## 16.3.3. REGIONAL: Change in Stress
-### Change in Stress?
-The verbs below have a change in stress if one wants to follow the stress pattern seen in Latin or Italian.  In some verbs, this not only corresponds to a change in stress, but also the pronunciation of an open vowel. That being said, this is optional and more for informational purposes, like if someone wants to learn about Latin pronunciation or understand Italian pronunciation. It is worth noting that some verbs, like "evaporare" in Italian, accept both irregular and regular stress, but the irregular stress is more common in speech. 
-
-**The majority of modern Romance languages simply use regular stress**, which is to say, penultimate stress (the second to last syllable). 
-
-The common thread is that verbs derived from nouns retain the same stress in both the infinitive and conjugations as the base noun. Some shortcuts in pronunciation are the changes in stress for verbs ending in -icare or -itare.
-
-:::note
-
-Some verbs in Italian notably have stress that differ from Latin: "evitare", "educare" and "soffocare".
-
-:::
-
-
-### Change in Stress + Open E
-|                 |              Èo            |               Tu             |          Elle/Ella         |        Nós       |        Vós       |          Ellos/Ellas         |
-|:---------------:|:--------------------------:|:----------------------------:|:--------------------------:|:----------------:|:----------------:|:----------------------------:|
-|     Celebrare   |      Cèlebro / Celèbro     |      Cèlebras / Celèbras     |      Cèlebra / Celèbra     |     Celebramos   |     Celebrates   |      Cèlebran / Celèbran     |
-|     Generare    |       Gènero / Genèro      |       Gèneras / Genèras      |       Gènera / Genèra      |     Generamos    |     Generates    |       Gèneran / Genèran      |
-|     Hesitare    |       Hèsito / Hesito      |       Hèsitas / Hesitas      |       Hèsita / Hesita      |     Hesitamos    |     Hesitates    |       Hèsitan / Hesitan      |
-|    Hereditare   |     Herèdito / Heredito    |     Herèditas / Hereditas    |     Herèdita / Heredita    |    Hereditamos   |    Hereditates   |     Herèditan / Hereditan    |
-|     Penetrare   |      Pènetro / Penètro     |      Pènetras / Penètras     |      Pènetra / Penètra     |     Penetramos   |     Penetrates   |      Pènetran / Penètran     |
-|   Interpretare  |   Intèrpreto / Interpreto  |   Intèrpretas / Interpretas  |   Intèrpreta / Interpreta  |   Interpretamos  |   Interpretates  |   Intèrpretan / Interpretan  |
-|    Exercitare   |     Exèrcito / Exercito    |     Exèrcitas / Exercitas    |     Exèrcita / Exercita    |    Exercitamos   |    Exercitates   |     Exèrcitan / Exercitan    |
-|     Terminare   |      Tèrmino / Termino     |      Tèrminas / Terminas     |      Tèrmina / Termina     |     Terminamos   |     Terminates   |      Tèrminan / Terminan     |
-|    Determinare  |    Detèrmino / Determino   |    Detèrminas / Determinas   |    Detèrmina / Determina   |    Determinamos  |    Determinates  |    Detèrminan / Determinan   |
-|    Exterminare  |    Extèrmino / Extermino   |    Extèrminas / Exterminas   |    Extèrmina / Extermina   |    Exterminamos  |    Exterminates  |    Extèrminan / Exterminan   |
-|     Dedicare    |       Dèdico / Dedico      |        Dèdica / Dedica       |       Dèdica / Dedica      |     Dedicamos    |     Dedicates    |       Dèdican / Dedican      |
-|    Investigare  |    Invèstigo / Investigo   |    Invèstigas / Investigas   |    Invèstiga / Investiga   |    Investigamos  |    Investigates  |    Invèstigan / Investigate  |
-|     Meritare    |       Mèrito / Merito      |       Mèritas / Meritas      |       Mèrita / Merita      |     Meritamos    |     Meritates    |       Mèritan / Meritan      |
-|     Tremulare   |      Trèmulo / Tremulo     |      Trèmulas / Tremulas     |      Trèmula / Tremula     |     Tremulamos   |     Tremulates   |      Trèmulan / Tremulan     |
-|     Regulare    |       Règulo / Regulo      |       Règulas / Regulas      |       Règula / Regula      |     Regulamos    |     Regulates    |       Règulan / Regulan      |
-
-### Change in Stress + Open O
-|                |             Èo           |              Tu            |         Elle/Ella        |        Nós      |        Vós      |         Ellos/Ellas        |
-|:--------------:|:------------------------:|:--------------------------:|:------------------------:|:---------------:|:---------------:|:--------------------------:|
-|     Advocare   |      Àdvoco / Advòco     |      Àdvocas / Advòcas     |      Àdvoca / Advòca     |     Advocamos   |     Advocates   |      Àdvocan / Advòcan     |
-|    Collocare   |     Còlloco / Collòco    |     Còllocas / Collòcas    |     Còlloca / Collòca    |    Collocamos   |    Collocates   |     Còllocan / Collòcan    |
-|     Comodare   |      Còmodo / Comòdo     |      Còmodas / Comòdas     |      Còmoda / Comòda     |     Comodamos   |     Comodates   |      Còmodan / Comòdan     |
-|    Depositare  |    Depòsito / Deposito   |    Depòsitas / Depositas   |    Depòsita / Deposita   |    Depositamos  |    Depositates  |    Depòsitan / Depositan   |
-|     Evocare    |       Èvoco / Evòco      |       Èvocas / Evòcas      |       Èvoca / Evòca      |     Evocamos    |     Evocates    |       Èvocan / Evòcan      |
-|    Incomodare  |    Incòmodo / Incomòdo   |    Incòmodas / Incomòdas   |    Incòmoda / Incomòda   |    Incomodamos  |    Incomodates  |    Incòmodan / Incomòdan   |
-|   Incorporare  |   Incòrporo / Incorporo  |   Incòrporas / Incorporas  |   Incòrpora / Incorpora  |   Incorporamos  |   Incorporates  |   Incòrporan / Incorporan  |
-|     Moderare   |      Mòdero / Modero     |      Mòderas / Moderas     |      Mòdera / Modera     |     Moderamos   |     Moderates   |      Mòderan / Moderan     |
-|    Modificare  |    Mòdifico / Modifico   |    Mòdificas / Modificas   |    Mòdifica / Modifica   |    Modificamos  |    Modificates  |    Mòdifican / Modifican   |
-|     Obligare   |      Òbligo / Obligo     |      Òbligas / Obligas     |      Òbliga / Obliga     |     Obligamos   |     Obligates   |      Òbligan / Obligan     |
-|     Occupare   |      Òccupo / Occupo     |      Òccupas / Occupas     |      Òccupa / Occupa     |     Occupamos   |     Occupates   |      Òccupan / Occupan     |
-|     Operare    |       Òpero / Opero      |       Òperas / Operas      |       Òpera / Opera      |     Operamos    |     Operates    |       Òperan / Operan      |
-|   Preoccupare  |   Preòccupo / Preoccupo  |   Preòccupas / Preoccupas  |   Preòccupa / Preoccupa  |   Preoccupamos  |   Preoccupates  |   Preòccupan / Preoccupan  |
-|    Prosperare  |    Pròspero / Prospero   |    Pròsperas / Prosperas   |    Pròspera / Prospera   |    Prosperamos  |    Prosperates  |    Pròsperan / Prosperan   |
-|    Provocare   |     Pròvoco / Provòco    |     Pròvocas / Provòcas    |     Pròvoca / Provòca    |    Provocamos   |    Provocates   |     Pròvocan / Provòcan    |
-|     Tolerare   |      Tòlero / Tolero     |      Tòleras / Toleras     |      Tòlera / Tolera     |     Toleramos   |     Tolerates   |      Tòleran / Toleran     |
-|     Vomitare   |      Vòmito / Vomito     |      Vòmitas / Vomitas     |      Vòmita / Vomita     |     Vomitamos   |     Vomitates   |           Vòmitan          |
-
-
-### Change in Stress + Closed Vowel
-|                |             Èo           |              Tu            |         Elle/Ella        |        Nós      |        Vós      |         Ellos/Ellas        |
-|:--------------:|:------------------------:|:--------------------------:|:------------------------:|:---------------:|:---------------:|:--------------------------:|
-|    Accumulare  |    Accúmulo / Accumulo   |    Accúmulas / Accumulas   |    Accúmula / Accumula   |    Accumulamos  |    Accumulates  |    Accúmulan / Accumulan   |
-|    Allineare   |     Allíneo / Allineo    |     Allíneas / Allineas    |     Allínea / Allinea    |    Allineamos   |    Allineates   |     Allínean / Allinean    |
-|     Alterare   |      Àltero / Altero     |      Àlteras / Alteras     |      Àltera / Altera     |     Alteramos   |     Alterates   |      Àlteran / Alteran     |
-|    Applicare   |     Àpplico / Applico    |     Àpplicas / Applicas    |     Àpplica / Applica    |    Applicamos   |    Applicates   |     Àpplican / Applican    |
-|    Articulare  |    Artículo / Artículo   |    Artículas / Artículas   |    Artícula / Artícula   |    Articulamos  |    Articulates  |    Artículan / Artículan   |
-|    Assimilare  |    Assímilo / Assimilo   |    Assímilas / Assimilas   |    Assímila / Assimila   |    Assimilamos  |    Assimilates  |    Assímilan / Assimilan   |
-|    Calculare   |     Càlculo / Calculo    |     Càlculas / Calculas    |     Càlcula / Calcula    |    Calculamos   |    Calculates   |     Càlculan / Calculan    |
-|    Carrecare   |     Càrreco / Carreco    |      Càrrecas / Caracas    |     Càrreca / Carreca    |    Carrecamos   |    Carrecates   |     Càrrecan / Carrecan    |
-|    Circulare   |     Círculo / Circulo    |     Círculas / Circulas    |     Círcula / Circula    |    Circulamos   |    Circulates   |     Círculan / Circulan    |
-|   Collaborare  |   Collàboro / Collaboro  |   Collàboras / Collaboras  |   Collàbora / Collabora  |   Collaboramos  |   Collaborates  |   Collàboran / Collaboran  |
-|   Communicare  |   Commúnico / Communico  |   Commúnicas / Communicas  |   Commúnica / Communica  |   Communicamos  |   Communicates  |   Commúnican / Communican  |
-|   Considerare  |   Consídero / Considero  |   Consíderas / Consideras  |   Consídera / Considera  |   Consideramos  |   Considerates  |   Consíderan / Consideran  |
-|   Contaminare  |   Contàmino / Contamino  |   Contàminas / Contaminas  |   Contàmina / Contamina  |   Contaminamos  |   Contaminates  |   Contàminan / Contaminan  |
-|    Continuare  |    Contínuo / Continúo   |    Contínuas / Continúas   |    Contínua / Continúa   |    Continuamos  |    Continuates  |    Contínuan / Continúan   |
-|    Debilitare  |    Debílito / Debilito   |    Debílitas / Debilitas   |    Debílita / Debilita   |    Debilitamos  |    Debilitates  |    Debílitan / Debilitan   |
-|     Digitare   |      Dígito / Digito     |      Dígitas / Digitas     |      Dígita / Digita     |     Digitamos   |     Digitates   |      Dígitan / Digitan     |
-|    Dissipare   |     Díssipo / Dissipo    |     Díssipas / Dissipas    |     Díssipa / Dissipa    |    Dissipamos   |    Dissipates   |     Díssipan / Dissipan    |
-|     Dubitare   |      Dúbito / Dubito     |      Dúbitas / Dubitas     |      Dúbita / Dubita     |     Dubitamos   |     Dubitates   |      Dúbitan / Dubitan     |
-|    Enumerare   |     Enúmero / Enumero    |     Enúmeras / Enumeras    |     Enúmera / Enumera    |    Enumeramos   |    Enumerates   |     Enúmeran / Enumeran    |
-|    Evaporare   |     Evàporo / Evaporo    |     Evàporas / Evaporas    |     Evàpora / Evapora    |    Evaporamos   |    Evaporates   |     Evàporan / Evaporan    |
-|    Exagerare   |     Exàgero / Exagero    |     Exàgeras / Exageras    |     Exàgera / Exagera    |    Exageramos   |    Exagerates   |     Exàgeran / Exageran    |
-|    Examinare   |     Exàmino / Examino    |     Exàminas / Examinas    |     Exàmina / Examina    |    Examinamos   |    Examinates   |     Exàminan / Examinan    |
-|    Fabricare   |     Fàbrico / Fabrico    |     Fàbricas / Fabricas    |     Fàbrica / Fabrica    |    Fabricamos   |    Fabricates   |     Fàbrican / Fabrican    |
-|    Facilitare  |    Facílito / Facilito   |    Facílitas / Facilitas   |    Facílita / Facilita   |    Facilitamos  |    Facilitates  |    Facílitan / Facilitan   |
-|    Fascinare   |     Fàscino / Fascino    |     Fàscinas / Fascinas    |     Fàscina / Fascina    |    Fascinamos   |    Fascinates   |     Fàscinan / Fascinan    |
-|    Imaginare   |     Imàgino / Imagino    |     Imàginas / Imaginas    |     Imàgina / Imagina    |    Imaginamos   |    Imaginates   |     Imàginan / Imaginan    |
-|    Implicare   |     Ímplico / Implico    |     Ímplicas / Implicas    |     Ímplica / Implica    |    Implicamos   |    Implicates   |     Ímplican / Implican    |
-|     Indicare   |      Índico / Indico     |      Índicas / Indicas     |      Índica / Indica     |     Indicamos   |     Indicates   |      Índican / Indican     |
-|    Integrare   |     Íntegro / Integro    |     Íntegras / Integras    |     Íntegra / Integra    |    Integramos   |    Integrates   |     Íntegran / Integran    |
-|    Intimidare  |    Intímido / Intimido   |    Intímidas / Intimidas   |    Intímida / Intimida   |    Intimidamos  |    Intimidates  |    Intímidan / Intimidan   |
-|     Judicare   |      Júdico / Judico     |      Júdicas / Judicas     |      Júdica / Judica     |     Judicamos   |     Judicates   |      Júdican / Judican     |
-|     Liberare   |      Líbero / Libero     |      Líberas / Liberas     |      Líbera / Libera     |     Liberamos   |     Liberates   |      Líberan / Liberan     |
-|     Limitare   |      Límito / Limito     |      Límitas / Limitas     |      Límita / Limita     |     Limitamos   |     Limitates   |      Límitan / Limitan     |
-|    Manipulare  |    Manípulo / Manipulo   |    Manípulas / Manipulas   |    Manípula / Manipula   |    Manipulamos  |    Manipulates  |    Manípulan / Manipulan   |
-|     Navegare   |      Nàvego / Navego     |      Nàvegas / Navegas     |      Nàvega / Navega     |     Navegamos   |     Navegates   |      Nàvegan / Navegan     |
-|    Obliterare  |    Oblítero / Oblitero   |    Oblíteras / Obliteras   |    Oblítera / Oblitera   |    Obliteramos  |    Obliterates  |    Oblíteran / Obliteran   |
-|     Ordenare   |      Órdeno / Ordeno     |      Órdenas / Ordenas     |      Órdena / Ordena     |     Ordenamos   |     Ordenates   |      Órdenan / Ordenan     |
-|   Participare  |   Partícipo / Participo  |   Partícipas / Participas  |   Partícipa / Participa  |   Participamos  |   Participates  |   Partícipan / Participan  |
-|    Practicare  |    Pràctico / Practico   |    Pràcticas / Practicas   |    Pràctica / Practica   |    Practicamos  |    Practicates  |    Pràctican / Practican   |
-|    Publicare   |     Público / Publico    |     Públicas / Publicas    |     Pública / Publica    |    Publicamos   |    Publicates   |           Publican         |
-|   Reciprocare  |   Recíproco / Reciproco  |   Recíprocas / Reciprocas  |   Recíproca / Reciproca  |   Reciprocamos  |   Reciprocates  |   Recíprocan / Reciprocan  |
-|   Significare  |   Signífico / Significo  |   Signíficas / Significas  |   Signífica / Significa  |   Significamos  |   Significates  |   Signífican / Significan  |
-|   Sollicitare  |   Sollícito / Sollicito  |   Sollícitas / Sollicitas  |   Sollícita / Sollicita  |   Sollicitamos  |   Sollicitates  |   Sollícitan / Sollicitan  |
-|   Specificare  |   Specífico / Specifico  |   Specíficas / Specificas  |   Specífica / Specifica  |   Specificamos  |   Specificates  |   Specífican / Specifican  |
-|     Validare   |      Vàlido / Valido     |      Vàlidas / Validas     |      Vàlida / Valida     |     Validamos   |     Validates   |      Vàlidan / Validan     |
-|    Verificare  |    Verífico / Verifico   |    Veríficas / Verificas   |    Verífica / Verifica   |    Verificamos  |    Verificates  |    Verífican / Verifican   |
-|     Violare    |       Víolo / Violo      |       Víolas / Violas      |       Víola / Viola      |     Violamos    |     Violates    |       Víolan / Violan      |
