@@ -1,7 +1,7 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 ---
 
-# 16.6 Type 3: Irregular in Èo
+# 16.5 Type 3: Irregular in Èo
 
 Text
