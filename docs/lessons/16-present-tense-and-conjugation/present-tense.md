@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 16.2. The Present Tense
 
-# 16.2.1. Regular Verbs in the Present Tense
+## 16.2.1. Regular Verbs in the Present Tense
 To conjugate verbs, remove the ending of the infinitive and replace it with the conjugation that corresponds to the correct subject.
 
 For example, observe the first-person singular conjugation of the verb "cantare" [to sing].
