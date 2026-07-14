@@ -45,9 +45,9 @@ The conditional perfect, also known as the "past conditional", is used to descri
 The structure for the conditional perfect is as follows, depending on the language:
 |                           France and Italy                          |           Iberia (Portuguese, Spanish and Catalan)           |                                     Example                                     |      Translation      |
 |:-------------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:---------------------:|
-|     Conditional (Havere) + Past participle (Potere) + Infinitive    | Conditional (Potere) + Infinitive (Havere) + Past participle | (France/Italy) Havería potuto ajjutare. <br/> (Iberia) Devería havere ajjutato. |  I could have helped. |
+|     Conditional (Havere) + Past participle (Potere) + Infinitive    | Conditional (Potere) + Infinitive (Havere) + Past participle | (France/Italy) Havería potuto ajjutare. <br/> (Iberia) Potería havere ajjutato. |  I could have helped. |
 | Conditional (Havere/Èssere) + Past participle (Devere) + Infinitive | Conditional (Devere) + Infinitive (Havere) + Past participle | (France/Italy) Havería devuto ajjutare. <br/> (Iberia) Devería havere ajjutato. | I should have helped. |
-|            Conditional (Havere/Èssere) + Past participle            |            Conditional (Havere) + Past participle            | (France/Italy) Havería devuto ajjutare. <br/> (Iberia) Devería havere ajjutato. |  I would have helped. |
+|            Conditional (Havere/Èssere) + Past participle            |            Conditional (Havere) + Past participle            | Havería ajjutato. |  I would have helped. |
 
 The most notable differences between the structures is the placement of elements, such as the position of the infinitive and the past participle, as well as how each auxiliary verb is conjugated. The Iberian structure is more similar to the structure used in English.
 
