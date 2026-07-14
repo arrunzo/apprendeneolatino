@@ -16,6 +16,7 @@ Variable indefinite adjectives must agree with the noun it modifies in terms of 
 | (Un) altro / (Una) altra |    Another   |                      Un altro pèttso, per favore.                      |                      Another piece, please.                     |
 |  Necuno / Necún / Necuna |      No      |                       Necún hòmene èst una ísola.                      |                       No man is an island.                      |
 |        Toto / Tota       | Each / Every | Toto èssere humano èst nato líbero et equale en dignitate et derectos. | All human beings are born free and equal in dignity and rights. |
+|            Entègro / Entègra           |                   Entire                  |  Mangîai la pizza entègra.  |    I ate all the pizza.    |
 
 #### B. Plural
 |          Indefinite Adjective         |                       Translation                      |          Example         |         Translation        |
@@ -37,6 +38,7 @@ Variable indefinite adjectives must agree with the noun it modifies in terms of 
 |                  Tanto / Tantos / Tanta / Tantas                 |              So much / So many              |      Lo campo ha tantas flores. Lo campo èst tanto bèllo!     | The field has so many flowers. The field is so beautiful! |
 |              Divèrso / Divèrsos / Divèrsa / Divèrsas             |                  Different                  |              Lo gràfico contène colores divèrsos.             |           The graphic contains different colors.          |
 |            Distinto / Distintos / Distinta / Distintas           |                   Distinct                  |  La música house èst un distinto tipo de música electrònica.  |    House music is a distinct type of electronic music.    |
+|            Toto / Totos / Tota / Totas           |                   All                  |  Mangîai tota la pizza.  |    I ate all the pizza.    |
 
 ## Invariable
 Invariable indefinite adjectives do not change to agree with the noun it modifies in terms of gender or quantity.
