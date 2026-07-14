@@ -14,12 +14,16 @@ sidebar_position: 1
 | Vós / Vosaltros / Vosaltras | You all (plural) |
 | Ellos / Ellas | They |
 
-:::note
+In Neolatin, there is no such thing as an equivalent to the English word “it” (dummy pronoun) in impersonal expressions.
 
-In Neolatin, there is no such thing as an equivalent to the English word “it” in impersonal expressions.
-
-:::
 | EXAMPLE     | TRANSLATION      |
 | :-------------:|:-------------:|
 | Èst importante. | It is important. |
 | Face frégedo. | It is cold. |
+
+:::warning
+
+Some speakers of Brazilian Portuguese tend to use subject pronouns for inanimate objects or abstract concepts in a way that other languages would normally only use for human subjects. For example, "O que é a ética e por que ela é importante". Please avoid this practice.
+
+:::
+
