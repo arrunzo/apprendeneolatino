@@ -32,6 +32,8 @@ Neolatin presents this option, but it is not obligatory due to the absence of th
 | Stèfano ha cane? | Does Stèfano have a dog? |
 | Hao appontamènto vèneres. | I have an appointment on Friday. |
 
+The concept exists in Portuguese, but it is apparently less widespread than in Spanish. In practice, Spanish tends to omit indefinite articles that would be present in other languages. One example of this is in fixed phrases (ex: "Es broma").
+
 #### 2. The Indefinite Adjectives “Altro” and “Tale”
 Romance languages of the Iberian peninsula (Spanish, Portuguese and Catalan) and Romanian omit the indefinite article, whereas languages like French and Italian include the indefinite article. In the case of “tale”, it is in the sense of similarity.
 
@@ -252,7 +254,7 @@ Geographical features generally lose the definite article when used with the pre
 
 |       |       |
 |:-------------:|:-------------:|
-| Estao en Francia. | I am in France. |
+| So en Francia. | I am in France. |
 | Paris èst la civetate plus populosa de Francia. | Paris is the most populous city in France. |
 
 However, the definite article can optionally be restored when the noun is modified.
@@ -260,6 +262,12 @@ However, the definite article can optionally be restored when the noun is modifi
 |:-------------:|:-------------:|
 | Viaggîarai en la Euròpa Centrale. | I will travel to Central Europe. |
 
+#### 6. (GALLICISM) In Absolute Comparatives
+French uses the definite article to mark the absolute comparative. Most Romance languages do not have this characteristic.
+
+|       |       |
+|:-------------:|:-------------:|
+| Lo libro lo plus interessante / Lo libro plus interessante | The most interesting book |
 
 ## 3.2.3. When to Not Use Articles
 ### 1. Identity
@@ -297,7 +305,7 @@ When in the singular form, the words “cènto” (meaning “hundred) and “mi
 
 |       |       |
 |:-------------:|:-------------:|
-| Cueste vèllîo vídeojòco còsta cènto dollares. | This old video game costs one hundred dollars. |
+| Cueste vèllîo vídeojòco còsta cènto dòllares. | This old video game costs one hundred dollars. |
 | Cueste computatore còsta mille euros. | This computer costs one thousand euros. |
 
 ### 4. Numerals That Express Titles of Rulers
