@@ -58,6 +58,7 @@ These indefinite pronouns are **invariable**, which means that they never change
 |                   Plus                   |                  More                 |                 Ne vòllîo plus!                 |             I want more of it!             |
 |                La majjoría               |          The majority / Most          |    La majjoría viven pròpe de onde cresceron.   | The majority live near where they grew up. |
 |                La minoría                |              The minority             | Cuestas opiniones represèntan solo una minoría. |  These opinions represent only a minority. |
+|                Lo rèsto                |              The rest             | Guardarai lo rèsto. |  I will put away the rest. |
 
 ## 6.2.2. Using Indefinite Pronouns with "De"
 The use of an indefinite pronoun with the preposition "de" makes up a quantifier. In these cases, it expresses an indefinite quantity of something.
@@ -92,4 +93,7 @@ The indefinite pronouns below do not change for gender or quantity.
 |       Un pauco de       |   A little / Some   |                                               Un pauco de aqua.                                               |                                      Some water.                                      |
 |       Qualonque de      |        Any of       |                                 Qualonque de nós potería èssere lo colpàbile.                                 |                            Any of us could be the culprit.                            |
 |       Bastante de       |    Quite a lot of   |                                  Comprendei bastante de cuello que has dicto.                                 |                    I understood quite a lot of what you have said.                    |
+|                Lo rèsto de                |              The rest of             | Guardarai lo rèsto de lo alimènto. |  I will put away the rest of the food. |
 |        Necausa de       | Any (negative) / No | 1. Non sai necausa de anglese.<br/> 2. Non hi ha necausa de aqua en lo pottso.<br/> 3. Necausa (de) mentiras! | 1. I do not know any English.<br/> 2. There is no water in the well.<br/> 3. No lies! |
+
+Other options are units of measurements (ex: a liter of water), collective nouns (ex: a pack of wolves) or more abstract quantities (ex: a plethora of, a myriad of).
