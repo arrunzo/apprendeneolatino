@@ -290,7 +290,7 @@ sidebar_position: 4
 |               Ad mèjjo cammino              |                Halfway               |
 |                   Ad monte                  |               Upstream               |
 |                   Ad valle                  |              Downstream              |
-|         A lo lònge / En la distantia        |      In the distance / Far away      |
+|         Ad lo lònge / En la distantia        |      In the distance / Far away      |
 |           De lònge / Dès de lònge           |               From afar              |
 |                  Oltramare                  |               Overseas               |
 |              Ad portata de mano             |    Close at hand / In arm's reach    |
