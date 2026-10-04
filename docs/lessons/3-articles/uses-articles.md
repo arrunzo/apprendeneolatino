@@ -77,7 +77,7 @@ In Romance languages, it is required to use the definite article in some cases w
 |:-------------:|:-------------:|
 | Me dòle lo estòmaco. / Me face male lo estòmaco. | My stomach hurts. (Literally: It hurts me the stomach). |
 | Apre los òllîos! | Open your eyes! (Literally: Open the eyes!) |
-| Elle perdeu los oclares | He lost his glasses. (Literally: He lost the glasses.) |
+| Elle perdeu los oclares. | He lost his glasses. (Literally: He lost the glasses.) |
 
 #### 5. Set Phrases
 There are some set phrases involving places that require the definite article.
@@ -92,10 +92,10 @@ When talking about someone with a title, use the definite article.
 
 |       |       |
 |:-------------:|:-------------:|
-| Lo doctore Lopez èst colombiano. | Doctor Lopez is Colombian. |
+| Lo doctore López èst colombiano. | Doctor Lopez is Colombian. |
 | La professora Russo sape molto. | Professor Russo knows a lot. |
 
-Note that this rule does not apply for the title of “San” or “Santa”.
+Note that this rule does not apply for the title of "San"/"Santo" or "Santa".
 
 |       |       |
 |:-------------:|:-------------:|
@@ -105,7 +105,7 @@ When speaking directly to the person with the title in question, omit the defini
 
 |       |       |
 |:-------------:|:-------------:|
-| “Salve, Doctore Lopez!” | “Hello, Doctor Lopez!” |
+| “Salve, Doctore López!” | “Hello, Doctor Lopez!” |
 | “Como estates, Professora Russo?” | “How are you, Professor Russo?” |
 
 #### 7. Habitual Actions in the Week
@@ -275,13 +275,13 @@ When describing the identity of a person, avoiding using the indefinite article 
 
 |       |       |
 |:-------------:|:-------------:|
-| Lo sennîore Lopez èst professore. | Mister Lopez is a teacher. |
+| Lo sennîore López èst professore. | Mister Lopez is a teacher. |
 
 However, when an adjective is used to describe the person, the indefinite article is required.
 
 |       |       |
 |:-------------:|:-------------:|
-| Lo sennîore Lopez èst un professore rígido. | Mister Lopez is a strict teacher. |
+| Lo sennîore López èst un professore rígido. | Mister Lopez is a strict teacher. |
 
 In a similar manner, when using the word “como” to talk about a person’s identity, it is necessary to omit the indefinite article.
 
