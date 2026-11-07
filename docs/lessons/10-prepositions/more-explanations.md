@@ -6,7 +6,7 @@ sidebar_position: 2
 Some prepositions across different Romance languages are used in a particular way depending on the language. This section discusses these inconsistencies and provides recommendations for maximum intercomprehension in Neolatin.
 
 ## 10.2.1. Ad vs En
-|                                     USE                                    | LANGUAGE(S). |                                             EXAMPLE                                            |                              TRANSLATION                             | RECOMMENDATION |
+|                                     USE                                    | LANGUAGE(S) |                                             EXAMPLE                                            |                              TRANSLATION                             | RECOMMENDATION |
 |:--------------------------------------------------------------------------:|----------------------------------------|:----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------:|
 | Movement to a place <br/>(Continents, nations, states, regions and big islands) | 🇪🇸 Spanish<br/> 🇵🇹 Portuguese<br/>🇦🇩 Catalan | - Este verano voy a Italia.<br/>- Neste verão irei para a Itália.<br/>- Aquest estiu vaig a Itàlia. |  Cuesta estate vado en Italia.<br/>[This summer I will go to Italy.]  |       En       |
 |                           Time (Months and years)                          |         🇮🇹 Italian<br/>🇦🇩 Catalan         |            - A febbraio sono andato a Valencia.<br/>- Al febrer vaig anar a València.           | En febrario vadei ad Valèntia.<br/>[In February, I went to Valencia.] |       Ad       |
