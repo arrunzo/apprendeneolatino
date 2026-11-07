@@ -24,7 +24,7 @@ The following table lists particular uses of “da” in Italian and recommendat
 |                              Distance                             |   A cinque chilometri da qui.  |             Ad cinque kilòmetros de accuí.<br/>[Five kilometers from here.]             |       De       |
 | In the sense of “at” (The shop, someone’s house or the workplace) |        Sono dal medico.        |                       So ad lo mèdico.<br/>[I am at the doctor’s.]                      |       Ad       |
 |                        Purpose or function                        |        Occhiali da sole.       |                            Lèntes de sole.<br/>[Sunglasses.]                            |       De       |
-|                            Descriptions                           |  Un computer da duecento euro. |        Un computatore de doos-cèntos euros.<br/>[A two hundred dollar computer.]        |       De       |
+|                            Descriptions                           |  Un computer da duecento euro. |        Un computatore de doos-cèntos euros.<br/>[A two-hundred-euro computer.]        |       De       |
 |              An equivalent of the conjunction “como”              | Da amico devo dirti la verità. | Como amico devo dícere-te la veritate.<br/>[As a friend, I have to tell you the truth.] |      Como      |
 
 ## 10.2.3. En vs Sopre
