@@ -45,7 +45,7 @@ Like other Romance languages, Romanian inherits its prepositions, but due to its
 
 "Pe" comes from the Latin "per", conserving some key meanings like "through" and "approximately". However, unlike other languages, its meaning was also influenced by "super" (meaning "above" or "on top of") to mean "on" with contact.
 
-"De" was inherited from "dē", but has some key innovative meanings that make it different from direct cognates in other Romance languages. Some examples are "de" being the preposition that mark the agent of a passive verb (ex: A book written by Jose Martí), which was a function "ab" had in Latin, or indicating the reason behind something (ex: We cannot see because of the fog).
+"De" was inherited from "dē", but has some key innovative meanings that make it different from direct cognates in other Romance languages. Some examples are "de" being the preposition that mark the agent of a passive verb (ex: A book written by José Martí), which was a function "ab" had in Latin, or indicating the reason behind something (ex: We cannot see because of the fog).
 
 "Pentru" is an evolution of the Latin "per intrō", with a meaning closest to the original Latin "prō".
 
